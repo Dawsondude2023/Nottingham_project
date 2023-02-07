@@ -1201,3 +1201,866 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2023.02.07-15.42.28:541][419]LogActorComponent: ReregisterComponent: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.REINST_tram_2_1_C_0.TRASH_AudioComponent_1) Not currently registered. Aborting.
 [2023.02.07-15.42.28:541][419]LogActorComponent: ReregisterComponent: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.REINST_tram_2_1_C_0.TRASH_AudioComponent_9) Not currently registered. Aborting.
 [2023.02.07-15.42.28:595][420]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2023.02.07-15.42.44:680][ 89]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/ThirdPersonBP/radio/ui/test.test
+[2023.02.07-15.44.29:983][419]BlueprintLog: New page: Compile tram_2_1
+[2023.02.07-15.44.30:079][419]LogUObjectHash: Compacting FUObjectHashTables data took   6.30ms
+[2023.02.07-15.44.42:599][693]BlueprintLog: New page: Compile tram_2_1
+[2023.02.07-15.44.42:673][693]LogUObjectHash: Compacting FUObjectHashTables data took   5.93ms
+[2023.02.07-15.44.44:964][923]LogTemp: Repeating last play command: Selected Viewport
+[2023.02.07-15.44.44:972][923]BlueprintLog: New page: Pre-Play auto-recompile
+[2023.02.07-15.44.44:977][923]LogPlayLevel: [PlayLevel] Compiling test before play...
+[2023.02.07-15.44.45:153][923]LogUObjectHash: Compacting FUObjectHashTables data took   5.83ms
+[2023.02.07-15.44.45:154][923]LogPlayLevel: PlayLevel: Blueprint regeneration took 181 ms (1 blueprints)
+[2023.02.07-15.44.45:154][923]PIE: New page: PIE session: ThirdPersonExampleMap (7 Feb 2023, 15:44:45)
+[2023.02.07-15.44.45:154][923]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2023.02.07-15.44.45:162][923]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007839s)
+[2023.02.07-15.44.45:163][923]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2023.02.07-15.44.45:163][923]LogPlayLevel: PIE: World Init took: (0.001094s)
+[2023.02.07-15.44.45:163][923]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.009070s)
+[2023.02.07-15.44.45:195][923]LogUObjectHash: Compacting FUObjectHashTables data took   3.85ms
+[2023.02.07-15.44.45:196][923]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2023.02.07-15.44.45:196][923]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.02.07-15.44.45:196][923]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.02.07-15.44.45:196][923]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.02.07-15.44.45:196][923]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.02.07-15.44.45:196][923]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.02.07-15.44.45:196][923]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.02.07-15.44.45:196][923]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.02.07-15.44.45:196][923]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.02.07-15.44.45:197][923]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.02.07-15.44.45:197][923]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.02.07-15.44.45:197][923]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.02.07-15.44.45:197][923]LogAudioMixer: Display: Initializing audio mixer.
+[2023.02.07-15.44.45:208][923]LogAudioMixer: Display: 0: FrontLeft
+[2023.02.07-15.44.45:208][923]LogAudioMixer: Display: 1: FrontRight
+[2023.02.07-15.44.45:229][923]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2023.02.07-15.44.45:230][923]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.02.07-15.44.45:230][923]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.02.07-15.44.45:230][923]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.02.07-15.44.45:230][923]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.02.07-15.44.45:230][923]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.02.07-15.44.45:230][923]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.02.07-15.44.45:231][923]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.02.07-15.44.45:231][923]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.02.07-15.44.45:231][923]LogInit: FAudioDevice initialized.
+[2023.02.07-15.44.45:231][923]LogAudio: Display: Audio Device (ID: 7) registered with world 'ThirdPersonExampleMap'.
+[2023.02.07-15.44.45:241][923]LogLoad: Game class is 'GameModeBase'
+[2023.02.07-15.44.45:243][923]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2023.02.07-15.44.45
+[2023.02.07-15.44.45:243][923]LogWorld: Bringing up level for play took: 0.001459
+[2023.02.07-15.44.45:243][923]LogOnline: OSS: Creating online subsystem instance for: :Context_12
+[2023.02.07-15.44.45:245][923]PIE: Server logged in
+[2023.02.07-15.44.45:246][923]PIE: Play in editor total start time 0.276 seconds.
+[2023.02.07-15.44.50:454][452]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.07-15.44.50:454][452]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2023.02.07-15.44.50:454][452]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2023.02.07-15.44.50:455][452]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.07-15.44.50:467][452]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.02.07-15.44.50:479][452]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.07-15.44.50:506][452]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.07-15.44.50:506][452]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.02.07-15.44.50:507][452]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.02.07-15.44.50:515][452]LogUObjectHash: Compacting FUObjectHashTables data took   3.86ms
+[2023.02.07-15.44.50:522][452]LogActorComponent: ReregisterComponent: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.REINST_tram_2_1_C_0.TRASH_MediaSoundComponent_11.AudioComponent_0) Not currently registered. Aborting.
+[2023.02.07-15.44.50:522][452]LogActorComponent: ReregisterComponent: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.REINST_tram_2_1_C_0.TRASH_AudioComponent_1) Not currently registered. Aborting.
+[2023.02.07-15.44.50:522][452]LogActorComponent: ReregisterComponent: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.REINST_tram_2_1_C_0.TRASH_AudioComponent_9) Not currently registered. Aborting.
+[2023.02.07-15.44.50:522][452]LogActorComponent: ReregisterComponent: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.REINST_tram_2_1_C_1.TRASH_MediaSoundComponent_17.AudioComponent_1) Not currently registered. Aborting.
+[2023.02.07-15.44.50:522][452]LogActorComponent: ReregisterComponent: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.REINST_tram_2_1_C_1.TRASH_AudioComponent_0) Not currently registered. Aborting.
+[2023.02.07-15.44.50:522][452]LogActorComponent: ReregisterComponent: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.REINST_tram_2_1_C_1.TRASH_MediaSoundComponent_26.AudioComponent_1) Not currently registered. Aborting.
+[2023.02.07-15.44.50:522][452]LogActorComponent: ReregisterComponent: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.REINST_tram_2_1_C_1.TRASH_MediaSoundComponent_34.AudioComponent_1) Not currently registered. Aborting.
+[2023.02.07-15.44.50:569][453]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2023.02.07-15.46.33:987][234]BlueprintLog: New page: Compile tram_2_1
+[2023.02.07-15.46.34:055][234]LogUObjectHash: Compacting FUObjectHashTables data took   5.70ms
+[2023.02.07-15.46.36:452][479]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2023.02.07-15.46.36:452][479]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.07-15.46.36:462][479]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2023.02.07-15.46.36:462][479]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.07-15.46.38:792][717]LogTemp: Repeating last play command: Selected Viewport
+[2023.02.07-15.46.38:799][717]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.02.07-15.46.38:799][717]PIE: New page: PIE session: ThirdPersonExampleMap (7 Feb 2023, 15:46:38)
+[2023.02.07-15.46.38:841][717]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2023.02.07-15.46.38:852][717]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010562s)
+[2023.02.07-15.46.38:853][717]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2023.02.07-15.46.38:853][717]LogPlayLevel: PIE: World Init took: (0.001020s)
+[2023.02.07-15.46.38:853][717]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.011741s)
+[2023.02.07-15.46.38:911][717]LogUObjectHash: Compacting FUObjectHashTables data took   5.66ms
+[2023.02.07-15.46.38:914][717]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2023.02.07-15.46.38:914][717]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.02.07-15.46.38:914][717]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.02.07-15.46.38:914][717]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.02.07-15.46.38:914][717]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.02.07-15.46.38:914][717]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.02.07-15.46.38:914][717]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.02.07-15.46.38:914][717]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.02.07-15.46.38:914][717]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.02.07-15.46.38:915][717]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.02.07-15.46.38:915][717]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.02.07-15.46.38:915][717]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.02.07-15.46.38:915][717]LogAudioMixer: Display: Initializing audio mixer.
+[2023.02.07-15.46.38:926][717]LogAudioMixer: Display: 0: FrontLeft
+[2023.02.07-15.46.38:926][717]LogAudioMixer: Display: 1: FrontRight
+[2023.02.07-15.46.38:947][717]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2023.02.07-15.46.38:947][717]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.02.07-15.46.38:948][717]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.02.07-15.46.38:948][717]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.02.07-15.46.38:948][717]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.02.07-15.46.38:948][717]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.02.07-15.46.38:948][717]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.02.07-15.46.38:949][717]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.02.07-15.46.38:949][717]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.02.07-15.46.38:949][717]LogInit: FAudioDevice initialized.
+[2023.02.07-15.46.38:949][717]LogAudio: Display: Audio Device (ID: 8) registered with world 'ThirdPersonExampleMap'.
+[2023.02.07-15.46.38:956][717]LogLoad: Game class is 'GameModeBase'
+[2023.02.07-15.46.38:957][717]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2023.02.07-15.46.38
+[2023.02.07-15.46.38:958][717]LogWorld: Bringing up level for play took: 0.001350
+[2023.02.07-15.46.38:958][717]LogOnline: OSS: Creating online subsystem instance for: :Context_13
+[2023.02.07-15.46.38:960][717]PIE: Server logged in
+[2023.02.07-15.46.38:961][717]PIE: Play in editor total start time 0.163 seconds.
+[2023.02.07-15.47.11:525][997]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.07-15.47.11:525][997]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2023.02.07-15.47.11:525][997]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2023.02.07-15.47.11:525][997]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.07-15.47.11:537][997]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.02.07-15.47.11:548][997]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.07-15.47.11:569][997]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.07-15.47.11:571][997]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.02.07-15.47.11:572][997]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.02.07-15.47.11:607][997]LogUObjectHash: Compacting FUObjectHashTables data took   4.50ms
+[2023.02.07-15.47.11:615][997]LogActorComponent: ReregisterComponent: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.REINST_tram_2_1_C_0.TRASH_MediaSoundComponent_11.AudioComponent_0) Not currently registered. Aborting.
+[2023.02.07-15.47.11:615][997]LogActorComponent: ReregisterComponent: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.REINST_tram_2_1_C_0.TRASH_AudioComponent_1) Not currently registered. Aborting.
+[2023.02.07-15.47.11:615][997]LogActorComponent: ReregisterComponent: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.REINST_tram_2_1_C_0.TRASH_AudioComponent_9) Not currently registered. Aborting.
+[2023.02.07-15.47.11:615][997]LogActorComponent: ReregisterComponent: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.REINST_tram_2_1_C_1.TRASH_MediaSoundComponent_17.AudioComponent_1) Not currently registered. Aborting.
+[2023.02.07-15.47.11:615][997]LogActorComponent: ReregisterComponent: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.REINST_tram_2_1_C_1.TRASH_AudioComponent_0) Not currently registered. Aborting.
+[2023.02.07-15.47.11:615][997]LogActorComponent: ReregisterComponent: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.REINST_tram_2_1_C_1.TRASH_MediaSoundComponent_26.AudioComponent_1) Not currently registered. Aborting.
+[2023.02.07-15.47.11:615][997]LogActorComponent: ReregisterComponent: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.REINST_tram_2_1_C_1.TRASH_MediaSoundComponent_34.AudioComponent_1) Not currently registered. Aborting.
+[2023.02.07-15.47.11:615][997]LogActorComponent: ReregisterComponent: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.REINST_tram_2_1_C_2.TRASH_MediaSoundComponent_34.AudioComponent_1) Not currently registered. Aborting.
+[2023.02.07-15.47.11:615][997]LogActorComponent: ReregisterComponent: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.REINST_tram_2_1_C_2.TRASH_MediaSoundComponent_42.AudioComponent_1) Not currently registered. Aborting.
+[2023.02.07-15.47.11:615][997]LogActorComponent: ReregisterComponent: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.REINST_tram_2_1_C_2.TRASH_MediaSoundComponent_50.AudioComponent_1) Not currently registered. Aborting.
+[2023.02.07-15.47.11:615][997]LogActorComponent: ReregisterComponent: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.REINST_tram_2_1_C_2.TRASH_AudioComponent_1) Not currently registered. Aborting.
+[2023.02.07-15.47.11:652][998]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2023.02.07-15.47.16:615][457]BlueprintLog: New page: Compile tram_2_1
+[2023.02.07-15.47.16:672][457]LogUObjectHash: Compacting FUObjectHashTables data took   3.39ms
+[2023.02.07-15.47.18:583][628]LogTemp: Repeating last play command: Selected Viewport
+[2023.02.07-15.47.18:590][628]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.02.07-15.47.18:590][628]PIE: New page: PIE session: ThirdPersonExampleMap (7 Feb 2023, 15:47:18)
+[2023.02.07-15.47.18:590][628]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2023.02.07-15.47.18:601][628]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010451s)
+[2023.02.07-15.47.18:602][628]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2023.02.07-15.47.18:602][628]LogPlayLevel: PIE: World Init took: (0.001075s)
+[2023.02.07-15.47.18:602][628]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.011657s)
+[2023.02.07-15.47.18:628][628]LogUObjectHash: Compacting FUObjectHashTables data took   4.17ms
+[2023.02.07-15.47.18:629][628]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2023.02.07-15.47.18:629][628]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.02.07-15.47.18:629][628]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.02.07-15.47.18:630][628]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.02.07-15.47.18:630][628]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.02.07-15.47.18:630][628]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.02.07-15.47.18:630][628]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.02.07-15.47.18:630][628]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.02.07-15.47.18:630][628]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.02.07-15.47.18:630][628]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.02.07-15.47.18:630][628]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.02.07-15.47.18:630][628]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.02.07-15.47.18:630][628]LogAudioMixer: Display: Initializing audio mixer.
+[2023.02.07-15.47.18:642][628]LogAudioMixer: Display: 0: FrontLeft
+[2023.02.07-15.47.18:642][628]LogAudioMixer: Display: 1: FrontRight
+[2023.02.07-15.47.18:663][628]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2023.02.07-15.47.18:663][628]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.02.07-15.47.18:663][628]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.02.07-15.47.18:663][628]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.02.07-15.47.18:663][628]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.02.07-15.47.18:663][628]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.02.07-15.47.18:663][628]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.02.07-15.47.18:664][628]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.02.07-15.47.18:664][628]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.02.07-15.47.18:665][628]LogInit: FAudioDevice initialized.
+[2023.02.07-15.47.18:665][628]LogAudio: Display: Audio Device (ID: 9) registered with world 'ThirdPersonExampleMap'.
+[2023.02.07-15.47.18:674][628]LogLoad: Game class is 'GameModeBase'
+[2023.02.07-15.47.18:675][628]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2023.02.07-15.47.18
+[2023.02.07-15.47.18:675][628]LogWorld: Bringing up level for play took: 0.001390
+[2023.02.07-15.47.18:676][628]LogOnline: OSS: Creating online subsystem instance for: :Context_14
+[2023.02.07-15.47.18:678][628]PIE: Server logged in
+[2023.02.07-15.47.18:679][628]PIE: Play in editor total start time 0.09 seconds.
+[2023.02.07-15.47.26:094][310]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.07-15.47.26:094][310]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2023.02.07-15.47.26:095][310]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2023.02.07-15.47.26:095][310]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.07-15.47.26:109][310]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.02.07-15.47.26:119][310]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.07-15.47.26:140][310]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.02.07-15.47.26:140][310]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.02.07-15.47.26:141][310]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.02.07-15.47.26:144][310]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.07-15.47.26:148][310]LogUObjectHash: Compacting FUObjectHashTables data took   3.08ms
+[2023.02.07-15.47.26:154][310]LogActorComponent: ReregisterComponent: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.REINST_tram_2_1_C_0.TRASH_MediaSoundComponent_11.AudioComponent_0) Not currently registered. Aborting.
+[2023.02.07-15.47.26:155][310]LogActorComponent: ReregisterComponent: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.REINST_tram_2_1_C_0.TRASH_AudioComponent_1) Not currently registered. Aborting.
+[2023.02.07-15.47.26:155][310]LogActorComponent: ReregisterComponent: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.REINST_tram_2_1_C_0.TRASH_AudioComponent_9) Not currently registered. Aborting.
+[2023.02.07-15.47.26:155][310]LogActorComponent: ReregisterComponent: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.REINST_tram_2_1_C_1.TRASH_MediaSoundComponent_17.AudioComponent_1) Not currently registered. Aborting.
+[2023.02.07-15.47.26:155][310]LogActorComponent: ReregisterComponent: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.REINST_tram_2_1_C_1.TRASH_AudioComponent_0) Not currently registered. Aborting.
+[2023.02.07-15.47.26:155][310]LogActorComponent: ReregisterComponent: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.REINST_tram_2_1_C_1.TRASH_MediaSoundComponent_26.AudioComponent_1) Not currently registered. Aborting.
+[2023.02.07-15.47.26:155][310]LogActorComponent: ReregisterComponent: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.REINST_tram_2_1_C_1.TRASH_MediaSoundComponent_34.AudioComponent_1) Not currently registered. Aborting.
+[2023.02.07-15.47.26:155][310]LogActorComponent: ReregisterComponent: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.REINST_tram_2_1_C_2.TRASH_MediaSoundComponent_34.AudioComponent_1) Not currently registered. Aborting.
+[2023.02.07-15.47.26:155][310]LogActorComponent: ReregisterComponent: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.REINST_tram_2_1_C_2.TRASH_MediaSoundComponent_42.AudioComponent_1) Not currently registered. Aborting.
+[2023.02.07-15.47.26:155][310]LogActorComponent: ReregisterComponent: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.REINST_tram_2_1_C_2.TRASH_MediaSoundComponent_50.AudioComponent_1) Not currently registered. Aborting.
+[2023.02.07-15.47.26:155][310]LogActorComponent: ReregisterComponent: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.REINST_tram_2_1_C_2.TRASH_AudioComponent_1) Not currently registered. Aborting.
+[2023.02.07-15.47.26:194][311]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2023.02.07-15.47.35:446][114]BlueprintLog: New page: Pre-Play auto-recompile
+[2023.02.07-15.47.35:447][114]LogPlayLevel: [PlayLevel] Compiling tram_2_1 before play...
+[2023.02.07-15.47.35:519][114]LogUObjectHash: Compacting FUObjectHashTables data took   5.90ms
+[2023.02.07-15.47.35:522][114]LogPlayLevel: PlayLevel: Blueprint regeneration took 75 ms (1 blueprints)
+[2023.02.07-15.47.35:522][114]PIE: New page: SIE session: ThirdPersonExampleMap (7 Feb 2023, 15:47:35)
+[2023.02.07-15.47.35:542][114]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2023.02.07-15.47.35:550][114]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008113s)
+[2023.02.07-15.47.35:551][114]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2023.02.07-15.47.35:551][114]LogPlayLevel: PIE: World Init took: (0.001213s)
+[2023.02.07-15.47.35:551][114]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.009468s)
+[2023.02.07-15.47.35:576][114]LogUObjectHash: Compacting FUObjectHashTables data took   3.07ms
+[2023.02.07-15.47.35:577][114]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2023.02.07-15.47.35:577][114]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.02.07-15.47.35:577][114]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.02.07-15.47.35:577][114]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.02.07-15.47.35:577][114]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.02.07-15.47.35:577][114]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.02.07-15.47.35:577][114]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.02.07-15.47.35:577][114]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.02.07-15.47.35:577][114]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.02.07-15.47.35:578][114]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.02.07-15.47.35:578][114]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.02.07-15.47.35:578][114]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.02.07-15.47.35:578][114]LogAudioMixer: Display: Initializing audio mixer.
+[2023.02.07-15.47.35:589][114]LogAudioMixer: Display: 0: FrontLeft
+[2023.02.07-15.47.35:589][114]LogAudioMixer: Display: 1: FrontRight
+[2023.02.07-15.47.35:610][114]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2023.02.07-15.47.35:610][114]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.02.07-15.47.35:610][114]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.02.07-15.47.35:610][114]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.02.07-15.47.35:610][114]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.02.07-15.47.35:611][114]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.02.07-15.47.35:611][114]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.02.07-15.47.35:612][114]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.02.07-15.47.35:612][114]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.02.07-15.47.35:612][114]LogInit: FAudioDevice initialized.
+[2023.02.07-15.47.35:612][114]LogAudio: Display: Audio Device (ID: 10) registered with world 'ThirdPersonExampleMap'.
+[2023.02.07-15.47.35:619][114]LogLoad: Game class is 'GameModeBase'
+[2023.02.07-15.47.35:621][114]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2023.02.07-15.47.35
+[2023.02.07-15.47.35:621][114]LogWorld: Bringing up level for play took: 0.001412
+[2023.02.07-15.47.35:621][114]LogOnline: OSS: Creating online subsystem instance for: :Context_15
+[2023.02.07-15.47.35:623][114]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2023.02.07-15.47.35:623][114]PIE: Server logged in
+[2023.02.07-15.47.35:624][114]PIE: Play in editor total start time 0.181 seconds.
+[2023.02.07-15.47.50:455][321]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.07-15.47.50:455][321]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2023.02.07-15.47.50:455][321]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2023.02.07-15.47.50:456][321]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.07-15.47.50:466][321]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.02.07-15.47.50:476][321]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.07-15.47.50:496][321]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.07-15.47.50:497][321]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.02.07-15.47.50:498][321]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.02.07-15.47.50:504][321]LogUObjectHash: Compacting FUObjectHashTables data took   3.06ms
+[2023.02.07-15.47.50:512][321]LogActorComponent: ReregisterComponent: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.REINST_tram_2_1_C_0.TRASH_MediaSoundComponent_11.AudioComponent_0) Not currently registered. Aborting.
+[2023.02.07-15.47.50:512][321]LogActorComponent: ReregisterComponent: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.REINST_tram_2_1_C_0.TRASH_AudioComponent_1) Not currently registered. Aborting.
+[2023.02.07-15.47.50:512][321]LogActorComponent: ReregisterComponent: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.REINST_tram_2_1_C_0.TRASH_AudioComponent_9) Not currently registered. Aborting.
+[2023.02.07-15.47.50:512][321]LogActorComponent: ReregisterComponent: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.REINST_tram_2_1_C_1.TRASH_MediaSoundComponent_17.AudioComponent_1) Not currently registered. Aborting.
+[2023.02.07-15.47.50:512][321]LogActorComponent: ReregisterComponent: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.REINST_tram_2_1_C_1.TRASH_AudioComponent_0) Not currently registered. Aborting.
+[2023.02.07-15.47.50:512][321]LogActorComponent: ReregisterComponent: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.REINST_tram_2_1_C_1.TRASH_MediaSoundComponent_26.AudioComponent_1) Not currently registered. Aborting.
+[2023.02.07-15.47.50:512][321]LogActorComponent: ReregisterComponent: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.REINST_tram_2_1_C_1.TRASH_MediaSoundComponent_34.AudioComponent_1) Not currently registered. Aborting.
+[2023.02.07-15.47.50:512][321]LogActorComponent: ReregisterComponent: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.REINST_tram_2_1_C_2.TRASH_MediaSoundComponent_34.AudioComponent_1) Not currently registered. Aborting.
+[2023.02.07-15.47.50:512][321]LogActorComponent: ReregisterComponent: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.REINST_tram_2_1_C_2.TRASH_MediaSoundComponent_42.AudioComponent_1) Not currently registered. Aborting.
+[2023.02.07-15.47.50:512][321]LogActorComponent: ReregisterComponent: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.REINST_tram_2_1_C_2.TRASH_MediaSoundComponent_50.AudioComponent_1) Not currently registered. Aborting.
+[2023.02.07-15.47.50:512][321]LogActorComponent: ReregisterComponent: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.REINST_tram_2_1_C_2.TRASH_AudioComponent_1) Not currently registered. Aborting.
+[2023.02.07-15.47.50:550][322]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2023.02.07-15.48.08:617][162]BlueprintLog: New page: Compile tram_2_1
+[2023.02.07-15.48.08:673][162]LogUObjectHash: Compacting FUObjectHashTables data took   3.42ms
+[2023.02.07-15.48.10:301][314]LogTemp: Repeating last play command: Simulate
+[2023.02.07-15.48.10:309][314]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.02.07-15.48.10:309][314]PIE: New page: SIE session: ThirdPersonExampleMap (7 Feb 2023, 15:48:10)
+[2023.02.07-15.48.10:309][314]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2023.02.07-15.48.10:320][314]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010958s)
+[2023.02.07-15.48.10:321][314]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2023.02.07-15.48.10:321][314]LogPlayLevel: PIE: World Init took: (0.001281s)
+[2023.02.07-15.48.10:321][314]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.012391s)
+[2023.02.07-15.48.10:350][314]LogUObjectHash: Compacting FUObjectHashTables data took   4.34ms
+[2023.02.07-15.48.10:351][314]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2023.02.07-15.48.10:351][314]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.02.07-15.48.10:351][314]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.02.07-15.48.10:351][314]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.02.07-15.48.10:351][314]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.02.07-15.48.10:351][314]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.02.07-15.48.10:351][314]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.02.07-15.48.10:351][314]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.02.07-15.48.10:351][314]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.02.07-15.48.10:352][314]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.02.07-15.48.10:352][314]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.02.07-15.48.10:352][314]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.02.07-15.48.10:352][314]LogAudioMixer: Display: Initializing audio mixer.
+[2023.02.07-15.48.10:364][314]LogAudioMixer: Display: 0: FrontLeft
+[2023.02.07-15.48.10:364][314]LogAudioMixer: Display: 1: FrontRight
+[2023.02.07-15.48.10:384][314]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2023.02.07-15.48.10:385][314]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.02.07-15.48.10:385][314]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.02.07-15.48.10:385][314]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.02.07-15.48.10:385][314]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.02.07-15.48.10:385][314]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.02.07-15.48.10:385][314]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.02.07-15.48.10:386][314]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.02.07-15.48.10:386][314]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.02.07-15.48.10:386][314]LogInit: FAudioDevice initialized.
+[2023.02.07-15.48.10:386][314]LogAudio: Display: Audio Device (ID: 11) registered with world 'ThirdPersonExampleMap'.
+[2023.02.07-15.48.10:400][314]LogLoad: Game class is 'GameModeBase'
+[2023.02.07-15.48.10:401][314]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2023.02.07-15.48.10
+[2023.02.07-15.48.10:401][314]LogWorld: Bringing up level for play took: 0.001421
+[2023.02.07-15.48.10:402][314]LogOnline: OSS: Creating online subsystem instance for: :Context_16
+[2023.02.07-15.48.10:403][314]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2023.02.07-15.48.10:404][314]PIE: Server logged in
+[2023.02.07-15.48.10:405][314]PIE: Play in editor total start time 0.098 seconds.
+[2023.02.07-15.48.10:411][314]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.10:430][315]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.10:440][316]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.10:452][317]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.10:467][318]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.10:479][319]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.10:492][320]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.10:538][321]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.10:554][322]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.10:568][323]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.10:583][324]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.10:598][325]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.10:613][326]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.10:627][327]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.10:643][328]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.10:659][329]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.10:714][330]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.10:730][331]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.10:746][332]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.10:762][333]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.10:777][334]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.10:787][335]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.10:797][336]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.10:807][337]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.10:816][338]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.10:826][339]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.10:836][340]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.10:846][341]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.10:855][342]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.10:865][343]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.10:875][344]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.10:884][345]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.10:894][346]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.10:904][347]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.10:914][348]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.10:923][349]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.10:933][350]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.10:943][351]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.10:953][352]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.10:962][353]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.10:972][354]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.10:982][355]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.10:997][356]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.11:011][357]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.11:021][358]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.11:031][359]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.11:040][360]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.11:050][361]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.11:060][362]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.11:070][363]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.11:085][364]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.11:094][365]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.11:104][366]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.11:114][367]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.11:128][368]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.11:143][369]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.11:158][370]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.11:168][371]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.11:177][372]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.11:187][373]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.11:197][374]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.11:207][375]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.11:216][376]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.11:226][377]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.11:236][378]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.11:246][379]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.11:256][380]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.11:266][381]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.11:276][382]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.11:286][383]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.11:296][384]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.11:306][385]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.11:316][386]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.11:325][387]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.11:335][388]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.11:345][389]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.11:355][390]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.11:365][391]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.11:374][392]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.11:385][393]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.11:394][394]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.11:404][395]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.11:414][396]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.11:424][397]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.11:434][398]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.11:444][399]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.11:453][400]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.11:463][401]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.11:474][402]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.11:489][403]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.11:499][404]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.11:513][405]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.11:528][406]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.11:543][407]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.11:558][408]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.11:573][409]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.11:583][410]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.11:593][411]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.11:603][412]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.11:612][413]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.11:622][414]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.11:632][415]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.11:642][416]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.11:652][417]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.11:662][418]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.11:672][419]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.11:682][420]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.11:691][421]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.11:701][422]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.11:711][423]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.11:721][424]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.11:732][425]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.11:742][426]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.11:752][427]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.11:762][428]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.11:772][429]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.11:782][430]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.11:797][431]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.11:811][432]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.11:826][433]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.11:841][434]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.11:851][435]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.11:861][436]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.11:871][437]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.11:881][438]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.11:891][439]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.11:901][440]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.11:910][441]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.11:920][442]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.11:930][443]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.11:940][444]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.11:950][445]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.11:960][446]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.11:970][447]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.11:980][448]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.11:989][449]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.11:999][450]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.12:009][451]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.12:019][452]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.12:029][453]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.12:039][454]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.12:049][455]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.12:059][456]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.12:069][457]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.12:079][458]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.12:088][459]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.12:098][460]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.12:108][461]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.12:118][462]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.12:128][463]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.12:138][464]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.12:147][465]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.12:157][466]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.12:167][467]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.12:179][468]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.12:194][469]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.12:209][470]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.12:225][471]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.12:240][472]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.12:255][473]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.12:271][474]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.12:286][475]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.12:301][476]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.12:316][477]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.12:333][478]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.12:370][479]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.12:381][480]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.12:391][481]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.12:401][482]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.12:411][483]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.12:421][484]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.12:431][485]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.12:440][486]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.12:450][487]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.12:460][488]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.12:470][489]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.12:480][490]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.12:491][491]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.12:502][492]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.12:513][493]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.12:524][494]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.12:535][495]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.12:546][496]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.12:557][497]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.12:568][498]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.12:585][499]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.12:596][500]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.12:606][501]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.12:618][502]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.12:634][503]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.12:644][504]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.12:654][505]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.12:665][506]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.12:675][507]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.12:685][508]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.12:695][509]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.12:705][510]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.12:715][511]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.12:725][512]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.12:735][513]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.12:745][514]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.12:756][515]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.12:766][516]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.12:777][517]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.12:788][518]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.12:799][519]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.12:810][520]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.12:820][521]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.12:831][522]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.12:842][523]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.12:853][524]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.12:863][525]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.12:873][526]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.12:883][527]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.12:893][528]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.13:935][632]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.07-15.48.13:935][632]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2023.02.07-15.48.13:936][632]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2023.02.07-15.48.13:936][632]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.07-15.48.13:946][632]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.02.07-15.48.13:957][632]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.07-15.48.13:976][632]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.02.07-15.48.13:977][632]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.02.07-15.48.13:978][632]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.02.07-15.48.13:980][632]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.07-15.48.13:985][632]LogUObjectHash: Compacting FUObjectHashTables data took   3.06ms
+[2023.02.07-15.48.13:991][632]LogActorComponent: ReregisterComponent: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.REINST_tram_2_1_C_0.TRASH_MediaSoundComponent_11.AudioComponent_0) Not currently registered. Aborting.
+[2023.02.07-15.48.13:991][632]LogActorComponent: ReregisterComponent: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.REINST_tram_2_1_C_0.TRASH_AudioComponent_1) Not currently registered. Aborting.
+[2023.02.07-15.48.13:991][632]LogActorComponent: ReregisterComponent: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.REINST_tram_2_1_C_0.TRASH_AudioComponent_9) Not currently registered. Aborting.
+[2023.02.07-15.48.13:991][632]LogActorComponent: ReregisterComponent: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.REINST_tram_2_1_C_1.TRASH_MediaSoundComponent_17.AudioComponent_1) Not currently registered. Aborting.
+[2023.02.07-15.48.13:991][632]LogActorComponent: ReregisterComponent: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.REINST_tram_2_1_C_1.TRASH_AudioComponent_0) Not currently registered. Aborting.
+[2023.02.07-15.48.13:991][632]LogActorComponent: ReregisterComponent: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.REINST_tram_2_1_C_1.TRASH_MediaSoundComponent_26.AudioComponent_1) Not currently registered. Aborting.
+[2023.02.07-15.48.13:991][632]LogActorComponent: ReregisterComponent: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.REINST_tram_2_1_C_1.TRASH_MediaSoundComponent_34.AudioComponent_1) Not currently registered. Aborting.
+[2023.02.07-15.48.13:991][632]LogActorComponent: ReregisterComponent: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.REINST_tram_2_1_C_2.TRASH_MediaSoundComponent_34.AudioComponent_1) Not currently registered. Aborting.
+[2023.02.07-15.48.13:991][632]LogActorComponent: ReregisterComponent: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.REINST_tram_2_1_C_2.TRASH_MediaSoundComponent_42.AudioComponent_1) Not currently registered. Aborting.
+[2023.02.07-15.48.13:991][632]LogActorComponent: ReregisterComponent: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.REINST_tram_2_1_C_2.TRASH_MediaSoundComponent_50.AudioComponent_1) Not currently registered. Aborting.
+[2023.02.07-15.48.13:991][632]LogActorComponent: ReregisterComponent: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.REINST_tram_2_1_C_2.TRASH_AudioComponent_1) Not currently registered. Aborting.
+[2023.02.07-15.48.14:027][633]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2023.02.07-15.48.19:110][158]LogTemp: Repeating last play command: Simulate
+[2023.02.07-15.48.19:118][158]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.02.07-15.48.19:118][158]PIE: New page: SIE session: ThirdPersonExampleMap (7 Feb 2023, 15:48:19)
+[2023.02.07-15.48.19:118][158]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2023.02.07-15.48.19:128][158]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010432s)
+[2023.02.07-15.48.19:129][158]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2023.02.07-15.48.19:130][158]LogPlayLevel: PIE: World Init took: (0.001315s)
+[2023.02.07-15.48.19:130][158]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.011900s)
+[2023.02.07-15.48.19:157][158]LogUObjectHash: Compacting FUObjectHashTables data took   3.06ms
+[2023.02.07-15.48.19:159][158]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2023.02.07-15.48.19:159][158]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.02.07-15.48.19:159][158]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.02.07-15.48.19:159][158]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.02.07-15.48.19:159][158]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.02.07-15.48.19:159][158]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.02.07-15.48.19:159][158]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.02.07-15.48.19:159][158]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.02.07-15.48.19:159][158]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.02.07-15.48.19:160][158]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.02.07-15.48.19:160][158]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.02.07-15.48.19:160][158]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.02.07-15.48.19:160][158]LogAudioMixer: Display: Initializing audio mixer.
+[2023.02.07-15.48.19:172][158]LogAudioMixer: Display: 0: FrontLeft
+[2023.02.07-15.48.19:172][158]LogAudioMixer: Display: 1: FrontRight
+[2023.02.07-15.48.19:192][158]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2023.02.07-15.48.19:192][158]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.02.07-15.48.19:192][158]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.02.07-15.48.19:192][158]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.02.07-15.48.19:193][158]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.02.07-15.48.19:193][158]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.02.07-15.48.19:193][158]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.02.07-15.48.19:194][158]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.02.07-15.48.19:194][158]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.02.07-15.48.19:194][158]LogInit: FAudioDevice initialized.
+[2023.02.07-15.48.19:194][158]LogAudio: Display: Audio Device (ID: 12) registered with world 'ThirdPersonExampleMap'.
+[2023.02.07-15.48.19:204][158]LogLoad: Game class is 'GameModeBase'
+[2023.02.07-15.48.19:206][158]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2023.02.07-15.48.19
+[2023.02.07-15.48.19:206][158]LogWorld: Bringing up level for play took: 0.001416
+[2023.02.07-15.48.19:206][158]LogOnline: OSS: Creating online subsystem instance for: :Context_17
+[2023.02.07-15.48.19:208][158]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2023.02.07-15.48.19:208][158]PIE: Server logged in
+[2023.02.07-15.48.19:209][158]PIE: Play in editor total start time 0.093 seconds.
+[2023.02.07-15.48.19:216][158]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.19:234][159]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.19:244][160]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.19:254][161]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.19:263][162]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.19:273][163]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.19:282][164]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.19:292][165]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.19:301][166]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.19:311][167]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.19:320][168]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.19:330][169]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.19:339][170]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.19:349][171]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.19:359][172]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.19:383][173]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.19:393][174]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.19:404][175]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.19:414][176]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.19:430][177]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.19:472][178]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.19:505][179]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.19:519][180]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.19:533][181]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.19:547][182]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.19:561][183]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.19:575][184]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.19:589][185]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.19:603][186]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.19:616][187]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.19:631][188]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.19:646][189]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.19:660][190]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.19:675][191]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.19:689][192]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.19:703][193]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.19:717][194]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.19:731][195]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.19:744][196]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.19:759][197]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.19:773][198]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.19:786][199]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.19:800][200]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.19:814][201]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.19:827][202]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.19:845][203]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.19:855][204]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.19:864][205]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.19:874][206]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.19:884][207]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.19:894][208]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.19:904][209]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.19:914][210]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.19:923][211]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.19:933][212]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.19:943][213]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.19:954][214]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.19:964][215]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.19:973][216]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.19:983][217]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.19:993][218]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.20:002][219]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.20:013][220]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.20:022][221]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.20:033][222]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.20:043][223]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.20:053][224]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.20:063][225]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.20:073][226]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.20:085][227]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.20:095][228]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.20:105][229]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.20:115][230]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.20:125][231]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.20:134][232]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.20:144][233]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.20:154][234]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.20:164][235]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.20:174][236]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.20:184][237]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.20:194][238]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.20:204][239]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.20:213][240]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.20:223][241]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.20:233][242]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.20:242][243]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.20:252][244]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.20:262][245]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.20:272][246]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.20:282][247]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.20:292][248]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.20:302][249]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.20:312][250]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.20:322][251]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.20:332][252]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.20:342][253]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.20:352][254]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.20:362][255]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.20:373][256]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.20:383][257]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.20:393][258]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.20:404][259]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.20:414][260]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.20:425][261]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.20:435][262]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.20:445][263]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.20:455][264]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.20:465][265]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.20:475][266]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.20:486][267]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.20:496][268]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.20:507][269]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.20:516][270]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.20:527][271]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.20:536][272]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.20:546][273]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.20:556][274]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.20:566][275]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.20:576][276]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.20:586][277]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.20:596][278]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.20:606][279]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.20:616][280]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.20:626][281]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.20:635][282]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.20:645][283]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.20:655][284]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.20:665][285]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.20:675][286]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.20:685][287]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.20:695][288]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.20:705][289]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.20:715][290]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.20:725][291]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.20:735][292]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.20:745][293]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.20:755][294]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.20:765][295]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.20:775][296]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.20:785][297]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.20:795][298]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.20:805][299]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.20:815][300]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.20:826][301]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.20:836][302]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.20:846][303]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.20:856][304]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.20:866][305]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.20:876][306]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.20:886][307]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.20:896][308]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.20:906][309]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.20:916][310]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.20:927][311]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.20:937][312]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.20:947][313]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.20:957][314]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.20:967][315]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.20:977][316]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.20:989][317]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.20:999][318]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.21:009][319]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.21:019][320]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.21:029][321]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.21:039][322]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.21:049][323]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.21:059][324]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.21:069][325]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.21:080][326]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.21:090][327]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.21:100][328]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.21:109][329]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.21:119][330]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.21:130][331]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.21:140][332]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.21:150][333]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.21:161][334]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.21:171][335]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.21:181][336]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.21:191][337]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.21:201][338]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.21:211][339]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.21:221][340]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.21:231][341]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.21:241][342]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.21:251][343]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.21:261][344]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.21:271][345]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.21:281][346]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.21:291][347]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.21:301][348]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.21:312][349]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.21:322][350]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.21:333][351]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.21:343][352]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.21:353][353]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.21:363][354]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.21:373][355]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.21:383][356]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.21:393][357]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.21:403][358]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.21:415][359]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.21:425][360]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.21:435][361]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.21:445][362]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.21:455][363]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.21:464][364]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.21:475][365]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.21:485][366]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.21:494][367]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.21:504][368]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.21:514][369]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.21:524][370]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.21:534][371]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.21:544][372]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.21:554][373]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.21:564][374]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.21:574][375]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.21:584][376]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.21:594][377]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.21:604][378]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.21:615][379]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.21:624][380]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.21:635][381]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.21:644][382]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.21:655][383]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.21:665][384]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.21:675][385]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.21:686][386]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.21:697][387]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.21:706][388]LogBlueprintUserMessages: [tram_2_6] tram stop 1
+[2023.02.07-15.48.36:845][917]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.07-15.48.36:845][917]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2023.02.07-15.48.36:846][917]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2023.02.07-15.48.36:846][917]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.07-15.48.36:859][917]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.02.07-15.48.36:870][917]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.07-15.48.36:890][917]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.07-15.48.36:891][917]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.02.07-15.48.36:891][917]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.02.07-15.48.36:898][917]LogUObjectHash: Compacting FUObjectHashTables data took   3.02ms
+[2023.02.07-15.48.36:906][917]LogActorComponent: ReregisterComponent: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.REINST_tram_2_1_C_0.TRASH_MediaSoundComponent_11.AudioComponent_0) Not currently registered. Aborting.
+[2023.02.07-15.48.36:906][917]LogActorComponent: ReregisterComponent: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.REINST_tram_2_1_C_0.TRASH_AudioComponent_1) Not currently registered. Aborting.
+[2023.02.07-15.48.36:906][917]LogActorComponent: ReregisterComponent: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.REINST_tram_2_1_C_0.TRASH_AudioComponent_9) Not currently registered. Aborting.
+[2023.02.07-15.48.36:906][917]LogActorComponent: ReregisterComponent: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.REINST_tram_2_1_C_1.TRASH_MediaSoundComponent_17.AudioComponent_1) Not currently registered. Aborting.
+[2023.02.07-15.48.36:906][917]LogActorComponent: ReregisterComponent: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.REINST_tram_2_1_C_1.TRASH_AudioComponent_0) Not currently registered. Aborting.
+[2023.02.07-15.48.36:906][917]LogActorComponent: ReregisterComponent: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.REINST_tram_2_1_C_1.TRASH_MediaSoundComponent_26.AudioComponent_1) Not currently registered. Aborting.
+[2023.02.07-15.48.36:906][917]LogActorComponent: ReregisterComponent: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.REINST_tram_2_1_C_1.TRASH_MediaSoundComponent_34.AudioComponent_1) Not currently registered. Aborting.
+[2023.02.07-15.48.36:906][917]LogActorComponent: ReregisterComponent: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.REINST_tram_2_1_C_2.TRASH_MediaSoundComponent_34.AudioComponent_1) Not currently registered. Aborting.
+[2023.02.07-15.48.36:906][917]LogActorComponent: ReregisterComponent: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.REINST_tram_2_1_C_2.TRASH_MediaSoundComponent_42.AudioComponent_1) Not currently registered. Aborting.
+[2023.02.07-15.48.36:906][917]LogActorComponent: ReregisterComponent: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.REINST_tram_2_1_C_2.TRASH_MediaSoundComponent_50.AudioComponent_1) Not currently registered. Aborting.
+[2023.02.07-15.48.36:906][917]LogActorComponent: ReregisterComponent: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.REINST_tram_2_1_C_2.TRASH_AudioComponent_1) Not currently registered. Aborting.
+[2023.02.07-15.48.36:943][918]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2023.02.07-15.48.57:762][830]BlueprintLog: New page: Compile tram_2_1
+[2023.02.07-15.48.57:818][830]LogUObjectHash: Compacting FUObjectHashTables data took   3.41ms
+[2023.02.07-15.49.03:095][364]LogSlate: Window 'tram_2_1' being destroyed
+[2023.02.07-15.49.03:098][364]LogSlate: Window 'tram_2_1' being destroyed
+[2023.02.07-15.49.03:132][364]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2023.02.07-15.49.03:132][364]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.07-15.49.25:497][430]LogUObjectHash: Compacting FUObjectHashTables data took   5.36ms
+[2023.02.07-15.49.25:521][430]LogSavePackage: Moving '../../../../../../../New folder (8)/github/Nottingham_project/MyProject 4.27- mainproject/Saved/ThirdPersonExampleMap_Auto1366A9F184DF9548626C95AA195804F31.tmp' to '../../../../../../../New folder (8)/github/Nottingham_project/MyProject 4.27- mainproject/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto1.umap'
+[2023.02.07-15.49.25:526][430]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.073
+[2023.02.07-15.49.25:526][430]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.073
+[2023.02.07-15.49.25:526][430]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/ThirdPersonBP/prototype_folder/tram_2/tram_2_1] ([2] browsable assets)...
+[2023.02.07-15.49.25:560][430]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonBP/prototype_folder/tram_2/tram_2_1.tram_2_1]
+[2023.02.07-15.49.25:560][430]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/prototype_folder/tram_2/tram_2_1]
+[2023.02.07-15.49.25:587][430]LogSavePackage: Moving '../../../../../../../New folder (8)/github/Nottingham_project/MyProject 4.27- mainproject/Saved/tram_2_1_Auto174CE8BA64EC1CF045252B6AB98D54112.tmp' to '../../../../../../../New folder (8)/github/Nottingham_project/MyProject 4.27- mainproject/Saved/Autosaves/Game/ThirdPersonBP/prototype_folder/tram_2/tram_2_1_Auto1.uasset'
+[2023.02.07-15.49.25:591][430]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPersonBP/radio/ui/test] ([2] browsable assets)...
+[2023.02.07-15.49.25:591][430]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/radio/ui/test]
+[2023.02.07-15.49.25:599][430]LogSavePackage: Moving '../../../../../../../New folder (8)/github/Nottingham_project/MyProject 4.27- mainproject/Saved/test_Auto191FCA651423B2615909D3B8E27096FEE.tmp' to '../../../../../../../New folder (8)/github/Nottingham_project/MyProject 4.27- mainproject/Saved/Autosaves/Game/ThirdPersonBP/radio/ui/test_Auto1.uasset'
+[2023.02.07-15.49.25:602][430]LogFileHelpers: Auto-saving content packages took 0.076
