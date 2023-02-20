@@ -1441,3 +1441,60 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2023.02.20-11.56.16:592][909]OBJ SavePackage: Finished generating thumbnails for package [/Game/main_core/signs/market_square/sign]
 [2023.02.20-11.56.16:600][909]LogSavePackage: Moving '../../../../../../../New folder (8)/github/Nottingham_project/CIR_Nottingham main branch/Saved/sign_Auto197FC482D44D6E9A2EAD2C6973C30D6FF.tmp' to '../../../../../../../New folder (8)/github/Nottingham_project/CIR_Nottingham main branch/Saved/Autosaves/Game/main_core/signs/market_square/sign_Auto1.uasset'
 [2023.02.20-11.56.16:602][909]LogFileHelpers: Auto-saving content packages took 0.022
+[2023.02.20-12.15.10:986][549]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/main_core/signs/sign_model/sign.sign
+[2023.02.20-12.15.13:709][808]LogSlate: Window 'sign' being destroyed
+[2023.02.20-12.15.16:157][ 98]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2023.02.20-12.15.16:157][ 98]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.20-12.15.24:024][992]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.02.20-12.15.24:036][992]LogContentBrowser: Creating deferred item: NewFolder
+[2023.02.20-12.15.25:900][216]LogContentBrowser: Attempting asset rename: NewFolder -> NewFolder
+[2023.02.20-12.15.25:901][216]LogContentBrowser: End creating deferred item NewFolder
+[2023.02.20-12.15.45:194][467]LogContentBrowser: Attempting asset rename: sign_model -> theatue_royal
+[2023.02.20-12.15.45:327][467]LogMetaData: Removing '/Game/main_core/signs/theatue_royal/sign.sign' ref from Metadata '/Game/main_core/signs/sign_model/sign.PackageMetaData'
+[2023.02.20-12.15.45:371][467]LogSavePackage: Moving '../../../../../../../New folder (8)/github/Nottingham_project/CIR_Nottingham main branch/Saved/M_SignC6D9419140502E0A8711F7B1E0BB1833.tmp' to '../../../../../../../New folder (8)/github/Nottingham_project/CIR_Nottingham main branch/Content/main_core/signs/theatue_royal/M_Sign.uasset'
+[2023.02.20-12.15.45:390][467]LogSavePackage: Moving '../../../../../../../New folder (8)/github/Nottingham_project/CIR_Nottingham main branch/Saved/sign00FB8AE5413F630BBCDC6DAFF6B95317.tmp' to '../../../../../../../New folder (8)/github/Nottingham_project/CIR_Nottingham main branch/Content/main_core/signs/theatue_royal/sign.uasset'
+[2023.02.20-12.15.45:459][467]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2023.02.20-12.15.45:468][467]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2023.02.20-12.15.45:477][467]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2023.02.20-12.15.45:481][467]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2023.02.20-12.15.45:516][467]AssetCheck: New page: Asset Save: multiple assets
+[2023.02.20-12.15.45:516][467]LogContentValidation: Display: Validating Material /Game/main_core/signs/theatue_royal/M_Sign.M_Sign
+[2023.02.20-12.15.45:516][467]LogContentValidation: Display: Validating StaticMesh /Game/main_core/signs/theatue_royal/sign.sign
+[2023.02.20-12.15.51:254][137]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/main_core/signs/theatre_royal/sign.sign
+[2023.02.20-12.15.54:465][435]LogSlate: Window 'sign' being destroyed
+[2023.02.20-12.15.57:075][747]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2023.02.20-12.15.57:075][747]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.20-12.16.02:054][324]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/main_core/signs/theatue_royal/sign.sign
+[2023.02.20-12.16.04:256][524]LogSlate: Window 'sign' being destroyed
+[2023.02.20-12.16.06:974][846]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2023.02.20-12.16.06:975][846]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.20-12.16.11:522][372]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/main_core/signs/theatre_royal/theatre_royal_copy.theatre_royal_copy
+[2023.02.20-12.16.30:494][508]LogSlate: Window 'theatre_royal_copy' being destroyed
+[2023.02.20-12.16.52:005][635]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/main_core/signs/theatre_royal/theatre_royal_copy.theatre_royal_copy
+[2023.02.20-12.17.12:539][ 86]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/main_core/signs/theatue_royal/sign.sign
+[2023.02.20-12.17.14:543][279]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2023.02.20-12.17.14:543][279]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.20-12.17.15:906][419]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/main_core/signs/theatue_royal/M_Sign.M_Sign
+[2023.02.20-12.17.15:907][419]LogMaterial: Display: Missing cached shadermap for M_Sign in PCD3D_SM5, Default, SM5 (DDC key hash: 92544DBF2704CB81AAC789D8E59E6FC0954DE79A), compiling. 
+[2023.02.20-12.17.15:924][419]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.02.20-12.17.15:924][419]LogShaderCompilers: Display: Total job queries 570, among them cache hits 106 (18.60%)
+[2023.02.20-12.17.15:924][419]LogShaderCompilers: Display: Tracking 272 distinct input hashes that result in 124 distinct outputs (45.59%)
+[2023.02.20-12.17.15:924][419]LogShaderCompilers: Display: RAM used: 0.59 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.07%
+[2023.02.20-12.17.15:924][419]LogShaderCompilers: Display: ================================================
+[2023.02.20-12.17.15:981][419]LogMaterial: Display: Missing cached shadermap for M_Sign in PCD3D_SM5, Default, SM5 (DDC key hash: 7E46DEA17973388F846B51F9BD03FF5A17AC2F72), compiling. 
+[2023.02.20-12.17.15:983][419]LogMaterial: Display: Missing cached shadermap for M_Sign in PCD3D_SM5, Default, SM5 (DDC key hash: 570590D3D33333C804BE0F9175BB95411C761F6F), compiling. 
+[2023.02.20-12.17.15:985][419]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 1545A5C712DDD2396962F86C66D51E33CBFDFF0F), compiling. 
+[2023.02.20-12.17.15:987][419]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 1F253AFB8579BCDD2C90435D0D8BCC8000D703AB), compiling. 
+[2023.02.20-12.17.15:994][419]MaterialEditorStats: Texture samplers: 0/16
+[2023.02.20-12.17.15:994][419]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2023.02.20-12.17.15:994][419]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.02.20-12.17.16:084][420]MaterialEditorStats: Base pass shader: 126 instructions
+[2023.02.20-12.17.16:084][420]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 200 instructions
+[2023.02.20-12.17.16:084][420]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2023.02.20-12.17.16:084][420]MaterialEditorStats: Texture samplers: 3/16
+[2023.02.20-12.17.16:084][420]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2023.02.20-12.17.16:084][420]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.02.20-12.20.35:102][134]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.02.20-12.20.35:124][134]LogContentBrowser: Creating deferred item: NewFolder
+[2023.02.20-12.20.37:012][359]LogContentBrowser: Attempting asset rename: NewFolder -> tram
+[2023.02.20-12.20.37:013][359]LogContentBrowser: End creating deferred item NewFolder
