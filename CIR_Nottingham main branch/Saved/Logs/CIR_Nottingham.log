@@ -7577,3 +7577,58 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2023.02.20-14.05.54:831][ 26]LogShaderCompilers: Display: RAM used: 0.05 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.01%
 [2023.02.20-14.05.54:831][ 26]LogShaderCompilers: Display: ================================================
 [2023.02.20-14.05.55:222][ 28]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2023.02.20-14.05.58:342][ 35]LightingResults: Warning: TramShelterStop Object has overlapping UVs.
+[2023.02.20-14.05.58:342][ 35]LightingResults: TramShelterStop Lightmap UV are overlapping by 24.6%. Please adjust content - Enable Error Coloring to visualize.
+[2023.02.20-14.05.58:342][ 35]LightingResults: Warning: TramShelterStop Object has overlapping UVs.
+[2023.02.20-14.05.58:342][ 35]LightingResults: TramShelterStop Lightmap UV are overlapping by 24.6%. Please adjust content - Enable Error Coloring to visualize.
+[2023.02.20-14.05.58:342][ 35]LightingResults: Warning: TramShelterStop Object has overlapping UVs.
+[2023.02.20-14.05.58:342][ 35]LightingResults: TramShelterStop Lightmap UV are overlapping by 24.6%. Please adjust content - Enable Error Coloring to visualize.
+[2023.02.20-14.05.58:342][ 35]LightingResults: Warning: TramShelterStop Object has overlapping UVs.
+[2023.02.20-14.05.58:342][ 35]LightingResults: TramShelterStop Lightmap UV are overlapping by 24.6%. Please adjust content - Enable Error Coloring to visualize.
+[2023.02.20-14.05.59:670][ 39]Job is a success!
+[2023.02.20-14.06.00:203][ 40]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.020s
+[2023.02.20-14.06.00:203][ 40]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2023.02.20-14.06.00:203][ 40]LogVolumetricLightmapImport:      BrickData (all levels) 0.0Mb
+[2023.02.20-14.06.00:203][ 40]LogVolumetricLightmapImport:      Bricks at depth
+[2023.02.20-14.06.00:203][ 40]LogVolumetricLightmapImport:          0: 10.0% covering 100.0% of volume
+[2023.02.20-14.06.00:203][ 40]LogVolumetricLightmapImport:          1: 40.0% covering 6.2% of volume
+[2023.02.20-14.06.00:203][ 40]LogVolumetricLightmapImport:          2: 50.0% covering 0.1% of volume
+[2023.02.20-14.06.00:203][ 40]LogVolumetricLightmapImport:      Bricks in each level
+[2023.02.20-14.06.00:203][ 40]LogVolumetricLightmapImport:          ThirdPersonExampleMap 			 10 bricks 	 100.0% (Persistent Level)
+[2023.02.20-14.06.00:372][ 40]LogTexture: Display: Building textures: SkyOcclusion1_1 (OODLE_AutoDXT, 1024X512)
+[2023.02.20-14.06.00:372][ 40]LogTexture: Display: Building textures: HQ_Lightmap1_1 (OODLE_AutoDXT, 1024X1024)
+[2023.02.20-14.06.00:372][ 40]LogTextureFormatOodle: Display: non-RDO encode 1024 x 512 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.02.20-14.06.00:372][ 40]LogTexture: Display: Building textures: SkyOcclusion1_2 (OODLE_AutoDXT, 512X256)
+[2023.02.20-14.06.00:372][ 40]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (OODLE_DXT1, 1024X1024)
+[2023.02.20-14.06.00:372][ 40]LogTexture: Display: Building textures: HQ_Lightmap1_2 (OODLE_AutoDXT, 512X512)
+[2023.02.20-14.06.00:372][ 40]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (OODLE_DXT1, 512X512)
+[2023.02.20-14.06.00:372][ 40]LogTexture: Display: Building textures: SkyOcclusion1_3 (OODLE_AutoDXT, 128X64)
+[2023.02.20-14.06.00:372][ 40]LogTexture: Display: Building textures: HQ_Lightmap1_3 (OODLE_AutoDXT, 128X128)
+[2023.02.20-14.06.00:373][ 40]LogTexture: Display: Building textures: LQ_Lightmap_1_3 (OODLE_DXT1, 128X128)
+[2023.02.20-14.06.00:373][ 40]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.02.20-14.06.00:373][ 40]LogTexture: Display: Building textures: SkyOcclusion0_4 (OODLE_AutoDXT, 128X64)
+[2023.02.20-14.06.00:373][ 40]LogTexture: Display: Building textures: HQ_Lightmap0_4 (OODLE_AutoDXT, 128X128)
+[2023.02.20-14.06.00:373][ 40]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.02.20-14.06.00:373][ 40]LogTexture: Display: Building textures: LQ_Lightmap_0_4 (OODLE_DXT1, 128X128)
+[2023.02.20-14.06.00:373][ 40]LogTexture: Display: Building textures: SkyOcclusion1_5 (OODLE_AutoDXT, 128X64)
+[2023.02.20-14.06.00:373][ 40]LogTexture: Display: Building textures: HQ_Lightmap1_5 (OODLE_AutoDXT, 128X128)
+[2023.02.20-14.06.00:373][ 40]LogTexture: Display: Building textures: LQ_Lightmap_1_5 (OODLE_DXT1, 128X128)
+[2023.02.20-14.06.00:373][ 40]LogTexture: Display: Building textures: SkyOcclusion1_6 (OODLE_AutoDXT, 128X64)
+[2023.02.20-14.06.00:373][ 40]LogTexture: Display: Building textures: HQ_Lightmap1_6 (OODLE_AutoDXT, 128X128)
+[2023.02.20-14.06.00:373][ 40]LogTexture: Display: Building textures: LQ_Lightmap_1_6 (OODLE_DXT1, 128X128)
+[2023.02.20-14.06.00:373][ 40]LogTexture: Display: Building textures: SkyOcclusion1_7 (OODLE_AutoDXT, 64X32)
+[2023.02.20-14.06.00:373][ 40]LogTexture: Display: Building textures: HQ_Lightmap1_7 (OODLE_AutoDXT, 64X64)
+[2023.02.20-14.06.00:373][ 40]LogTexture: Display: Building textures: LQ_Lightmap_1_7 (OODLE_DXT1, 64X64)
+[2023.02.20-14.06.00:580][ 40]LogTexture: Display: Building textures: ShadowMapTexture2D_2 (G8, 64X64)
+[2023.02.20-14.06.00:580][ 40]LogTexture: Display: Building textures: ShadowMapTexture2D_3 (G8, 64X64)
+[2023.02.20-14.06.00:580][ 40]LogTexture: Display: Building textures: ShadowMapTexture2D_4 (G8, 64X64)
+[2023.02.20-14.06.00:580][ 40]LogTexture: Display: Building textures: ShadowMapTexture2D_5 (G8, 64X64)
+[2023.02.20-14.06.00:580][ 40]LogTexture: Display: Building textures: ShadowMapTexture2D_6 (G8, 32X32)
+[2023.02.20-14.06.00:580][ 40]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (G8, 1024X128)
+[2023.02.20-14.06.00:580][ 40]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (G8, 512X512)
+[2023.02.20-14.06.00:580][ 40]Lightmass on LIAMSPC: 3.79 sec total, 123 ms importing, 20 ms setup, 901 ms photons, 2.61 sec processing, 0 ms extra exporting [12/12 mappings]. Threads: 28.7 sec total, 3.08 sec processing.
+[2023.02.20-14.06.00:592][ 40]LogStaticLightingSystem: ThirdPersonExampleMap_BuiltData storing lightmap data for 12 meshes in 7 LightmapResourceClusters (1.7 Meshes per cluster).
+[2023.02.20-14.06.00:610][ 40]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2023.02.20-14.06.00:624][ 40]LogStaticLightingSystem: Illumination: 11.3 sec (173 ms encoding lightmaps, 65 ms encoding shadowmaps)
+[2023.02.20-14.06.00:624][ 40]LogStaticLightingSystem: Lightmap texture memory:  3.5 MB (3.5 MB streaming, 0.0 MB non-streaming), 14 textures
+[2023.02.20-14.06.00:624][ 40]LogStaticLightingSystem: Shadowmap texture memory: 0.5 MB (0.5 MB streaming, 0.0 MB non-streaming), 7 textures
