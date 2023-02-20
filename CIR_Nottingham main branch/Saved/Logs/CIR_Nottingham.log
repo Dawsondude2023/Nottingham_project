@@ -1032,3 +1032,13 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2023.02.20-13.27.59:515][356]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
 [2023.02.20-13.27.59:560][356]LogUObjectHash: Compacting FUObjectHashTables data took   3.05ms
 [2023.02.20-13.27.59:581][357]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2023.02.20-13.36.40:150][737]LogUObjectHash: Compacting FUObjectHashTables data took   2.46ms
+[2023.02.20-13.36.40:173][737]LogSavePackage: Moving '../../../../../../../New folder (8)/github/Nottingham_project/CIR_Nottingham main branch/Saved/ThirdPersonExampleMap6CCBB8B64C1D19E7C69AA6A5DEDD9363.tmp' to '../../../../../../../New folder (8)/github/Nottingham_project/CIR_Nottingham main branch/Content/main_core/Maps/ThirdPersonExampleMap.umap'
+[2023.02.20-13.36.40:407][737]LogSavePackage: Moving '../../../../../../../New folder (8)/github/Nottingham_project/CIR_Nottingham main branch/Saved/ThirdPersonExampleMap_BuiltDataFDD7F7A84B89C122FB2E218ACB704B84.tmp' to '../../../../../../../New folder (8)/github/Nottingham_project/CIR_Nottingham main branch/Content/main_core/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2023.02.20-13.36.40:422][737]AssetCheck: New page: Asset Save: multiple assets
+[2023.02.20-13.36.40:422][737]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/main_core/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2023.02.20-13.36.40:423][737]LogContentValidation: Display: Validating World /Game/main_core/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2023.02.20-13.36.44:073][941]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2023.02.20-13.37.05:935][850]LogUObjectHash: Compacting FUObjectHashTables data took   3.68ms
+[2023.02.20-13.37.08:921][850]LogSlate: Window 'Save Content' being destroyed
+[2023.02.20-13.37.33:270][182]LogSlate: Window 'Project Settings' being destroyed
