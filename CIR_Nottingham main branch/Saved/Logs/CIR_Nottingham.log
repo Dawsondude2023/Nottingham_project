@@ -10856,3 +10856,9 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2023.02.20-14.09.06:540][257]LogActorComponent: ReregisterComponent: (/Game/main_core/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.tram_2_2.TRASH_AudioComponent_11887) Not currently registered. Aborting.
 [2023.02.20-14.09.06:540][257]LogActorComponent: ReregisterComponent: (/Game/main_core/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.tram_2_2.TRASH_AudioComponent_11896) Not currently registered. Aborting.
 [2023.02.20-14.09.06:556][258]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2023.02.20-14.16.15:544][941]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2023.02.20-14.16.15:578][941]LogSavePackage: Moving '../../../../../../../New folder (8)/github/Nottingham_project/CIR_Nottingham main branch/Saved/ThirdPersonExampleMap_Auto3981606394C559F9C57A10EB459516D7F.tmp' to '../../../../../../../New folder (8)/github/Nottingham_project/CIR_Nottingham main branch/Saved/Autosaves/Game/main_core/Maps/ThirdPersonExampleMap_Auto3.umap'
+[2023.02.20-14.16.15:582][941]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/main_core/Maps/ThirdPersonExampleMap' took 0.053
+[2023.02.20-14.16.15:582][941]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.053
+[2023.02.20-14.26.15:968][734]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2023.02.20-14.26.15:970][734]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/main_core/Maps/ThirdPersonExampleMap' took 0.016
