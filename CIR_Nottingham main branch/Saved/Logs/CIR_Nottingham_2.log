@@ -10,52 +10,55 @@ LogConsoleResponse: Display: Failed to find resolution value strings in scalabil
 LogInit: Display: Running engine for game: CIR_Nottingham
 LogPlatformFile: Not using cached read wrapper
 LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
-LogStats: Stats thread started at 1.984154
+LogStats: Stats thread started at 11.855984
 LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +0:00, Platform Override: ''
 LogInit: Display: Loading text-based GConfig....
 LogPluginManager: Mounting plugin MeshPainting
 LogPluginManager: Mounting plugin XGEController
-LogPluginManager: Mounting plugin Paper2D
-LogPluginManager: Mounting plugin AISupport
-LogPluginManager: Mounting plugin EnvironmentQueryEditor
-LogPluginManager: Mounting plugin LiveLink
 LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin OodleData
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin OodleNetwork
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin DatasmithContent
 LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin AssetManagerEditor
 LogPluginManager: Mounting plugin GameplayCameras
-LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GeometryMode
 LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
 LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
-LogPluginManager: Mounting plugin NullSourceCodeAccess
-LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
 LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
 LogPluginManager: Mounting plugin PerforceSourceControl
 LogPluginManager: Mounting plugin PixWinPlugin
 LogPluginManager: Mounting plugin PlasticSourceControl
-LogPluginManager: Mounting plugin PluginUtils
 LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin PluginUtils
 LogPluginManager: Mounting plugin RiderSourceCodeAccess
 LogPluginManager: Mounting plugin SubversionSourceControl
-LogPluginManager: Mounting plugin AssetManagerEditor
 LogPluginManager: Mounting plugin TextureFormatOodle
+LogPluginManager: Mounting plugin AlembicImporter
 LogPluginManager: Mounting plugin UObjectPlugin
 LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
 LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
 LogPluginManager: Mounting plugin XCodeSourceCodeAccess
-LogPluginManager: Mounting plugin CryptoKeys
-LogPluginManager: Mounting plugin DataValidation
-LogPluginManager: Mounting plugin CurveEditorTools
-LogPluginManager: Mounting plugin FacialAnimation
-LogPluginManager: Mounting plugin GameplayTagsEditor
-LogPluginManager: Mounting plugin GeometryMode
-LogPluginManager: Mounting plugin MacGraphicsSwitching
-LogPluginManager: Mounting plugin MaterialAnalyzer
-LogPluginManager: Mounting plugin MobileLauncherProfileWizard
-LogPluginManager: Mounting plugin PluginBrowser
-LogPluginManager: Mounting plugin SpeedTreeImporter
-LogPluginManager: Mounting plugin DatasmithContent
-LogPluginManager: Mounting plugin AlembicImporter
-LogPluginManager: Mounting plugin VariantManagerContent
 LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin Niagara
 LogPluginManager: Mounting plugin BackChannel
 LogPluginManager: Mounting plugin ChaosCloth
 LogPluginManager: Mounting plugin ChaosClothEditor
@@ -63,55 +66,56 @@ LogPluginManager: Mounting plugin ChaosEditor
 LogPluginManager: Mounting plugin ChaosSolverPlugin
 LogPluginManager: Mounting plugin ChaosNiagara
 LogPluginManager: Mounting plugin CharacterAI
-LogPluginManager: Mounting plugin Niagara
 LogPluginManager: Mounting plugin GeometryCache
 LogPluginManager: Mounting plugin GeometryCollectionPlugin
-LogPluginManager: Mounting plugin GeometryProcessing
-LogPluginManager: Mounting plugin MotoSynth
-LogPluginManager: Mounting plugin OpenImageDenoise
-LogPluginManager: Mounting plugin PlanarCut
-LogPluginManager: Mounting plugin PlatformCrypto
-LogPluginManager: Mounting plugin ProxyLODPlugin
-LogPluginManager: Mounting plugin PythonScriptPlugin
-LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
 LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MediaPlayerEditor
 LogPluginManager: Mounting plugin MagicLeap
 LogPluginManager: Mounting plugin MagicLeapLightEstimation
 LogPluginManager: Mounting plugin MagicLeapMedia
 LogPluginManager: Mounting plugin MagicLeapPassableWorld
-LogPluginManager: Mounting plugin AndroidMedia
-LogPluginManager: Mounting plugin MLSDK
-LogPluginManager: Mounting plugin AvfMedia
-LogPluginManager: Mounting plugin ImgMedia
-LogPluginManager: Mounting plugin MediaCompositing
-LogPluginManager: Mounting plugin MediaPlayerEditor
 LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin GeometryProcessing
 LogPluginManager: Mounting plugin WmfMedia
-LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin OpenImageDenoise
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
 LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin LauncherChunkInstaller
 LogPluginManager: Mounting plugin ActorSequence
-LogPluginManager: Mounting plugin MatineeToLevelSequence
 LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
 LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin PythonScriptPlugin
 LogPluginManager: Mounting plugin OnlineSubsystem
 LogPluginManager: Mounting plugin OnlineSubsystemNull
-LogPluginManager: Mounting plugin LauncherChunkInstaller
 LogPluginManager: Mounting plugin OnlineSubsystemUtils
 LogPluginManager: Mounting plugin ActorLayerUtilities
 LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
 LogPluginManager: Mounting plugin AndroidMoviePlayer
 LogPluginManager: Mounting plugin AndroidPermission
-LogPluginManager: Mounting plugin AppleMoviePlayer
 LogPluginManager: Mounting plugin AppleImageUtils
-LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AppleMoviePlayer
 LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
 LogPluginManager: Mounting plugin AudioCapture
 LogPluginManager: Mounting plugin AudioSynesthesia
-LogPluginManager: Mounting plugin CableComponent
-LogPluginManager: Mounting plugin CustomMeshComponent
 LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin CableComponent
 LogPluginManager: Mounting plugin EditableMesh
 LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Takes
+LogPluginManager: Mounting plugin ScreenshotTools
 LogPluginManager: Mounting plugin GoogleCloudMessaging
 LogPluginManager: Mounting plugin GooglePAD
 LogPluginManager: Mounting plugin IOSDeviceProfileSelector
@@ -128,18 +132,14 @@ LogPluginManager: Mounting plugin PropertyAccessEditor
 LogPluginManager: Mounting plugin RuntimePhysXCooking
 LogPluginManager: Mounting plugin SignificanceManager
 LogPluginManager: Mounting plugin SoundFields
-LogPluginManager: Mounting plugin Synthesis
 LogPluginManager: Mounting plugin WebMMoviePlayer
 LogPluginManager: Mounting plugin WindowsMoviePlayer
-LogPluginManager: Mounting plugin ScreenshotTools
-LogPluginManager: Mounting plugin Takes
-LogPluginManager: Mounting plugin OodleData
-LogPluginManager: Mounting plugin OodleNetwork
+LogPluginManager: Mounting plugin Synthesis
 LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
 LogPluginManager: Mounting plugin ContentBrowserClassDataSource
 LogPluginManager: Mounting plugin ContentBrowserFileDataSource
-LogPluginManager: Mounting plugin OnlineSubsystemIOS
 LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
 LogPluginManager: Mounting plugin OculusVR
 LogPluginManager: Mounting plugin SteamVR
 PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
@@ -239,7 +239,7 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2023.02.20-11.27.23:836][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
 [2023.02.20-11.27.23:836][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
 [2023.02.20-11.27.23:836][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
-[2023.02.20-11.27.23:837][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2023.02.20-11.27.23:836][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
 [2023.02.20-11.27.23:837][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
 [2023.02.20-11.27.23:837][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
 [2023.02.20-11.27.23:837][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
@@ -331,12 +331,12 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2023.02.20-11.27.23:988][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
 [2023.02.20-11.27.23:988][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
 [2023.02.20-11.27.23:988][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [E:/New folder (8)/github/Nottingham_project/CIR_Nottingham main branch/Saved/Config/Windows/Scalability.ini]
-[2023.02.20-11.27.23:989][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
-[2023.02.20-11.27.23:989][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
-[2023.02.20-11.27.23:989][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
-[2023.02.20-11.27.23:989][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
-[2023.02.20-11.27.23:989][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
-[2023.02.20-11.27.23:989][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2023.02.20-11.27.23:988][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2023.02.20-11.27.23:988][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2023.02.20-11.27.23:988][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2023.02.20-11.27.23:988][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2023.02.20-11.27.23:988][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2023.02.20-11.27.23:988][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
 [2023.02.20-11.27.23:989][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
 [2023.02.20-11.27.23:989][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
 [2023.02.20-11.27.23:989][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
@@ -409,7 +409,7 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2023.02.20-11.27.24:049][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
 [2023.02.20-11.27.24:049][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
 [2023.02.20-11.27.24:049][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
-[2023.02.20-11.27.24:049][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2023.02.20-11.27.24:050][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
 [2023.02.20-11.27.24:050][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
 [2023.02.20-11.27.24:050][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
 [2023.02.20-11.27.24:050][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
@@ -483,44 +483,44 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2023.02.20-11.27.24:117][  0]LogInit: High frequency timer resolution =10.000000 MHz
 [2023.02.20-11.27.24:117][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
 [2023.02.20-11.27.24:117][  0]LogMemory: Platform Memory Stats for Windows
-[2023.02.20-11.27.24:117][  0]LogMemory: Process Physical Memory: 148.40 MB used, 148.41 MB peak
-[2023.02.20-11.27.24:117][  0]LogMemory: Process Virtual Memory: 132.91 MB used, 132.91 MB peak
+[2023.02.20-11.27.24:117][  0]LogMemory: Process Physical Memory: 152.95 MB used, 152.96 MB peak
+[2023.02.20-11.27.24:117][  0]LogMemory: Process Virtual Memory: 133.08 MB used, 133.08 MB peak
 [2023.02.20-11.27.24:117][  0]LogMemory: Physical Memory: 5730.64 MB used,  10601.84 MB free, 16332.48 MB total
 [2023.02.20-11.27.24:117][  0]LogMemory: Virtual Memory: 134193712.00 MB used,  24015.27 MB free, 134217728.00 MB total
 [2023.02.20-11.27.24:128][  0]LogWindows: WindowsPlatformFeatures enabled
-[2023.02.20-11.27.25:169][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2023.02.20-11.27.25:185][  0]LogInit: Physics initialised using underlying interface: PhysX
 [2023.02.20-11.27.25:359][  0]LogInit: Using OS detected language (en-GB).
 [2023.02.20-11.27.25:360][  0]LogInit: Using OS detected locale (en-GB).
-[2023.02.20-11.27.25:787][  0]LogTextLocalizationManager: No specific localization for 'en-GB' exists, so the 'en' localization will be used.
-[2023.02.20-11.27.26:536][  0]LogInit: Setting process to per monitor DPI aware
+[2023.02.20-11.27.25:789][  0]LogTextLocalizationManager: No specific localization for 'en-GB' exists, so the 'en' localization will be used.
+[2023.02.20-11.27.26:559][  0]LogInit: Setting process to per monitor DPI aware
 [2023.02.20-11.27.27:021][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
 [2023.02.20-11.27.27:726][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
 [2023.02.20-11.27.27:726][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
 [2023.02.20-11.27.29:000][  0]LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
-[2023.02.20-11.27.29:036][  0]LogHMD: Failed to initialize OpenVR with code 110
-[2023.02.20-11.27.29:036][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
-[2023.02.20-11.27.29:036][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
-[2023.02.20-11.27.29:036][  0]LogD3D11RHI: D3D11 adapters:
+[2023.02.20-11.27.29:037][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2023.02.20-11.27.29:037][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2023.02.20-11.27.29:037][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2023.02.20-11.27.29:037][  0]LogD3D11RHI: D3D11 adapters:
 [2023.02.20-11.27.29:548][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 970' (Feature Level 11_0)
 [2023.02.20-11.27.29:548][  0]LogD3D11RHI:       4043/0/8166 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:3, VendorId:0x10de
-[2023.02.20-11.27.29:561][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
-[2023.02.20-11.27.29:561][  0]LogD3D11RHI:       0/0/8166 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
-[2023.02.20-11.27.29:561][  0]LogD3D11RHI: Chosen D3D11 Adapter:
-[2023.02.20-11.27.29:561][  0]LogD3D11RHI:     Description : NVIDIA GeForce GTX 970
-[2023.02.20-11.27.29:561][  0]LogD3D11RHI:     VendorId    : 10de
-[2023.02.20-11.27.29:561][  0]LogD3D11RHI:     DeviceId    : 13c2
-[2023.02.20-11.27.29:561][  0]LogD3D11RHI:     SubSysId    : 85081043
-[2023.02.20-11.27.29:561][  0]LogD3D11RHI:     Revision    : 00a1
-[2023.02.20-11.27.29:561][  0]LogD3D11RHI:     DedicatedVideoMemory : 4239654912 bytes
-[2023.02.20-11.27.29:561][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
-[2023.02.20-11.27.29:561][  0]LogD3D11RHI:     SharedSystemMemory : 8562921472 bytes
-[2023.02.20-11.27.29:561][  0]LogD3D11RHI:     AdapterLuid : 0 74130
+[2023.02.20-11.27.29:570][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2023.02.20-11.27.29:570][  0]LogD3D11RHI:       0/0/8166 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2023.02.20-11.27.29:570][  0]LogD3D11RHI: Chosen D3D11 Adapter:
+[2023.02.20-11.27.29:570][  0]LogD3D11RHI:     Description : NVIDIA GeForce GTX 970
+[2023.02.20-11.27.29:570][  0]LogD3D11RHI:     VendorId    : 10de
+[2023.02.20-11.27.29:570][  0]LogD3D11RHI:     DeviceId    : 13c2
+[2023.02.20-11.27.29:570][  0]LogD3D11RHI:     SubSysId    : 85081043
+[2023.02.20-11.27.29:570][  0]LogD3D11RHI:     Revision    : 00a1
+[2023.02.20-11.27.29:570][  0]LogD3D11RHI:     DedicatedVideoMemory : 4239654912 bytes
+[2023.02.20-11.27.29:570][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2023.02.20-11.27.29:570][  0]LogD3D11RHI:     SharedSystemMemory : 8562921472 bytes
+[2023.02.20-11.27.29:570][  0]LogD3D11RHI:     AdapterLuid : 0 74130
 [2023.02.20-11.27.29:781][  0]LogD3D11RHI: Creating new Direct3DDevice
 [2023.02.20-11.27.29:781][  0]LogD3D11RHI:     GPU DeviceId: 0x13c2 (for the marketing name, search the web for "GPU Device Id")
 [2023.02.20-11.27.29:781][  0]LogWindows: EnumDisplayDevices:
 [2023.02.20-11.27.29:782][  0]LogWindows:    0. 'NVIDIA GeForce GTX 970' (P:1 D:1)
 [2023.02.20-11.27.29:782][  0]LogWindows:    1. 'NVIDIA GeForce GTX 970' (P:0 D:1)
-[2023.02.20-11.27.29:783][  0]LogWindows:    2. 'NVIDIA GeForce GTX 970' (P:0 D:1)
+[2023.02.20-11.27.29:782][  0]LogWindows:    2. 'NVIDIA GeForce GTX 970' (P:0 D:1)
 [2023.02.20-11.27.29:783][  0]LogWindows:    3. 'NVIDIA GeForce GTX 970' (P:0 D:0)
 [2023.02.20-11.27.29:783][  0]LogWindows: DebugString: FoundDriverCount:4 
 [2023.02.20-11.27.29:783][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 970
@@ -537,10 +537,10 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2023.02.20-11.27.30:711][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
 [2023.02.20-11.27.30:711][  0]LogD3D11RHI:     SharedSystemMemory : 8562921472 bytes
 [2023.02.20-11.27.30:711][  0]LogD3D11RHI:     AdapterLuid : 0 74130
-[2023.02.20-11.27.30:795][  0]LogD3D11RHI: RHI has support for 64 bit atomics
-[2023.02.20-11.27.30:803][  0]LogD3D11RHI: Async texture creation enabled
-[2023.02.20-11.27.30:803][  0]LogD3D11RHI: Array index from any shader is supported
-[2023.02.20-11.27.31:355][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 0)
+[2023.02.20-11.27.30:829][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2023.02.20-11.27.30:829][  0]LogD3D11RHI: Async texture creation enabled
+[2023.02.20-11.27.30:829][  0]LogD3D11RHI: Array index from any shader is supported
+[2023.02.20-11.27.31:361][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
 [2023.02.20-11.27.31:626][  0]LogRHI: GeForceNow SDK initialized: 1
 [2023.02.20-11.27.33:547][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
 [2023.02.20-11.27.33:924][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
@@ -562,8 +562,8 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2023.02.20-11.27.34:273][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
 [2023.02.20-11.27.34:283][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
 [2023.02.20-11.27.34:294][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
-[2023.02.20-11.27.34:443][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
-[2023.02.20-11.27.34:443][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2023.02.20-11.27.34:442][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2023.02.20-11.27.34:442][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
 [2023.02.20-11.27.34:499][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
 [2023.02.20-11.27.34:510][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
 [2023.02.20-11.27.34:541][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
@@ -578,32 +578,32 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2023.02.20-11.27.35:055][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
 [2023.02.20-11.27.35:594][  0]LogTextureFormatOodle: Display: Oodle Texture 2.9.0 init RDO Off
 [2023.02.20-11.27.36:490][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
-[2023.02.20-11.27.36:534][  0]LogShaderCompilers: Guid format shader working directory is -43 characters bigger than the processId version (../../../../../../../New folder (8)/github/Nottingham_project/CIR_Nottingham main branch/Intermediate/Shaders/WorkingDirectory/2488/).
-[2023.02.20-11.27.36:534][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Liam/AppData/Local/Temp/UnrealShaderWorkingDir/9B53349143D805A74E8BE9BFF93316FE/'.
+[2023.02.20-11.27.36:534][  0]LogShaderCompilers: Guid format shader working directory is -44 characters bigger than the processId version (../../../../../../../New folder (8)/github/Nottingham_project/CIR_Nottingham main branch/Intermediate/Shaders/WorkingDirectory/10468/).
+[2023.02.20-11.27.36:534][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Liam/AppData/Local/Temp/UnrealShaderWorkingDir/F992B8CA4BF5E3583B5DC4ABFB679229/'.
 [2023.02.20-11.27.36:538][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
 [2023.02.20-11.27.36:538][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
 [2023.02.20-11.27.36:538][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
-[2023.02.20-11.27.39:555][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
-[2023.02.20-11.27.40:323][  0]LogDerivedDataCache: Loaded boot cache 0.76s 94MB C:/Users/Liam/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2023.02.20-11.27.39:580][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2023.02.20-11.27.40:323][  0]LogDerivedDataCache: Loaded boot cache 0.73s 94MB C:/Users/Liam/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
 [2023.02.20-11.27.40:323][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Liam/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc
 [2023.02.20-11.27.40:323][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../../New folder (8)/github/Nottingham_project/CIR_Nottingham main branch/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
 [2023.02.20-11.27.40:323][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
 [2023.02.20-11.27.40:323][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../../New folder (8)/github/Nottingham_project/CIR_Nottingham main branch/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
-[2023.02.20-11.27.40:324][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2023.02.20-11.27.40:323][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
 [2023.02.20-11.27.41:029][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
-[2023.02.20-11.27.41:030][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
-[2023.02.20-11.27.41:030][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
-[2023.02.20-11.27.41:073][  0]LogDerivedDataCache: Speed tests for C:/Users/Liam/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.04 seconds
-[2023.02.20-11.27.41:073][  0]LogDerivedDataCache: Display: Performance to C:/Users/Liam/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.59ms. RandomReadSpeed=43.95MBs, RandomWriteSpeed=62.18MBs. Assigned SpeedClass 'Local'
+[2023.02.20-11.27.41:029][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2023.02.20-11.27.41:029][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2023.02.20-11.27.41:072][  0]LogDerivedDataCache: Speed tests for C:/Users/Liam/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.04 seconds
+[2023.02.20-11.27.41:073][  0]LogDerivedDataCache: Display: Performance to C:/Users/Liam/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.66ms. RandomReadSpeed=43.97MBs, RandomWriteSpeed=63.62MBs. Assigned SpeedClass 'Local'
 [2023.02.20-11.27.41:073][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Liam/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
-[2023.02.20-11.27.41:074][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
-[2023.02.20-11.27.41:074][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2023.02.20-11.27.41:073][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2023.02.20-11.27.41:073][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
 [2023.02.20-11.27.41:308][  0]LogSlate: Using FreeType 2.10.0
 [2023.02.20-11.27.41:541][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
 [2023.02.20-11.27.42:464][  0]LogAssetRegistry: FAssetRegistry took 0.0075 seconds to start up
 [2023.02.20-11.27.46:539][  0]LogInit: Selected Device Profile: [Windows]
-[2023.02.20-11.27.46:539][  0]LogInit: Active device profile: [00000236343AEF00][00000236324459C0 49] Windows
-[2023.02.20-11.27.46:539][  0]LogInit: Profiles: [00000236343AEF00][00000236324459C0 49] Windows, [0000023634379300][000002363244C100 49] WindowsNoEditor, [00000236343AD300][00000236346B23C0 49] WindowsServer, [000002363437A800][00000236346B6680 49] WindowsClient, [00000236343AE700][00000236346BA940 49] IOS, [0000023634379B00][0000023632448BC0 49] iPadAir, [00000236343ADA00][00000236346BEE40 49] iPadAir2, [000002363432B800][00000236346D7380 49] IPadPro, [000002363432B900][00000236346C73C0 49] iPadAir3, [00000236343AF000][00000236346CF680 49] iPadAir4, [0000023634329800][00000236346CB940 49] iPadMini2, [00000236343AD200][00000236346D3C00 49] iPadMini3, [000002363432BA00][00000236346DA340 49] iPadMini4, [00000236343AE900][00000236346DE600 49] iPadMini5, [0000023634367100][00000236346F2B40 49] iPhone6, [0000023634367200][00000236346E2B80 49] iPodTouch6, [0000023634328700][00000236346F7040 49] iPhone7, [0000023634328600][00000236346C3080 49] iPodTouch7, [0000023634365700][00000236346EF340 49] iPhone5S, [000002363432B200][00000236346E7600 49] iPhone6Plus, [0000023634366300][00000236346FB8C0 49] iPhone6S, [0000023634329400][00000236346FFB80 49] iPhone6SPlus, [0000023634365600][00000236347022C0 49] iPhone7Plus, [000002363432B300][0000023634706580 49] iPhoneSE, [0000023634366500][000002363470A840 49] iPhone8, [000002363432A000][000002363470EB00 49] iPhone8Plus, [0000023634365B00][0000023634712DC0 49] iPhoneX, [000002363432AA00][00000236346EB040 49] iPhoneXS, [0000023634365400][00000236347172C0 49] iPhoneXSMax, [0000023634328100][000002363471F580 49] iPhoneXR, [0000023634364900][0000023634723840 49] iPhone11, [000002363432B000][0000023634727B00 49] iPhone11Pro, [0000023634364D00][000002363472A240 49] iPhone11ProMax, [0000023634329A00][000002363472E500 49] iPhoneSE2, [0000023634365D00][00000236347327C0 49] iPhone12Mini, [0000023634329000][0000023634736A80 49] iPhone12, [0000023634366900][000002363473AD40 49] iPhone12Pro, [0000023634328200][000002363473F000 49] iPhone12ProMax, [0000023634366000][000002363471B280 49] iPadPro105, [0000023634329200][0000023634743500 49] iPadPro129, [0000023634364E00][000002363474B7C0 49] iPadPro97, [000002363432BB00][000002363474FA80 49] iPadPro2_129, [0000023634367F00][00000236347521C0 49] iPad5, [0000023634328800][0000023634756480 49] iPad6, [0000023634364C00][000002363475A740 49] iPad7, [0000023634328900][000002363475EA00 49] iPad8, [0000023634366A00][0000023634762CC0 49] iPadPro11, [0000023634328B00][0000023634766F80 49] iPadPro2_11, [0000023634365900][000002363476B240 49] iPadPro3_129, [000002363432B100][00000236347474C0 49] iPadPro4_129, [0000023634366200][000002363476F740 49] AppleTV, [000002363432AB00][0000023634777A00 49] AppleTV4K, [0000023634364400][000002363477A140 49] TVOS, [000002363432B700][000002363477E400 49] Mac, [000002363437B300][00000236347826C0 49] MacClient, [00000236343E9200][0000023634786980 49] MacNoEditor, [0000023634378F00][000002363478AC40 49] MacServer, [00000236343E8F00][000002363478EF00 49] Linux, [000002363437A400][00000236347931C0 49] LinuxAArch64, [00000236343E8100][0000023634797480 49] LinuxNoEditor, [000002363437A300][0000023634773700 49] LinuxAArch64NoEditor, [00000236343E9100][000002363479B980 49] LinuxClient, [000002363437AA00][00000236347A20C0 49] LinuxAArch64Client, [00000236343E9000][00000236347A6380 49] LinuxServer, [000002363437B700][00000236347AA640 49] LinuxAArch64Server, [00000236343E9800][00000236347AE900 49] Android, [000002363437A500][00000236347B2BC0 49] Android_Low, [00000236343E8600][00000236347B6E80 49] Android_Mid, [0000023634378700][00000236347BB140 49] Android_High, [00000236343E9400][00000236347BF400 49] Android_Default, [000002363437B500][00000236347C36C0 49] Android_Adreno4xx, [00000236343E9700][000002363479F940 49] Android_Adreno5xx_Low, [000002363437BE00][00000236347C7BC0 49] Android_Adreno5xx, [00000236343E8200][00000236347CE300 49] Android_Adreno6xx, [000002363432BC00][00000236347D25C0 49] Android_Adreno6xx_Vulkan, [0000023634364500][00000236347D6880 49] Android_Mali_T6xx, [0000023634328300][00000236347DAB40 49] Android_Mali_T7xx, [0000023634364600][00000236347DEE00 49] Android_Mali_T8xx, [000002363432BE00][00000236347E30C0 49] Android_Mali_G71, [0000023634367500][00000236347E7380 49] Android_Mali_G72, [0000023634328A00][00000236347EB640 49] Android_Mali_G72_Vulkan, [0000023634367C00][00000236347EF900 49] Android_Mali_G76, [000002363432AF00][00000236347CBB80 49] Android_Mali_G76_Vulkan, [0000023634364A00][00000236347F62C0 49] Android_Mali_G77, [0000023634329B00][00000236347FA580 49] Android_Mali_G77_Vulkan, [0000023634367800][00000236347FE840 49] Android_Mali_G78, [000002363432A500][0000023634802B00 49] Android_Mali_G78_Vulkan, [0000023634365500][0000023634806DC0 49] Android_Mali_G710, [0000023634329500][000002363480B080 49] Android_Mali_G710_Vulkan, [0000023634364700][000002363480F340 49] Android_Vulkan_SM5, [0000023634329C00][0000023634813600 49] Android_PowerVR_G6xxx, [0000023634365800][00000236348178C0 49] Android_PowerVR_GT7xxx, [000002363432AD00][00000236347F3B40 49] Android_PowerVR_GE8xxx, [00000236343E8500][000002363481A240 49] Android_PowerVR_GM9xxx, [000002363432AE00][0000023634822500 49] Android_PowerVR_GM9xxx_Vulkan, [00000236343E9B00][00000236348267C0 49] Android_TegraK1, [000002363432AC00][000002363482AA80 49] Android_Unknown_Vulkan, [00000236343E8E00][000002363482ED40 49] Lumin, [000002363432B400][0000023634833000 49] Lumin_Desktop, [00000236343E8800][00000236348372C0 49] HoloLens, 
+[2023.02.20-11.27.46:539][  0]LogInit: Active device profile: [00000295C4BFB300][00000295C40AF880 49] Windows
+[2023.02.20-11.27.46:539][  0]LogInit: Profiles: [00000295C4BFB300][00000295C40AF880 49] Windows, [00000295C4BB8F00][00000295C40B7B40 49] WindowsNoEditor, [00000295C4BF8F00][00000295C40BA280 49] WindowsServer, [00000295C4BBAC00][00000295C40BE540 49] WindowsClient, [00000295C4BFAB00][00000295C40C2800 49] IOS, [00000295C4BB9700][00000295C40C6AC0 49] iPadAir, [00000295C4BF9600][00000295C40B2D40 49] iPadAir2, [00000295C4B6BC00][00000295C50F1240 49] IPadPro, [00000295C4B6BD00][00000295C40CB280 49] iPadAir3, [00000295C4BFA600][00000295C50E9540 49] iPadAir4, [00000295C4B69400][00000295C50E5800 49] iPadMini2, [00000295C4BF9A00][00000295C50EDAC0 49] iPadMini3, [00000295C4B6A600][00000295C50F4200 49] iPadMini4, [00000295C4BF8900][00000295C50F84C0 49] iPadMini5, [00000295C4BA7500][00000295C510CA00 49] iPhone6, [00000295C4BA7600][00000295C50FCA40 49] iPodTouch6, [00000295C4B68300][00000295C5110F40 49] iPhone7, [00000295C4B68200][00000295C5104F80 49] iPodTouch7, [00000295C4BA5300][00000295C5109240 49] iPhone5S, [00000295C4B6BF00][00000295C5101500 49] iPhone6Plus, [00000295C4BA6700][00000295C51157C0 49] iPhone6S, [00000295C4B69000][00000295C5119A80 49] iPhone6SPlus, [00000295C4BA5A00][00000295C511C1C0 49] iPhone7Plus, [00000295C4B6A000][00000295C5120480 49] iPhoneSE, [00000295C4BA7900][00000295C5124740 49] iPhone8, [00000295C4B6B200][00000295C5128A00 49] iPhone8Plus, [00000295C4BA7300][00000295C512CCC0 49] iPhoneX, [00000295C4B6BB00][00000295C50E0F40 49] iPhoneXS, [00000295C4BA5600][00000295C51311C0 49] iPhoneXSMax, [00000295C4B6A400][00000295C5139480 49] iPhoneXR, [00000295C4BA5000][00000295C513D740 49] iPhone11, [00000295C4B68F00][00000295C5141A00 49] iPhone11Pro, [00000295C4BA5900][00000295C5144140 49] iPhone11ProMax, [00000295C4B6BA00][00000295C5148400 49] iPhoneSE2, [00000295C4BA6900][00000295C514C6C0 49] iPhone12Mini, [00000295C4B69C00][00000295C5150980 49] iPhone12, [00000295C4BA7700][00000295C5154C40 49] iPhone12Pro, [00000295C4B6A200][00000295C5158F00 49] iPhone12ProMax, [00000295C4BA7800][00000295C5135180 49] iPadPro105, [00000295C4B6A900][00000295C515D400 49] iPadPro129, [00000295C4BA5200][00000295C51656C0 49] iPadPro97, [00000295C4B6AE00][00000295C5169980 49] iPadPro2_129, [00000295C4BA4F00][00000295C516C0C0 49] iPad5, [00000295C4B6AF00][00000295C5170380 49] iPad6, [00000295C4BA4300][00000295C5174640 49] iPad7, [00000295C4B6B600][00000295C5178900 49] iPad8, [00000295C4BA7F00][00000295C517CBC0 49] iPadPro11, [00000295C4B68400][00000295C5180E80 49] iPadPro2_11, [00000295C4BA4400][00000295C5185140 49] iPadPro3_129, [00000295C4B6A700][00000295C51613C0 49] iPadPro4_129, [00000295C4BA7D00][00000295C5189640 49] AppleTV, [00000295C4B68800][00000295C5191900 49] AppleTV4K, [00000295C4BA6E00][00000295C5195BC0 49] TVOS, [00000295C4B69E00][00000295C5198300 49] Mac, [00000295C4BA4A00][00000295C519C5C0 49] MacClient, [00000295C4B6AB00][00000295C51A0880 49] MacNoEditor, [00000295C4BA6D00][00000295C51A4B40 49] MacServer, [00000295C4B69600][00000295C51A8E00 49] Linux, [00000295C4BA7400][00000295C51AD0C0 49] LinuxAArch64, [00000295C4B68500][00000295C51B1380 49] LinuxNoEditor, [00000295C4BBA700][00000295C518D600 49] LinuxAArch64NoEditor, [00000295C4C2CC00][00000295C51B5880 49] LinuxClient, [00000295C4BB9F00][00000295C51BDB40 49] LinuxAArch64Client, [00000295C4C2D100][00000295C51C0280 49] LinuxServer, [00000295C4BB9600][00000295C51C4540 49] LinuxAArch64Server, [00000295C4C2D900][00000295C51C8800 49] Android, [00000295C4BB8100][00000295C51CCAC0 49] Android_Low, [00000295C4C2DB00][00000295C51D0D80 49] Android_Mid, [00000295C4BBA200][00000295C51D5040 49] Android_High, [00000295C4C2D000][00000295C51D9300 49] Android_Default, [00000295C4BBB100][00000295C51DD5C0 49] Android_Adreno4xx, [00000295C4C2DD00][00000295C51B9840 49] Android_Adreno5xx_Low, [00000295C4BBB200][00000295C51E1AC0 49] Android_Adreno5xx, [00000295C4C2C100][00000295C51E8200 49] Android_Adreno6xx, [00000295C4BB9900][00000295C51EC4C0 49] Android_Adreno6xx_Vulkan, [00000295C4C2CE00][00000295C51F0780 49] Android_Mali_T6xx, [00000295C4BBB800][00000295C51F4A40 49] Android_Mali_T7xx, [00000295C4C2D400][00000295C51F8D00 49] Android_Mali_T8xx, [00000295C4BB9D00][00000295C51FCFC0 49] Android_Mali_G71, [00000295C4C2D600][00000295C5201280 49] Android_Mali_G72, [00000295C4BB8E00][00000295C5205540 49] Android_Mali_G72_Vulkan, [00000295C4C2C700][00000295C5209800 49] Android_Mali_G76, [00000295C4B68700][00000295C51E5A80 49] Android_Mali_G76_Vulkan, [00000295C4BA4800][00000295C520C180 49] Android_Mali_G77, [00000295C4B69500][00000295C5214440 49] Android_Mali_G77_Vulkan, [00000295C4BA4B00][00000295C5218700 49] Android_Mali_G78, [00000295C4B68C00][00000295C521C9C0 49] Android_Mali_G78_Vulkan, [00000295C4BA7B00][00000295C5220C80 49] Android_Mali_G710, [00000295C4B6B800][00000295C5224F40 49] Android_Mali_G710_Vulkan, [00000295C4BA4700][00000295C5229200 49] Android_Vulkan_SM5, [00000295C4B68A00][00000295C522D4C0 49] Android_PowerVR_G6xxx, [00000295C4BA4500][00000295C5231780 49] Android_PowerVR_GT7xxx, [00000295C4B69F00][00000295C5235A40 49] Android_PowerVR_GE8xxx, [00000295C4C2E400][00000295C5210140 49] Android_PowerVR_GM9xxx, [00000295C4B69800][00000295C52383C0 49] Android_PowerVR_GM9xxx_Vulkan, [00000295C4C2C200][00000295C5240680 49] Android_TegraK1, [00000295C4B68100][00000295C5244940 49] Android_Unknown_Vulkan, [00000295C4C2DC00][00000295C5248C00 49] Lumin, [00000295C4B6AA00][00000295C524CEC0 49] Lumin_Desktop, [00000295C4C2DF00][00000295C5251180 49] HoloLens, 
 [2023.02.20-11.27.49:417][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
 [2023.02.20-11.27.49:417][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
 [2023.02.20-11.27.49:417][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
