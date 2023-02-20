@@ -7542,3 +7542,38 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2023.02.20-14.01.33:151][337]LogUObjectHash: Compacting FUObjectHashTables data took   2.67ms
 [2023.02.20-14.01.33:165][337]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
 [2023.02.20-14.01.33:177][337]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2023.02.20-14.02.50:348][185]LogSlate: Window 'theatre_royal_copy' being destroyed
+[2023.02.20-14.03.14:581][493]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2023.02.20-14.03.14:709][493]LogSavePackage: Moving '../../../../../../../New folder (8)/github/Nottingham_project/CIR_Nottingham main branch/Saved/ThirdPersonExampleMap_Auto25436D9664CCC92F433BD6A88277AB068.tmp' to '../../../../../../../New folder (8)/github/Nottingham_project/CIR_Nottingham main branch/Saved/Autosaves/Game/main_core/Maps/ThirdPersonExampleMap_Auto2.umap'
+[2023.02.20-14.03.14:712][493]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/main_core/Maps/ThirdPersonExampleMap' took 0.146
+[2023.02.20-14.03.14:712][493]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.146
+[2023.02.20-14.03.14:713][493]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/main_core/tram/main_core/tram_2_1] ([2] browsable assets)...
+[2023.02.20-14.03.14:723][493]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/main_core/tram/main_core/tram_2_1.tram_2_1]
+[2023.02.20-14.03.14:723][493]OBJ SavePackage: Finished generating thumbnails for package [/Game/main_core/tram/main_core/tram_2_1]
+[2023.02.20-14.03.14:758][493]LogSavePackage: Moving '../../../../../../../New folder (8)/github/Nottingham_project/CIR_Nottingham main branch/Saved/tram_2_1_Auto2C16B2C8E497FF27BBEFC12A7E1F38803.tmp' to '../../../../../../../New folder (8)/github/Nottingham_project/CIR_Nottingham main branch/Saved/Autosaves/Game/main_core/tram/main_core/tram_2_1_Auto2.uasset'
+[2023.02.20-14.03.14:761][493]LogFileHelpers: Auto-saving content packages took 0.048
+[2023.02.20-14.05.45:049][637]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2023.02.20-14.05.45:075][637]LogSavePackage: Moving '../../../../../../../New folder (8)/github/Nottingham_project/CIR_Nottingham main branch/Saved/ThirdPersonExampleMapEC2C58A94B9B0F2B38778CB72670F50D.tmp' to '../../../../../../../New folder (8)/github/Nottingham_project/CIR_Nottingham main branch/Content/main_core/Maps/ThirdPersonExampleMap.umap'
+[2023.02.20-14.05.45:527][637]LogSavePackage: Moving '../../../../../../../New folder (8)/github/Nottingham_project/CIR_Nottingham main branch/Saved/ThirdPersonExampleMap_BuiltDataF2FBDEF74480F07E4A45259863E7202D.tmp' to '../../../../../../../New folder (8)/github/Nottingham_project/CIR_Nottingham main branch/Content/main_core/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2023.02.20-14.05.45:541][637]AssetCheck: New page: Asset Save: multiple assets
+[2023.02.20-14.05.45:541][637]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/main_core/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2023.02.20-14.05.45:541][637]LogContentValidation: Display: Validating World /Game/main_core/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2023.02.20-14.05.49:020][ 26]MapCheck: New page: Map Check
+[2023.02.20-14.05.49:029][ 26]LightingResults: New page: Lighting Build - 20 Feb 2023, 14:05:49
+[2023.02.20-14.05.49:230][ 26]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2023.02.20-14.05.49:348][ 26]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2023.02.20-14.05.49:378][ 26]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2023.02.20-14.05.50:482][ 26]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2023.02.20-14.05.50:482][ 26]LogSwarmInterface: [TryOpenConnection] Local Process ID is 24972
+[2023.02.20-14.05.54:573][ 26]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2023.02.20-14.05.54:573][ 26]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2023.02.20-14.05.54:573][ 26]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2023.02.20-14.05.54:573][ 26]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2023.02.20-14.05.54:573][ 26]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2023.02.20-14.05.54:818][ 26]LogEditorBuildUtils: Build time 0:05
+[2023.02.20-14.05.54:831][ 26]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.02.20-14.05.54:831][ 26]LogShaderCompilers: Display: Total job queries 26, among them cache hits 2 (7.69%)
+[2023.02.20-14.05.54:831][ 26]LogShaderCompilers: Display: Tracking 14 distinct input hashes that result in 10 distinct outputs (71.43%)
+[2023.02.20-14.05.54:831][ 26]LogShaderCompilers: Display: RAM used: 0.05 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.01%
+[2023.02.20-14.05.54:831][ 26]LogShaderCompilers: Display: ================================================
+[2023.02.20-14.05.55:222][ 28]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
