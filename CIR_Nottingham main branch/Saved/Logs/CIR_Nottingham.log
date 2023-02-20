@@ -2826,3 +2826,158 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2023.02.20-12.32.39:622][216]AssetCheck: New page: Asset Save: multiple assets
 [2023.02.20-12.32.39:622][216]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/main_core/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
 [2023.02.20-12.32.39:622][216]LogContentValidation: Display: Validating World /Game/main_core/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2023.02.20-12.39.20:445][912]LogTemp: Repeating last play command: Selected Viewport
+[2023.02.20-12.39.20:452][912]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.02.20-12.39.20:452][912]PIE: New page: PIE session: ThirdPersonExampleMap (20 Feb 2023, 12:39:20)
+[2023.02.20-12.39.20:452][912]LogPlayLevel: Creating play world package: /Game/main_core/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2023.02.20-12.39.20:461][912]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008898s)
+[2023.02.20-12.39.20:462][912]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2023.02.20-12.39.20:462][912]LogPlayLevel: PIE: World Init took: (0.001437s)
+[2023.02.20-12.39.20:462][912]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/main_core/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/main_core/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.010498s)
+[2023.02.20-12.39.20:484][912]LogUObjectHash: Compacting FUObjectHashTables data took   2.45ms
+[2023.02.20-12.39.20:489][912]LogAudio: Display: Creating Audio Device:                 Id: 18, Scope: Unique, Realtime: True
+[2023.02.20-12.39.20:489][912]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.02.20-12.39.20:489][912]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.02.20-12.39.20:489][912]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.02.20-12.39.20:489][912]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.02.20-12.39.20:489][912]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.02.20-12.39.20:489][912]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.02.20-12.39.20:490][912]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.02.20-12.39.20:490][912]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.02.20-12.39.20:490][912]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.02.20-12.39.20:490][912]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.02.20-12.39.20:490][912]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.02.20-12.39.20:490][912]LogAudioMixer: Display: Initializing audio mixer.
+[2023.02.20-12.39.20:502][912]LogAudioMixer: Display: 0: FrontLeft
+[2023.02.20-12.39.20:502][912]LogAudioMixer: Display: 1: FrontRight
+[2023.02.20-12.39.20:524][912]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2023.02.20-12.39.20:525][912]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.02.20-12.39.20:525][912]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.02.20-12.39.20:525][912]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.02.20-12.39.20:525][912]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.02.20-12.39.20:525][912]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.02.20-12.39.20:525][912]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.02.20-12.39.20:526][912]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.02.20-12.39.20:526][912]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.02.20-12.39.20:526][912]LogInit: FAudioDevice initialized.
+[2023.02.20-12.39.20:526][912]LogAudio: Display: Audio Device (ID: 18) registered with world 'ThirdPersonExampleMap'.
+[2023.02.20-12.39.20:540][912]LogLoad: Game class is 'GameModeBase'
+[2023.02.20-12.39.20:542][912]LogWorld: Bringing World /Game/main_core/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2023.02.20-12.39.20
+[2023.02.20-12.39.20:542][912]LogWorld: Bringing up level for play took: 0.001527
+[2023.02.20-12.39.20:542][912]LogOnline: OSS: Creating online subsystem instance for: :Context_42
+[2023.02.20-12.39.20:544][912]PIE: Server logged in
+[2023.02.20-12.39.20:545][912]PIE: Play in editor total start time 0.095 seconds.
+[2023.02.20-12.39.22:079][ 87]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.20-12.39.22:079][ 87]LogWorld: BeginTearingDown for /Game/main_core/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2023.02.20-12.39.22:079][ 87]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2023.02.20-12.39.22:079][ 87]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.20-12.39.22:093][ 87]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.02.20-12.39.22:139][ 87]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.20-12.39.22:155][ 87]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.02.20-12.39.22:155][ 87]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.02.20-12.39.22:156][ 87]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.02.20-12.39.22:159][ 87]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.20-12.39.22:162][ 87]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2023.02.20-12.39.22:178][ 88]LogPlayLevel: Display: Destroying online subsystem :Context_42
+[2023.02.20-12.39.30:080][962]MapCheck: New page: Map Check
+[2023.02.20-12.39.30:091][962]LightingResults: New page: Lighting Build - 20 Feb 2023, 12:39:30
+[2023.02.20-12.39.30:100][962]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2023.02.20-12.39.30:104][962]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2023.02.20-12.39.30:104][962]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2023.02.20-12.39.30:105][962]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2023.02.20-12.39.30:105][962]LogSwarmInterface: [TryOpenConnection] Local Process ID is 8340
+[2023.02.20-12.39.34:767][962]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2023.02.20-12.39.34:767][962]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2023.02.20-12.39.34:767][962]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2023.02.20-12.39.34:767][962]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2023.02.20-12.39.34:768][962]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2023.02.20-12.39.34:960][962]LogEditorBuildUtils: Build time 0:04
+[2023.02.20-12.39.34:967][962]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer glass in PCD3D_SM5, Default, SM5 (DDC key hash: 7932B7F42E0522202633C2E7CB8A23F0D03EE81F), compiling. 
+[2023.02.20-12.39.34:973][962]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer glass in PCD3D_SM5, Default, SM5 (DDC key hash: B944B2B63974BD779A014F6009E8F42930E0C3FF), compiling. 
+[2023.02.20-12.39.34:979][962]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.02.20-12.39.34:979][962]LogShaderCompilers: Display: Total job queries 1033, among them cache hits 308 (29.82%)
+[2023.02.20-12.39.34:979][962]LogShaderCompilers: Display: Tracking 533 distinct input hashes that result in 134 distinct outputs (25.14%)
+[2023.02.20-12.39.34:979][962]LogShaderCompilers: Display: RAM used: 0.65 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.08%
+[2023.02.20-12.39.34:979][962]LogShaderCompilers: Display: ================================================
+[2023.02.20-12.39.35:017][963]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer DimGray in PCD3D_SM5, Default, SM5 (DDC key hash: D832191F940CF0D4155DA647677FFB61860F8FBF), compiling. 
+[2023.02.20-12.39.35:021][963]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer DimGray in PCD3D_SM5, Default, SM5 (DDC key hash: C4EE5AF59D68DF93040E534D186EF496FB51C8B0), compiling. 
+[2023.02.20-12.39.35:064][964]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer skp_front_default in PCD3D_SM5, Default, SM5 (DDC key hash: B1F652342B732FB257D392D42212AD67BDB14AF8), compiling. 
+[2023.02.20-12.39.35:068][964]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer skp_front_default in PCD3D_SM5, Default, SM5 (DDC key hash: 71DB8D4244C7582FB1F4DA2E7E72BC725043E9A0), compiling. 
+[2023.02.20-12.39.35:073][964]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer Color_F02 in PCD3D_SM5, Default, SM5 (DDC key hash: 49A6C6D898A019991B550EB944CF6BA2BC4206AB), compiling. 
+[2023.02.20-12.39.35:077][964]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer Color_F02 in PCD3D_SM5, Default, SM5 (DDC key hash: C26548B8D7B6BF0C2B797AC8F9A81D7657C1E088), compiling. 
+[2023.02.20-12.39.35:129][965]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer Color_F14 in PCD3D_SM5, Default, SM5 (DDC key hash: 2CB6DFD1159C976532D3BA6D7FDCA0CF6699FDDE), compiling. 
+[2023.02.20-12.39.35:133][965]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer Color_F14 in PCD3D_SM5, Default, SM5 (DDC key hash: 474D9EEB2FD50D18D70B400EAB6539312B88812B), compiling. 
+[2023.02.20-12.39.35:138][965]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer Color_000 in PCD3D_SM5, Default, SM5 (DDC key hash: 061E9C7DCE71F247D8209A39906850AD350436B6), compiling. 
+[2023.02.20-12.39.35:142][965]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer Color_000 in PCD3D_SM5, Default, SM5 (DDC key hash: 91AEC21059AAB34618E6F8C989B939DA66658600), compiling. 
+[2023.02.20-12.39.35:197][966]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer Color_F16 in PCD3D_SM5, Default, SM5 (DDC key hash: 9318C446F62B60AAB2E695E721AC251DAFC5D408), compiling. 
+[2023.02.20-12.39.35:202][966]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer Color_F16 in PCD3D_SM5, Default, SM5 (DDC key hash: D6858F74F215CC6F5F96F98C53D14CB09E20B47F), compiling. 
+[2023.02.20-12.39.35:246][967]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer Metal_Embossed in PCD3D_SM5, Default, SM5 (DDC key hash: E91F133ADA9D235C851B9272623B6BB25FB2E75D), compiling. 
+[2023.02.20-12.39.35:250][967]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer Metal_Embossed in PCD3D_SM5, Default, SM5 (DDC key hash: 03A7925E04E0D99F60ED14D2855EBB9EF31A23AF), compiling. 
+[2023.02.20-12.39.35:255][967]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer Color_E07 in PCD3D_SM5, Default, SM5 (DDC key hash: F2B0EC83B46B661AD6FE1ED1DE533B101CB53988), compiling. 
+[2023.02.20-12.39.35:259][967]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer Color_E07 in PCD3D_SM5, Default, SM5 (DDC key hash: 8B8EDD08AE0E7C0DD12B91D5232B4E1CC511DD4C), compiling. 
+[2023.02.20-12.39.35:595][981]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2023.02.20-12.39.38:006][151]LightingResults: Warning: TramShelterStop Object has overlapping UVs.
+[2023.02.20-12.39.38:006][151]LightingResults: TramShelterStop Lightmap UV are overlapping by 24.6%. Please adjust content - Enable Error Coloring to visualize.
+[2023.02.20-12.39.38:006][151]LightingResults: Warning: TramShelterStop Object has overlapping UVs.
+[2023.02.20-12.39.38:006][151]LightingResults: Warning: TramShelterStop Object has overlapping UVs.
+[2023.02.20-12.39.38:006][151]LightingResults: TramShelterStop Lightmap UV are overlapping by 24.6%. Please adjust content - Enable Error Coloring to visualize.
+[2023.02.20-12.39.38:006][151]LightingResults: TramShelterStop Lightmap UV are overlapping by 24.6%. Please adjust content - Enable Error Coloring to visualize.
+[2023.02.20-12.39.38:145][152]LightingResults: Warning: TramShelterStop Object has overlapping UVs.
+[2023.02.20-12.39.38:145][152]LightingResults: TramShelterStop Lightmap UV are overlapping by 24.6%. Please adjust content - Enable Error Coloring to visualize.
+[2023.02.20-12.39.39:407][249]Job is a success!
+[2023.02.20-12.39.39:698][250]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.016s
+[2023.02.20-12.39.39:698][250]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2023.02.20-12.39.39:698][250]LogVolumetricLightmapImport:      BrickData (all levels) 0.0Mb
+[2023.02.20-12.39.39:698][250]LogVolumetricLightmapImport:      Bricks at depth
+[2023.02.20-12.39.39:698][250]LogVolumetricLightmapImport:          0: 10.0% covering 100.0% of volume
+[2023.02.20-12.39.39:698][250]LogVolumetricLightmapImport:          1: 40.0% covering 6.2% of volume
+[2023.02.20-12.39.39:698][250]LogVolumetricLightmapImport:          2: 50.0% covering 0.1% of volume
+[2023.02.20-12.39.39:698][250]LogVolumetricLightmapImport:      Bricks in each level
+[2023.02.20-12.39.39:698][250]LogVolumetricLightmapImport:          ThirdPersonExampleMap 			 10 bricks 	 100.0% (Persistent Level)
+[2023.02.20-12.39.39:823][250]LogTexture: Display: Building textures: SkyOcclusion0_1 (OODLE_AutoDXT, 1024X512)
+[2023.02.20-12.39.39:823][250]LogTexture: Display: Building textures: HQ_Lightmap0_1 (OODLE_AutoDXT, 1024X1024)
+[2023.02.20-12.39.39:823][250]LogTextureFormatOodle: Display: non-RDO encode 1024 x 512 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.02.20-12.39.39:823][250]LogTexture: Display: Building textures: SkyOcclusion0_2 (OODLE_AutoDXT, 512X256)
+[2023.02.20-12.39.39:823][250]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (OODLE_DXT1, 1024X1024)
+[2023.02.20-12.39.39:823][250]LogTexture: Display: Building textures: HQ_Lightmap0_2 (OODLE_AutoDXT, 512X512)
+[2023.02.20-12.39.39:823][250]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (OODLE_DXT1, 512X512)
+[2023.02.20-12.39.39:823][250]LogTexture: Display: Building textures: SkyOcclusion0_3 (OODLE_AutoDXT, 128X64)
+[2023.02.20-12.39.39:823][250]LogTexture: Display: Building textures: HQ_Lightmap0_3 (OODLE_AutoDXT, 128X128)
+[2023.02.20-12.39.39:823][250]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.02.20-12.39.39:823][250]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.02.20-12.39.39:823][250]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (OODLE_DXT1, 128X128)
+[2023.02.20-12.39.39:823][250]LogTexture: Display: Building textures: SkyOcclusion1_4 (OODLE_AutoDXT, 128X64)
+[2023.02.20-12.39.39:823][250]LogTexture: Display: Building textures: HQ_Lightmap1_4 (OODLE_AutoDXT, 128X128)
+[2023.02.20-12.39.39:823][250]LogTexture: Display: Building textures: LQ_Lightmap_1_4 (OODLE_DXT1, 128X128)
+[2023.02.20-12.39.39:823][250]LogTexture: Display: Building textures: SkyOcclusion0_5 (OODLE_AutoDXT, 128X64)
+[2023.02.20-12.39.39:823][250]LogTexture: Display: Building textures: HQ_Lightmap0_5 (OODLE_AutoDXT, 128X128)
+[2023.02.20-12.39.39:823][250]LogTexture: Display: Building textures: SkyOcclusion0_6 (OODLE_AutoDXT, 128X64)
+[2023.02.20-12.39.39:823][250]LogTexture: Display: Building textures: LQ_Lightmap_0_5 (OODLE_DXT1, 128X128)
+[2023.02.20-12.39.39:823][250]LogTexture: Display: Building textures: HQ_Lightmap0_6 (OODLE_AutoDXT, 128X128)
+[2023.02.20-12.39.39:823][250]LogTexture: Display: Building textures: LQ_Lightmap_0_6 (OODLE_DXT1, 128X128)
+[2023.02.20-12.39.39:823][250]LogTexture: Display: Building textures: SkyOcclusion0_7 (OODLE_AutoDXT, 64X32)
+[2023.02.20-12.39.39:823][250]LogTexture: Display: Building textures: HQ_Lightmap0_7 (OODLE_AutoDXT, 64X64)
+[2023.02.20-12.39.39:823][250]LogTexture: Display: Building textures: LQ_Lightmap_0_7 (OODLE_DXT1, 64X64)
+[2023.02.20-12.39.39:954][250]LogTexture: Display: Building textures: ShadowMapTexture2D_17 (G8, 64X64)
+[2023.02.20-12.39.39:954][250]LogTexture: Display: Building textures: ShadowMapTexture2D_20 (G8, 32X32)
+[2023.02.20-12.39.39:954][250]LogTexture: Display: Building textures: ShadowMapTexture2D_16 (G8, 64X64)
+[2023.02.20-12.39.39:954][250]LogTexture: Display: Building textures: ShadowMapTexture2D_19 (G8, 64X64)
+[2023.02.20-12.39.39:954][250]LogTexture: Display: Building textures: ShadowMapTexture2D_18 (G8, 128X64)
+[2023.02.20-12.39.39:954][250]LogTexture: Display: Building textures: ShadowMapTexture2D_15 (G8, 1024X128)
+[2023.02.20-12.39.39:954][250]LogTexture: Display: Building textures: ShadowMapTexture2D_14 (G8, 512X512)
+[2023.02.20-12.39.39:954][250]Lightmass on LIAMSPC: 3.49 sec total, 172 ms importing, 31 ms setup, 1.07 sec photons, 2.15 sec processing, 0 ms extra exporting [13/13 mappings]. Threads: 23.7 sec total, 4.02 sec processing.
+[2023.02.20-12.39.39:965][250]LogStaticLightingSystem: ThirdPersonExampleMap_BuiltData storing lightmap data for 13 meshes in 7 LightmapResourceClusters (1.9 Meshes per cluster).
+[2023.02.20-12.39.39:989][250]LogUObjectHash: Compacting FUObjectHashTables data took   2.58ms
+[2023.02.20-12.39.40:026][250]LogStaticLightingSystem: Illumination: 9.87 sec (131 ms encoding lightmaps, 57 ms encoding shadowmaps)
+[2023.02.20-12.39.40:026][250]LogStaticLightingSystem: Lightmap texture memory:  3.5 MB (3.5 MB streaming, 0.0 MB non-streaming), 14 textures
+[2023.02.20-12.39.40:026][250]LogStaticLightingSystem: Shadowmap texture memory: 0.5 MB (0.5 MB streaming, 0.0 MB non-streaming), 7 textures
+[2023.02.20-12.39.40:799][250]DumpUnbuiltLightIteractions
+[2023.02.20-12.39.40:799][250]Lights with unbuilt interactions: 0
+[2023.02.20-12.39.40:799][250]
+[2023.02.20-12.39.40:799][250]Primitives with unbuilt interactions: 0
+[2023.02.20-12.39.40:868][250]LogTexture: Display: Building textures: NewReflectionComponentTexture3884DE244CA9D1E5320A11B1C608A293 (BGRA8, 128X128)
+[2023.02.20-12.39.40:902][251]Cmd: MAP CHECK NOTIFYRESULTS
+[2023.02.20-12.39.40:902][251]MapCheck: New page: ThirdPersonExampleMap - 20 Feb 2023, 12:39:40
+[2023.02.20-12.39.40:902][251]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.567ms to complete.
+[2023.02.20-12.39.50:010][139]LogSlate: Window 'Message Log' being destroyed
+[2023.02.20-12.39.50:016][139]LogSlate: Window 'Message Log' being destroyed
