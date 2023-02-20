@@ -616,3 +616,15 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2023.02.20-11.28.09:116][  0]LogUObjectAllocator: 4302048 out of 0 bytes used by permanent object pool.
 [2023.02.20-11.28.09:116][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
 [2023.02.20-11.28.14:374][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: 41A594714DFC640972B3FBAAE7C7FE25 | Instance: E48134E14E2B15730565C0B52E424CEB (LIAMSPC-10468).
+[2023.02.20-11.28.19:186][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2023.02.20-11.28.19:215][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2023.02.20-11.28.19:270][  0]LogPython: Using Python 3.7.7
+[2023.02.20-11.28.22:355][  0]SourceControl: Source control is disabled
+[2023.02.20-11.28.22:355][  0]SourceControl: Source control is disabled
+[2023.02.20-11.28.22:359][  0]SourceControl: Source control is disabled
+[2023.02.20-11.28.22:375][  0]SourceControl: Source control is disabled
+[2023.02.20-11.28.22:383][  0]SourceControl: Source control is disabled
+[2023.02.20-11.28.22:678][  0]LogUProjectInfo: Found projects:
+[2023.02.20-11.28.22:685][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2023.02.20-11.28.22:686][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2023.02.20-11.28.22:686][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154

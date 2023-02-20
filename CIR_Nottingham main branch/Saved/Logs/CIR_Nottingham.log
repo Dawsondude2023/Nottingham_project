@@ -618,3 +618,14 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2023.02.20-11.28.09:116][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
 [2023.02.20-11.28.14:374][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: D5A8B0E444D9DDC11FD6E78927854135 | Instance: 76EC8CC54317D26BCA0CB0B380EA410C (LIAMSPC-2488).
 [2023.02.20-11.28.16:166][  0]LogPython: Using Python 3.7.7
+[2023.02.20-11.28.19:542][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2023.02.20-11.28.19:547][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2023.02.20-11.28.21:418][  0]SourceControl: Source control is disabled
+[2023.02.20-11.28.21:418][  0]SourceControl: Source control is disabled
+[2023.02.20-11.28.21:644][  0]SourceControl: Source control is disabled
+[2023.02.20-11.28.21:667][  0]SourceControl: Source control is disabled
+[2023.02.20-11.28.21:776][  0]SourceControl: Source control is disabled
+[2023.02.20-11.28.21:877][  0]LogUProjectInfo: Found projects:
+[2023.02.20-11.28.21:894][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2023.02.20-11.28.21:895][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2023.02.20-11.28.21:895][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
