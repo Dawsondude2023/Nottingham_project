@@ -699,3 +699,200 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2023.02.20-11.28.47:825][  0]LogFileCache: Scanning file cache for directory 'E:/New folder (8)/github/Nottingham_project/CIR_Nottingham main branch/Content/' took 0.01s
 [2023.02.20-11.28.47:825][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
 [2023.02.20-11.28.47:825][  0]LogCook: Display: Mobile HDR setting 1
+[2023.02.20-11.29.05:503][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2023.02.20-11.29.05:928][  0]SourceControl: Source control is disabled
+[2023.02.20-11.29.05:935][  0]LogUnrealEdMisc: Loading editor; pre map load, took 127.575
+[2023.02.20-11.29.06:070][  0]Cmd: MAP LOAD FILE="../../../../../../../New folder (8)/github/Nottingham_project/CIR_Nottingham main branch/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.02.20-11.29.06:174][  0]LightingResults: New page: Lighting Build
+[2023.02.20-11.29.06:565][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2023.02.20-11.29.06:737][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.20-11.29.06:911][  0]MapCheck: New page: Map Check
+[2023.02.20-11.29.06:911][  0]LightingResults: New page: Lighting Build
+[2023.02.20-11.29.07:383][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.02.20-11.29.07:655][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2023.02.20-11.29.11:695][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'ThirdPersonExampleMap'.
+[2023.02.20-11.29.11:736][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2023.02.20-11.29.13:915][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.02.20-11.29.14:443][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2023.02.20-11.29.14:494][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.02.20-11.29.14:563][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 68.708ms to complete.
+[2023.02.20-11.29.14:563][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 8.554
+[2023.02.20-11.29.17:082][  0]LogUnrealEdMisc: Total Editor Startup Time, took 138.722
+[2023.02.20-11.29.19:012][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.20-11.29.19:021][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.20-11.29.19:028][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.20-11.29.19:035][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.20-11.29.19:867][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0126 seconds. Added 3822 classes and 928 folders.
+[2023.02.20-11.29.20:296][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2023.02.20-11.29.20:634][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2023.02.20-11.29.20:634][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.20-11.29.20:634][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2023.02.20-11.29.20:634][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/New folder/New folder/unreal/UE_4.27/FeaturePacks/FP_FirstPerson.upack' (chunk index -1, root 'root:/') mounted
+[2023.02.20-11.29.20:634][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/New folder/New folder/unreal/UE_4.27/FeaturePacks/FP_FirstPerson.upack)
+[2023.02.20-11.29.20:634][  0]LogPakFile: OnPakFileMounted2Time == 0.000072
+[2023.02.20-11.29.20:858][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2023.02.20-11.29.20:858][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.20-11.29.20:858][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2023.02.20-11.29.20:858][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/New folder/New folder/unreal/UE_4.27/FeaturePacks/FP_FirstPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.02.20-11.29.20:858][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/New folder/New folder/unreal/UE_4.27/FeaturePacks/FP_FirstPersonBP.upack)
+[2023.02.20-11.29.20:858][  0]LogPakFile: OnPakFileMounted2Time == 0.000056
+[2023.02.20-11.29.20:927][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2023.02.20-11.29.20:927][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.20-11.29.20:927][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2023.02.20-11.29.20:927][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/New folder/New folder/unreal/UE_4.27/FeaturePacks/MobileStarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2023.02.20-11.29.20:927][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/New folder/New folder/unreal/UE_4.27/FeaturePacks/MobileStarterContent.upack)
+[2023.02.20-11.29.20:927][  0]LogPakFile: OnPakFileMounted2Time == 0.000046
+[2023.02.20-11.29.21:101][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2023.02.20-11.29.21:101][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.20-11.29.21:101][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2023.02.20-11.29.21:101][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/New folder/New folder/unreal/UE_4.27/FeaturePacks/StarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2023.02.20-11.29.21:101][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/New folder/New folder/unreal/UE_4.27/FeaturePacks/StarterContent.upack)
+[2023.02.20-11.29.21:101][  0]LogPakFile: OnPakFileMounted2Time == 0.000055
+[2023.02.20-11.29.21:131][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2023.02.20-11.29.21:131][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.20-11.29.21:131][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2023.02.20-11.29.21:131][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/New folder/New folder/unreal/UE_4.27/FeaturePacks/TP_2DSideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2023.02.20-11.29.21:131][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/New folder/New folder/unreal/UE_4.27/FeaturePacks/TP_2DSideScroller.upack)
+[2023.02.20-11.29.21:131][  0]LogPakFile: OnPakFileMounted2Time == 0.000070
+[2023.02.20-11.29.21:189][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2023.02.20-11.29.21:189][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.20-11.29.21:189][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2023.02.20-11.29.21:189][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/New folder/New folder/unreal/UE_4.27/FeaturePacks/TP_2DSideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.02.20-11.29.21:189][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/New folder/New folder/unreal/UE_4.27/FeaturePacks/TP_2DSideScrollerBP.upack)
+[2023.02.20-11.29.21:189][  0]LogPakFile: OnPakFileMounted2Time == 0.000049
+[2023.02.20-11.29.21:263][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2023.02.20-11.29.21:263][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.20-11.29.21:263][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2023.02.20-11.29.21:263][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/New folder/New folder/unreal/UE_4.27/FeaturePacks/TP_Flying.upack' (chunk index -1, root 'root:/') mounted
+[2023.02.20-11.29.21:263][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/New folder/New folder/unreal/UE_4.27/FeaturePacks/TP_Flying.upack)
+[2023.02.20-11.29.21:263][  0]LogPakFile: OnPakFileMounted2Time == 0.000049
+[2023.02.20-11.29.21:299][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2023.02.20-11.29.21:299][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.20-11.29.21:299][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2023.02.20-11.29.21:299][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/New folder/New folder/unreal/UE_4.27/FeaturePacks/TP_FlyingBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.02.20-11.29.21:299][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/New folder/New folder/unreal/UE_4.27/FeaturePacks/TP_FlyingBP.upack)
+[2023.02.20-11.29.21:299][  0]LogPakFile: OnPakFileMounted2Time == 0.000050
+[2023.02.20-11.29.21:429][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2023.02.20-11.29.21:429][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.20-11.29.21:429][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2023.02.20-11.29.21:429][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/New folder/New folder/unreal/UE_4.27/FeaturePacks/TP_HandheldARBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.02.20-11.29.21:429][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/New folder/New folder/unreal/UE_4.27/FeaturePacks/TP_HandheldARBP.upack)
+[2023.02.20-11.29.21:429][  0]LogPakFile: OnPakFileMounted2Time == 0.000047
+[2023.02.20-11.29.21:575][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2023.02.20-11.29.21:575][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.20-11.29.21:575][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2023.02.20-11.29.21:575][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/New folder/New folder/unreal/UE_4.27/FeaturePacks/TP_Puzzle.upack' (chunk index -1, root 'root:/') mounted
+[2023.02.20-11.29.21:575][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/New folder/New folder/unreal/UE_4.27/FeaturePacks/TP_Puzzle.upack)
+[2023.02.20-11.29.21:575][  0]LogPakFile: OnPakFileMounted2Time == 0.000049
+[2023.02.20-11.29.21:753][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2023.02.20-11.29.21:753][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.20-11.29.21:753][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2023.02.20-11.29.21:753][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/New folder/New folder/unreal/UE_4.27/FeaturePacks/TP_PuzzleBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.02.20-11.29.21:753][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/New folder/New folder/unreal/UE_4.27/FeaturePacks/TP_PuzzleBP.upack)
+[2023.02.20-11.29.21:753][  0]LogPakFile: OnPakFileMounted2Time == 0.000055
+[2023.02.20-11.29.21:847][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2023.02.20-11.29.21:847][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.20-11.29.21:847][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2023.02.20-11.29.21:847][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/New folder/New folder/unreal/UE_4.27/FeaturePacks/TP_Rolling.upack' (chunk index -1, root 'root:/') mounted
+[2023.02.20-11.29.21:847][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/New folder/New folder/unreal/UE_4.27/FeaturePacks/TP_Rolling.upack)
+[2023.02.20-11.29.21:847][  0]LogPakFile: OnPakFileMounted2Time == 0.000048
+[2023.02.20-11.29.21:910][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2023.02.20-11.29.21:910][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.20-11.29.21:910][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2023.02.20-11.29.21:910][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/New folder/New folder/unreal/UE_4.27/FeaturePacks/TP_RollingBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.02.20-11.29.21:910][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/New folder/New folder/unreal/UE_4.27/FeaturePacks/TP_RollingBP.upack)
+[2023.02.20-11.29.21:910][  0]LogPakFile: OnPakFileMounted2Time == 0.000049
+[2023.02.20-11.29.21:913][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2023.02.20-11.29.21:913][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.20-11.29.21:913][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2023.02.20-11.29.21:913][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/New folder/New folder/unreal/UE_4.27/FeaturePacks/TP_SideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2023.02.20-11.29.21:913][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/New folder/New folder/unreal/UE_4.27/FeaturePacks/TP_SideScroller.upack)
+[2023.02.20-11.29.21:913][  0]LogPakFile: OnPakFileMounted2Time == 0.000041
+[2023.02.20-11.29.21:916][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2023.02.20-11.29.21:916][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.20-11.29.21:916][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2023.02.20-11.29.21:916][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/New folder/New folder/unreal/UE_4.27/FeaturePacks/TP_SideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.02.20-11.29.21:916][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/New folder/New folder/unreal/UE_4.27/FeaturePacks/TP_SideScrollerBP.upack)
+[2023.02.20-11.29.21:916][  0]LogPakFile: OnPakFileMounted2Time == 0.000045
+[2023.02.20-11.29.21:919][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2023.02.20-11.29.21:919][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.20-11.29.21:919][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2023.02.20-11.29.21:919][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/New folder/New folder/unreal/UE_4.27/FeaturePacks/TP_ThirdPerson.upack' (chunk index -1, root 'root:/') mounted
+[2023.02.20-11.29.21:919][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/New folder/New folder/unreal/UE_4.27/FeaturePacks/TP_ThirdPerson.upack)
+[2023.02.20-11.29.21:919][  0]LogPakFile: OnPakFileMounted2Time == 0.000044
+[2023.02.20-11.29.21:921][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2023.02.20-11.29.21:921][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.20-11.29.21:921][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2023.02.20-11.29.21:921][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/New folder/New folder/unreal/UE_4.27/FeaturePacks/TP_ThirdPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.02.20-11.29.21:921][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/New folder/New folder/unreal/UE_4.27/FeaturePacks/TP_ThirdPersonBP.upack)
+[2023.02.20-11.29.21:921][  0]LogPakFile: OnPakFileMounted2Time == 0.000040
+[2023.02.20-11.29.21:926][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2023.02.20-11.29.21:926][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.20-11.29.21:926][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2023.02.20-11.29.21:926][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/New folder/New folder/unreal/UE_4.27/FeaturePacks/TP_TopDown.upack' (chunk index -1, root 'root:/') mounted
+[2023.02.20-11.29.21:926][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/New folder/New folder/unreal/UE_4.27/FeaturePacks/TP_TopDown.upack)
+[2023.02.20-11.29.21:926][  0]LogPakFile: OnPakFileMounted2Time == 0.000055
+[2023.02.20-11.29.21:942][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2023.02.20-11.29.21:942][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.20-11.29.21:942][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2023.02.20-11.29.21:942][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/New folder/New folder/unreal/UE_4.27/FeaturePacks/TP_TopDownBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.02.20-11.29.21:942][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/New folder/New folder/unreal/UE_4.27/FeaturePacks/TP_TopDownBP.upack)
+[2023.02.20-11.29.21:942][  0]LogPakFile: OnPakFileMounted2Time == 0.000046
+[2023.02.20-11.29.21:955][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2023.02.20-11.29.21:955][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.20-11.29.21:955][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2023.02.20-11.29.21:955][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/New folder/New folder/unreal/UE_4.27/FeaturePacks/TP_TwinStick.upack' (chunk index -1, root 'root:/') mounted
+[2023.02.20-11.29.21:955][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/New folder/New folder/unreal/UE_4.27/FeaturePacks/TP_TwinStick.upack)
+[2023.02.20-11.29.21:955][  0]LogPakFile: OnPakFileMounted2Time == 0.000047
+[2023.02.20-11.29.21:958][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2023.02.20-11.29.21:958][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.20-11.29.21:958][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2023.02.20-11.29.21:958][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/New folder/New folder/unreal/UE_4.27/FeaturePacks/TP_TwinStickBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.02.20-11.29.21:958][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/New folder/New folder/unreal/UE_4.27/FeaturePacks/TP_TwinStickBP.upack)
+[2023.02.20-11.29.21:958][  0]LogPakFile: OnPakFileMounted2Time == 0.000043
+[2023.02.20-11.29.21:960][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2023.02.20-11.29.21:960][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.20-11.29.21:960][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2023.02.20-11.29.21:960][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/New folder/New folder/unreal/UE_4.27/FeaturePacks/TP_Vehicle.upack' (chunk index -1, root 'root:/') mounted
+[2023.02.20-11.29.21:960][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/New folder/New folder/unreal/UE_4.27/FeaturePacks/TP_Vehicle.upack)
+[2023.02.20-11.29.21:960][  0]LogPakFile: OnPakFileMounted2Time == 0.000042
+[2023.02.20-11.29.21:963][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2023.02.20-11.29.21:963][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.20-11.29.21:963][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2023.02.20-11.29.21:963][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/New folder/New folder/unreal/UE_4.27/FeaturePacks/TP_VehicleAdv.upack' (chunk index -1, root 'root:/') mounted
+[2023.02.20-11.29.21:963][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/New folder/New folder/unreal/UE_4.27/FeaturePacks/TP_VehicleAdv.upack)
+[2023.02.20-11.29.21:963][  0]LogPakFile: OnPakFileMounted2Time == 0.000042
+[2023.02.20-11.29.21:978][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2023.02.20-11.29.21:978][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.20-11.29.21:978][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2023.02.20-11.29.21:978][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/New folder/New folder/unreal/UE_4.27/FeaturePacks/TP_VehicleAdvBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.02.20-11.29.21:978][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/New folder/New folder/unreal/UE_4.27/FeaturePacks/TP_VehicleAdvBP.upack)
+[2023.02.20-11.29.21:978][  0]LogPakFile: OnPakFileMounted2Time == 0.000053
+[2023.02.20-11.29.22:079][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2023.02.20-11.29.22:080][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.20-11.29.22:080][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2023.02.20-11.29.22:080][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/New folder/New folder/unreal/UE_4.27/FeaturePacks/TP_VehicleBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.02.20-11.29.22:080][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/New folder/New folder/unreal/UE_4.27/FeaturePacks/TP_VehicleBP.upack)
+[2023.02.20-11.29.22:080][  0]LogPakFile: OnPakFileMounted2Time == 0.000053
+[2023.02.20-11.29.22:221][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2023.02.20-11.29.22:221][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.20-11.29.22:221][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2023.02.20-11.29.22:221][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/New folder/New folder/unreal/UE_4.27/FeaturePacks/TP_VirtualRealityBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.02.20-11.29.22:221][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/New folder/New folder/unreal/UE_4.27/FeaturePacks/TP_VirtualRealityBP.upack)
+[2023.02.20-11.29.22:221][  0]LogPakFile: OnPakFileMounted2Time == 0.000047
+[2023.02.20-11.29.36:968][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2023.02.20-11.29.37:528][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 2 classes and 0 folders.
+[2023.02.20-11.29.39:728][  0]LogSlate: Took 0.029962 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2023.02.20-11.29.39:772][  0]LogSlate: Took 0.026481 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2023.02.20-11.29.39:863][  0]LogSlate: Took 0.048555 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2023.02.20-11.29.40:328][  0]LogRenderer: Reallocating scene render targets to support 1124x572 Format 10 NumSamples 1 (Frame:1).
+[2023.02.20-11.29.41:059][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2023.02.20-11.29.41:059][  0]LogInput: Warning: Action Jump uses invalid key OculusGo_Left_Trigger_Click.
+[2023.02.20-11.29.41:059][  0]LogInput: Warning: Action ResetVR uses invalid key OculusGo_Left_Trackpad_Click.
+[2023.02.20-11.29.41:059][  0]LogInput: Warning: Use -RemoveInvalidKeys to remove instances of these keys from the action mapping.
+[2023.02.20-11.29.41:059][  0]LogLoad: (Engine Initialization) Total time: 162.70 seconds
+[2023.02.20-11.29.41:059][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2023.02.20-11.29.41:181][  0]LogAssetRegistry: Asset discovery search completed in 118.7181 seconds
+[2023.02.20-11.29.41:369][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000003 seconds (updated 0 objects)
+[2023.02.20-11.29.41:555][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2023.02.20-11.29.42:200][  2]LogSlate: Took 0.013222 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
