@@ -693,3 +693,9 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2023.02.20-11.28.41:958][  0]NetworkingProfiler: OnSessionChanged
 [2023.02.20-11.28.41:958][  0]MemoryProfiler: Initialize
 [2023.02.20-11.28.41:959][  0]MemoryProfiler: OnSessionChanged
+[2023.02.20-11.28.43:512][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2023.02.20-11.28.43:513][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2023.02.20-11.28.43:513][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2023.02.20-11.28.47:825][  0]LogFileCache: Scanning file cache for directory 'E:/New folder (8)/github/Nottingham_project/CIR_Nottingham main branch/Content/' took 0.01s
+[2023.02.20-11.28.47:825][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2023.02.20-11.28.47:825][  0]LogCook: Display: Mobile HDR setting 1
