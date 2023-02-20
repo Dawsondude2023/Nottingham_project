@@ -899,3 +899,545 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2023.02.20-11.38.55:240][ 75]LogObjectTools: Currently 1 active worlds: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
 [2023.02.20-11.38.59:520][ 75]LogSlate: Window 'Unable to delete level' being destroyed
 [2023.02.20-11.38.59:527][ 75]Message dialog closed, result: Ok, title: Unable to delete level, text: Unable to delete level while it is open
+[2023.02.20-11.39.11:757][455]LogStaticMesh: Building static mesh TramShelterStop...
+[2023.02.20-11.39.11:760][455]LogSlate: Took 0.000235 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.02.20-11.39.12:487][455]LogStaticMesh: Built static mesh [0.73s] /Game/ThirdPerson/ThirdPersonBP/assets/TramShelterStop.TramShelterStop
+[2023.02.20-11.39.12:687][455]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2023.02.20-11.39.16:086][455]LogSlate: Window 'Delete Assets' being destroyed
+[2023.02.20-11.39.37:029][927]LogContentBrowser: Attempting asset rename: ThirdPersonBP -> irgoure_thisfolder
+[2023.02.20-11.39.37:264][927]LogStaticMesh: Building static mesh sign_train_station...
+[2023.02.20-11.39.37:293][927]LogStaticMesh: Built static mesh [0.03s] /Game/ThirdPerson/ThirdPersonBP/signs/nottingham_train_station/sign_train_station.sign_train_station
+[2023.02.20-11.39.37:304][927]LogStaticMesh: Building static mesh sign...
+[2023.02.20-11.39.37:323][927]LogStaticMesh: Built static mesh [0.02s] /Game/ThirdPerson/ThirdPersonBP/signs/sign_model/sign.sign
+[2023.02.20-11.39.37:332][927]LogStaticMesh: Building static mesh sign...
+[2023.02.20-11.39.37:356][927]LogStaticMesh: Built static mesh [0.02s] /Game/ThirdPerson/ThirdPersonBP/signs/theatre_royal/sign.sign
+[2023.02.20-11.39.37:420][927]LogMetaData: Removing '/Game/ThirdPerson/irgoure_thisfolder/assets/TramShelterStop.TramShelterStop' ref from Metadata '/Game/ThirdPerson/ThirdPersonBP/assets/TramShelterStop.PackageMetaData'
+[2023.02.20-11.39.37:421][927]LogMetaData: Removing '/Game/ThirdPerson/irgoure_thisfolder/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C' ref from Metadata '/Game/ThirdPerson/ThirdPersonBP/Blueprints/ThirdPersonCharacter.PackageMetaData'
+[2023.02.20-11.39.37:421][927]LogMetaData: Removing '/Game/ThirdPerson/irgoure_thisfolder/Blueprints/ThirdPersonCharacter.SKEL_ThirdPersonCharacter_C:InpAxisEvt_LookUp_K2Node_InputAxisEvent_40' ref from Metadata '/Game/ThirdPerson/ThirdPersonBP/Blueprints/ThirdPersonCharacter.PackageMetaData'
+[2023.02.20-11.39.37:421][927]LogMetaData: Removing '/Game/ThirdPerson/irgoure_thisfolder/Blueprints/ThirdPersonCharacter.SKEL_ThirdPersonCharacter_C:InpAxisEvt_Turn_K2Node_InputAxisEvent_47' ref from Metadata '/Game/ThirdPerson/ThirdPersonBP/Blueprints/ThirdPersonCharacter.PackageMetaData'
+[2023.02.20-11.39.37:421][927]LogMetaData: Removing '/Game/ThirdPerson/irgoure_thisfolder/Blueprints/ThirdPersonCharacter.SKEL_ThirdPersonCharacter_C:InpAxisEvt_MoveForward_K2Node_InputAxisEvent_79' ref from Metadata '/Game/ThirdPerson/ThirdPersonBP/Blueprints/ThirdPersonCharacter.PackageMetaData'
+[2023.02.20-11.39.37:421][927]LogMetaData: Removing '/Game/ThirdPerson/irgoure_thisfolder/Blueprints/ThirdPersonCharacter.SKEL_ThirdPersonCharacter_C:InpAxisEvt_MoveRight_K2Node_InputAxisEvent_90' ref from Metadata '/Game/ThirdPerson/ThirdPersonBP/Blueprints/ThirdPersonCharacter.PackageMetaData'
+[2023.02.20-11.39.37:422][927]LogMetaData: Removing '/Game/ThirdPerson/irgoure_thisfolder/Blueprints/ThirdPersonCharacter.SKEL_ThirdPersonCharacter_C:InpAxisEvt_TurnRate_K2Node_InputAxisEvent_38' ref from Metadata '/Game/ThirdPerson/ThirdPersonBP/Blueprints/ThirdPersonCharacter.PackageMetaData'
+[2023.02.20-11.39.37:422][927]LogMetaData: Removing '/Game/ThirdPerson/irgoure_thisfolder/Blueprints/ThirdPersonCharacter.SKEL_ThirdPersonCharacter_C:InpAxisEvt_LookUpRate_K2Node_InputAxisEvent_53' ref from Metadata '/Game/ThirdPerson/ThirdPersonBP/Blueprints/ThirdPersonCharacter.PackageMetaData'
+[2023.02.20-11.39.37:422][927]LogMetaData: Removing '/Game/ThirdPerson/irgoure_thisfolder/Blueprints/ThirdPersonCharacter.SKEL_ThirdPersonCharacter_C:UserConstructionScript' ref from Metadata '/Game/ThirdPerson/ThirdPersonBP/Blueprints/ThirdPersonCharacter.PackageMetaData'
+[2023.02.20-11.39.37:422][927]LogMetaData: Removing '/Game/ThirdPerson/irgoure_thisfolder/Blueprints/ThirdPersonCharacter.SKEL_ThirdPersonCharacter_C' ref from Metadata '/Game/ThirdPerson/ThirdPersonBP/Blueprints/ThirdPersonCharacter.PackageMetaData'
+[2023.02.20-11.39.37:422][927]LogMetaData: Removing '/Game/ThirdPerson/irgoure_thisfolder/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C' ref from Metadata '/Game/ThirdPerson/ThirdPersonBP/Blueprints/ThirdPersonGameMode.PackageMetaData'
+[2023.02.20-11.39.37:422][927]LogMetaData: Removing '/Game/ThirdPerson/irgoure_thisfolder/Blueprints/ThirdPersonGameMode.SKEL_ThirdPersonGameMode_C:UserConstructionScript' ref from Metadata '/Game/ThirdPerson/ThirdPersonBP/Blueprints/ThirdPersonGameMode.PackageMetaData'
+[2023.02.20-11.39.37:422][927]LogMetaData: Removing '/Game/ThirdPerson/irgoure_thisfolder/Blueprints/ThirdPersonGameMode.SKEL_ThirdPersonGameMode_C' ref from Metadata '/Game/ThirdPerson/ThirdPersonBP/Blueprints/ThirdPersonGameMode.PackageMetaData'
+[2023.02.20-11.39.37:423][927]LogMetaData: Removing '/Game/ThirdPerson/irgoure_thisfolder/Blueprints/ThirdPersonOverview.ThirdPersonOverview_C' ref from Metadata '/Game/ThirdPerson/ThirdPersonBP/Blueprints/ThirdPersonOverview.PackageMetaData'
+[2023.02.20-11.39.37:423][927]LogMetaData: Removing '/Game/ThirdPerson/irgoure_thisfolder/Blueprints/ThirdPersonOverview.SKEL_ThirdPersonOverview_C' ref from Metadata '/Game/ThirdPerson/ThirdPersonBP/Blueprints/ThirdPersonOverview.PackageMetaData'
+[2023.02.20-11.39.37:428][927]LogMetaData: Removing '/Game/ThirdPerson/irgoure_thisfolder/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' ref from Metadata '/Game/ThirdPerson/ThirdPersonBP/Maps/ThirdPersonExampleMap.PackageMetaData'
+[2023.02.20-11.39.37:428][927]LogMetaData: Removing '/Game/ThirdPerson/irgoure_thisfolder/Maps/ThirdPersonExampleMap.SKEL_ThirdPersonExampleMap_C' ref from Metadata '/Game/ThirdPerson/ThirdPersonBP/Maps/ThirdPersonExampleMap.PackageMetaData'
+[2023.02.20-11.39.37:432][927]LogMetaData: Removing '/Game/ThirdPerson/irgoure_thisfolder/signs/sign_model/sign.sign' ref from Metadata '/Game/ThirdPerson/ThirdPersonBP/signs/sign_model/sign.PackageMetaData'
+[2023.02.20-11.39.37:551][927]LogSavePackage: Moving '../../../../../../../New folder (8)/github/Nottingham_project/CIR_Nottingham main branch/Saved/ThirdPersonExampleMap_BuiltDataF76BE2CD49F1399796AB3ABECF7B47CC.tmp' to '../../../../../../../New folder (8)/github/Nottingham_project/CIR_Nottingham main branch/Content/ThirdPerson/irgoure_thisfolder/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2023.02.20-11.39.37:578][927]LogSavePackage: Moving '../../../../../../../New folder (8)/github/Nottingham_project/CIR_Nottingham main branch/Saved/TramShelterStop4DEAB303416DF00D96E8DA8C54C38653.tmp' to '../../../../../../../New folder (8)/github/Nottingham_project/CIR_Nottingham main branch/Content/ThirdPerson/irgoure_thisfolder/assets/TramShelterStop.uasset'
+[2023.02.20-11.39.37:598][927]LogSavePackage: Moving '../../../../../../../New folder (8)/github/Nottingham_project/CIR_Nottingham main branch/Saved/TramC62E063647ADCA9CA14533ABC7438730.tmp' to '../../../../../../../New folder (8)/github/Nottingham_project/CIR_Nottingham main branch/Content/ThirdPerson/irgoure_thisfolder/assets/Tram.uasset'
+[2023.02.20-11.39.37:676][927]LogSavePackage: Moving '../../../../../../../New folder (8)/github/Nottingham_project/CIR_Nottingham main branch/Saved/ThirdPersonCharacter34C0B1934FC22EFF1FA6ACBADA37B4F7.tmp' to '../../../../../../../New folder (8)/github/Nottingham_project/CIR_Nottingham main branch/Content/ThirdPerson/irgoure_thisfolder/Blueprints/ThirdPersonCharacter.uasset'
+[2023.02.20-11.39.37:683][927]LogSavePackage: Moving '../../../../../../../New folder (8)/github/Nottingham_project/CIR_Nottingham main branch/Saved/ThirdPersonGameModeC6BD69E540728293BF9A0D8C9E40609C.tmp' to '../../../../../../../New folder (8)/github/Nottingham_project/CIR_Nottingham main branch/Content/ThirdPerson/irgoure_thisfolder/Blueprints/ThirdPersonGameMode.uasset'
+[2023.02.20-11.39.37:695][927]LogSavePackage: Moving '../../../../../../../New folder (8)/github/Nottingham_project/CIR_Nottingham main branch/Saved/ThirdPersonOverview43EAF5B248A3A3EC9B91BBADA8BC1EF3.tmp' to '../../../../../../../New folder (8)/github/Nottingham_project/CIR_Nottingham main branch/Content/ThirdPerson/irgoure_thisfolder/Blueprints/ThirdPersonOverview.uasset'
+[2023.02.20-11.39.37:709][927]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2023.02.20-11.39.37:731][927]LogSavePackage: Moving '../../../../../../../New folder (8)/github/Nottingham_project/CIR_Nottingham main branch/Saved/ThirdPersonExampleMapFB559BFD4CD107CF96E17BB06C81D554.tmp' to '../../../../../../../New folder (8)/github/Nottingham_project/CIR_Nottingham main branch/Content/ThirdPerson/irgoure_thisfolder/Maps/ThirdPersonExampleMap.umap'
+[2023.02.20-11.39.37:736][927]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.038
+[2023.02.20-11.39.37:743][927]LogSavePackage: Moving '../../../../../../../New folder (8)/github/Nottingham_project/CIR_Nottingham main branch/Saved/market_copyF1E5D2FB49D0BA9E05D0EA805EEE4CF3.tmp' to '../../../../../../../New folder (8)/github/Nottingham_project/CIR_Nottingham main branch/Content/ThirdPerson/irgoure_thisfolder/signs/market_square/market_copy.uasset'
+[2023.02.20-11.39.37:753][927]LogSavePackage: Moving '../../../../../../../New folder (8)/github/Nottingham_project/CIR_Nottingham main branch/Saved/nottingham_train_station__copy9293A85746CFA20D07CAA5B63C4EE1A4.tmp' to '../../../../../../../New folder (8)/github/Nottingham_project/CIR_Nottingham main branch/Content/ThirdPerson/irgoure_thisfolder/signs/nottingham_train_station/nottingham_train_station__copy.uasset'
+[2023.02.20-11.39.37:787][927]LogSavePackage: Moving '../../../../../../../New folder (8)/github/Nottingham_project/CIR_Nottingham main branch/Saved/sign_train_stationAD291D2740E6B9E252975FB32AB5D065.tmp' to '../../../../../../../New folder (8)/github/Nottingham_project/CIR_Nottingham main branch/Content/ThirdPerson/irgoure_thisfolder/signs/nottingham_train_station/sign_train_station.uasset'
+[2023.02.20-11.39.37:809][927]LogSavePackage: Moving '../../../../../../../New folder (8)/github/Nottingham_project/CIR_Nottingham main branch/Saved/sign_train_station_textureAB6D509641FA5AADBC66A2B5D6DCD2F0.tmp' to '../../../../../../../New folder (8)/github/Nottingham_project/CIR_Nottingham main branch/Content/ThirdPerson/irgoure_thisfolder/signs/nottingham_train_station/sign_train_station_texture.uasset'
+[2023.02.20-11.39.37:828][927]LogSavePackage: Moving '../../../../../../../New folder (8)/github/Nottingham_project/CIR_Nottingham main branch/Saved/M_Sign7AF4A10B43AB8D9831E86CB4ABDAB249.tmp' to '../../../../../../../New folder (8)/github/Nottingham_project/CIR_Nottingham main branch/Content/ThirdPerson/irgoure_thisfolder/signs/sign_model/M_Sign.uasset'
+[2023.02.20-11.39.37:848][927]LogSavePackage: Moving '../../../../../../../New folder (8)/github/Nottingham_project/CIR_Nottingham main branch/Saved/sign14E2223649D6D03EA9C5FE9327DC1025.tmp' to '../../../../../../../New folder (8)/github/Nottingham_project/CIR_Nottingham main branch/Content/ThirdPerson/irgoure_thisfolder/signs/sign_model/sign.uasset'
+[2023.02.20-11.39.37:869][927]LogSavePackage: Moving '../../../../../../../New folder (8)/github/Nottingham_project/CIR_Nottingham main branch/Saved/M_Sign_royalA9BBEAA84B517DC39118BCA0511A221E.tmp' to '../../../../../../../New folder (8)/github/Nottingham_project/CIR_Nottingham main branch/Content/ThirdPerson/irgoure_thisfolder/signs/theatre_royal/M_Sign_royal.uasset'
+[2023.02.20-11.39.38:623][927]LogSavePackage: Moving '../../../../../../../New folder (8)/github/Nottingham_project/CIR_Nottingham main branch/Saved/signD55FC9464BBD1948E434538B35D1D311.tmp' to '../../../../../../../New folder (8)/github/Nottingham_project/CIR_Nottingham main branch/Content/ThirdPerson/irgoure_thisfolder/signs/theatre_royal/sign.uasset'
+[2023.02.20-11.39.38:632][927]LogSavePackage: Moving '../../../../../../../New folder (8)/github/Nottingham_project/CIR_Nottingham main branch/Saved/theatre_royal_copyEC3C7B1447398A7D97D60692E4E5E019.tmp' to '../../../../../../../New folder (8)/github/Nottingham_project/CIR_Nottingham main branch/Content/ThirdPerson/irgoure_thisfolder/signs/theatre_royal/theatre_royal_copy.uasset'
+[2023.02.20-11.39.38:757][927]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2023.02.20-11.39.38:761][927]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2023.02.20-11.39.38:765][927]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2023.02.20-11.39.38:770][927]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2023.02.20-11.39.38:774][927]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2023.02.20-11.39.38:778][927]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2023.02.20-11.39.38:782][927]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2023.02.20-11.39.38:786][927]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2023.02.20-11.39.38:791][927]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2023.02.20-11.39.38:795][927]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2023.02.20-11.39.38:799][927]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2023.02.20-11.39.38:803][927]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2023.02.20-11.39.38:807][927]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2023.02.20-11.39.38:812][927]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2023.02.20-11.39.38:816][927]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2023.02.20-11.39.38:820][927]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2023.02.20-11.39.38:831][927]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2023.02.20-11.39.38:835][927]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2023.02.20-11.39.38:895][927]AssetCheck: New page: Asset Save: multiple assets
+[2023.02.20-11.39.38:895][927]LogContentValidation: Display: Validating StaticMesh /Game/ThirdPerson/irgoure_thisfolder/assets/TramShelterStop.TramShelterStop
+[2023.02.20-11.39.38:895][927]LogContentValidation: Display: Validating Material /Game/ThirdPerson/irgoure_thisfolder/assets/Tram.Tram
+[2023.02.20-11.39.38:895][927]LogContentValidation: Display: Validating Blueprint /Game/ThirdPerson/irgoure_thisfolder/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2023.02.20-11.39.38:895][927]LogContentValidation: Display: Validating Blueprint /Game/ThirdPerson/irgoure_thisfolder/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode
+[2023.02.20-11.39.38:895][927]LogContentValidation: Display: Validating Blueprint /Game/ThirdPerson/irgoure_thisfolder/Blueprints/ThirdPersonOverview.ThirdPersonOverview
+[2023.02.20-11.39.38:895][927]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPerson/irgoure_thisfolder/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2023.02.20-11.39.38:895][927]LogContentValidation: Display: Validating World /Game/ThirdPerson/irgoure_thisfolder/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2023.02.20-11.39.38:895][927]LogContentValidation: Display: Validating Texture2D /Game/ThirdPerson/irgoure_thisfolder/signs/market_square/market_copy.market_copy
+[2023.02.20-11.39.38:895][927]LogContentValidation: Display: Validating Texture2D /Game/ThirdPerson/irgoure_thisfolder/signs/nottingham_train_station/nottingham_train_station__copy.nottingham_train_station__copy
+[2023.02.20-11.39.38:895][927]LogContentValidation: Display: Validating Material /Game/ThirdPerson/irgoure_thisfolder/signs/nottingham_train_station/sign_train_station_texture.sign_train_station_texture
+[2023.02.20-11.39.38:895][927]LogContentValidation: Display: Validating StaticMesh /Game/ThirdPerson/irgoure_thisfolder/signs/nottingham_train_station/sign_train_station.sign_train_station
+[2023.02.20-11.39.38:895][927]LogContentValidation: Display: Validating Texture2D /Game/ThirdPerson/irgoure_thisfolder/signs/theatre_royal/theatre_royal_copy.theatre_royal_copy
+[2023.02.20-11.39.38:895][927]LogContentValidation: Display: Validating Material /Game/ThirdPerson/irgoure_thisfolder/signs/sign_model/M_Sign.M_Sign
+[2023.02.20-11.39.38:896][927]LogContentValidation: Display: Validating StaticMesh /Game/ThirdPerson/irgoure_thisfolder/signs/sign_model/sign.sign
+[2023.02.20-11.39.38:896][927]LogContentValidation: Display: Validating Material /Game/ThirdPerson/irgoure_thisfolder/signs/theatre_royal/M_Sign_royal.M_Sign_royal
+[2023.02.20-11.39.38:896][927]LogContentValidation: Display: Validating StaticMesh /Game/ThirdPerson/irgoure_thisfolder/signs/theatre_royal/sign.sign
+[2023.02.20-11.39.53:436][634]LogMetaData: Removing '/Game/main_core/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C' ref from Metadata '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.PackageMetaData'
+[2023.02.20-11.39.53:436][634]LogMetaData: Removing '/Game/main_core/Blueprints/ThirdPersonCharacter.SKEL_ThirdPersonCharacter_C:InpAxisEvt_LookUp_K2Node_InputAxisEvent_40' ref from Metadata '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.PackageMetaData'
+[2023.02.20-11.39.53:436][634]LogMetaData: Removing '/Game/main_core/Blueprints/ThirdPersonCharacter.SKEL_ThirdPersonCharacter_C:InpAxisEvt_Turn_K2Node_InputAxisEvent_47' ref from Metadata '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.PackageMetaData'
+[2023.02.20-11.39.53:436][634]LogMetaData: Removing '/Game/main_core/Blueprints/ThirdPersonCharacter.SKEL_ThirdPersonCharacter_C:InpAxisEvt_MoveForward_K2Node_InputAxisEvent_79' ref from Metadata '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.PackageMetaData'
+[2023.02.20-11.39.53:436][634]LogMetaData: Removing '/Game/main_core/Blueprints/ThirdPersonCharacter.SKEL_ThirdPersonCharacter_C:InpAxisEvt_MoveRight_K2Node_InputAxisEvent_90' ref from Metadata '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.PackageMetaData'
+[2023.02.20-11.39.53:436][634]LogMetaData: Removing '/Game/main_core/Blueprints/ThirdPersonCharacter.SKEL_ThirdPersonCharacter_C:InpAxisEvt_TurnRate_K2Node_InputAxisEvent_38' ref from Metadata '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.PackageMetaData'
+[2023.02.20-11.39.53:436][634]LogMetaData: Removing '/Game/main_core/Blueprints/ThirdPersonCharacter.SKEL_ThirdPersonCharacter_C:InpAxisEvt_LookUpRate_K2Node_InputAxisEvent_53' ref from Metadata '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.PackageMetaData'
+[2023.02.20-11.39.53:436][634]LogMetaData: Removing '/Game/main_core/Blueprints/ThirdPersonCharacter.SKEL_ThirdPersonCharacter_C:UserConstructionScript' ref from Metadata '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.PackageMetaData'
+[2023.02.20-11.39.53:436][634]LogMetaData: Removing '/Game/main_core/Blueprints/ThirdPersonCharacter.SKEL_ThirdPersonCharacter_C' ref from Metadata '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.PackageMetaData'
+[2023.02.20-11.39.53:438][634]LogMetaData: Removing '/Game/main_core/assets/TramShelterStop.TramShelterStop' ref from Metadata '/Game/ThirdPersonBP/assets/TramShelterStop.PackageMetaData'
+[2023.02.20-11.39.53:442][634]LogMetaData: Removing '/Game/main_core/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' ref from Metadata '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.PackageMetaData'
+[2023.02.20-11.39.53:442][634]LogMetaData: Removing '/Game/main_core/Maps/ThirdPersonExampleMap.SKEL_ThirdPersonExampleMap_C' ref from Metadata '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.PackageMetaData'
+[2023.02.20-11.39.53:567][634]LogSavePackage: Moving '../../../../../../../New folder (8)/github/Nottingham_project/CIR_Nottingham main branch/Saved/ThirdPersonExampleMap_BuiltDataDD5B92A84E2A6237E3B8658D015D89E1.tmp' to '../../../../../../../New folder (8)/github/Nottingham_project/CIR_Nottingham main branch/Content/main_core/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2023.02.20-11.39.54:420][634]LogSavePackage: Moving '../../../../../../../New folder (8)/github/Nottingham_project/CIR_Nottingham main branch/Saved/ThirdPersonCharacter7DFE38864D6B523D0DA91CBA89369114.tmp' to '../../../../../../../New folder (8)/github/Nottingham_project/CIR_Nottingham main branch/Content/main_core/Blueprints/ThirdPersonCharacter.uasset'
+[2023.02.20-11.39.54:434][634]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/main_core/assets/Tram" FILE="../../../../../../../New folder (8)/github/Nottingham_project/CIR_Nottingham main branch/Content/main_core/assets/Tram.uasset" SILENT=true
+[2023.02.20-11.39.54:439][634]LogSavePackage: Moving '../../../../../../../New folder (8)/github/Nottingham_project/CIR_Nottingham main branch/Saved/Tram5821052745504833A002F1B7539D9763.tmp' to '../../../../../../../New folder (8)/github/Nottingham_project/CIR_Nottingham main branch/Content/main_core/assets/Tram.uasset'
+[2023.02.20-11.39.54:466][634]LogSavePackage: Moving '../../../../../../../New folder (8)/github/Nottingham_project/CIR_Nottingham main branch/Saved/TramShelterStopB3666090458C18D4EDB839BB8121CEE2.tmp' to '../../../../../../../New folder (8)/github/Nottingham_project/CIR_Nottingham main branch/Content/main_core/assets/TramShelterStop.uasset'
+[2023.02.20-11.39.54:475][634]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2023.02.20-11.39.54:497][634]LogSavePackage: Moving '../../../../../../../New folder (8)/github/Nottingham_project/CIR_Nottingham main branch/Saved/ThirdPersonExampleMapE79E60EF415AD03ED76B3092ED70D7C1.tmp' to '../../../../../../../New folder (8)/github/Nottingham_project/CIR_Nottingham main branch/Content/main_core/Maps/ThirdPersonExampleMap.umap'
+[2023.02.20-11.39.54:504][634]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.036
+[2023.02.20-11.39.54:557][634]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2023.02.20-11.39.54:562][634]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2023.02.20-11.39.54:567][634]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2023.02.20-11.39.54:571][634]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2023.02.20-11.39.54:576][634]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2023.02.20-11.39.54:588][634]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2023.02.20-11.39.54:592][634]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2023.02.20-11.39.54:641][634]AssetCheck: New page: Asset Save: multiple assets
+[2023.02.20-11.39.54:641][634]LogContentValidation: Display: Validating Blueprint /Game/main_core/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2023.02.20-11.39.54:641][634]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/main_core/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2023.02.20-11.39.54:641][634]LogContentValidation: Display: Validating Material /Game/main_core/assets/Tram.Tram
+[2023.02.20-11.39.54:641][634]LogContentValidation: Display: Validating StaticMesh /Game/main_core/assets/TramShelterStop.TramShelterStop
+[2023.02.20-11.39.54:641][634]LogContentValidation: Display: Validating World /Game/main_core/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2023.02.20-11.40.44:840][559]LogMetaData: Removing '/Game/main_core/signs/sign_model/sign.sign' ref from Metadata '/Game/ThirdPerson/irgoure_thisfolder/signs/sign_model/sign.PackageMetaData'
+[2023.02.20-11.40.44:860][559]LogSavePackage: Moving '../../../../../../../New folder (8)/github/Nottingham_project/CIR_Nottingham main branch/Saved/market_copy8586B8734839892093C97EBD7D7C9754.tmp' to '../../../../../../../New folder (8)/github/Nottingham_project/CIR_Nottingham main branch/Content/main_core/signs/market_square/market_copy.uasset'
+[2023.02.20-11.40.44:870][559]LogSavePackage: Moving '../../../../../../../New folder (8)/github/Nottingham_project/CIR_Nottingham main branch/Saved/nottingham_train_station__copyDAF05EC549A914F4F329D19114E2D746.tmp' to '../../../../../../../New folder (8)/github/Nottingham_project/CIR_Nottingham main branch/Content/main_core/signs/nottingham_train_station/nottingham_train_station__copy.uasset'
+[2023.02.20-11.40.44:890][559]LogSavePackage: Moving '../../../../../../../New folder (8)/github/Nottingham_project/CIR_Nottingham main branch/Saved/sign_train_station_textureAE4CFAF24E1DA7646B3A188DDA01CDD7.tmp' to '../../../../../../../New folder (8)/github/Nottingham_project/CIR_Nottingham main branch/Content/main_core/signs/nottingham_train_station/sign_train_station_texture.uasset'
+[2023.02.20-11.40.44:909][559]LogSavePackage: Moving '../../../../../../../New folder (8)/github/Nottingham_project/CIR_Nottingham main branch/Saved/sign_train_station6ECE61A548E6FE23A538F9A4D938B7C1.tmp' to '../../../../../../../New folder (8)/github/Nottingham_project/CIR_Nottingham main branch/Content/main_core/signs/nottingham_train_station/sign_train_station.uasset'
+[2023.02.20-11.40.44:918][559]LogSavePackage: Moving '../../../../../../../New folder (8)/github/Nottingham_project/CIR_Nottingham main branch/Saved/theatre_royal_copyB697FDEA431260A85195E9A0E8114C25.tmp' to '../../../../../../../New folder (8)/github/Nottingham_project/CIR_Nottingham main branch/Content/main_core/signs/theatre_royal/theatre_royal_copy.uasset'
+[2023.02.20-11.40.44:937][559]LogSavePackage: Moving '../../../../../../../New folder (8)/github/Nottingham_project/CIR_Nottingham main branch/Saved/M_Sign87EBB2214B2B303ADCBCBCB5CF3969AF.tmp' to '../../../../../../../New folder (8)/github/Nottingham_project/CIR_Nottingham main branch/Content/main_core/signs/sign_model/M_Sign.uasset'
+[2023.02.20-11.40.44:956][559]LogSavePackage: Moving '../../../../../../../New folder (8)/github/Nottingham_project/CIR_Nottingham main branch/Saved/signED06A7184A50A3D4E8703CA1503904A6.tmp' to '../../../../../../../New folder (8)/github/Nottingham_project/CIR_Nottingham main branch/Content/main_core/signs/sign_model/sign.uasset'
+[2023.02.20-11.40.44:975][559]LogSavePackage: Moving '../../../../../../../New folder (8)/github/Nottingham_project/CIR_Nottingham main branch/Saved/M_Sign_royal42145DAC4B6D037A78552080B6FC3729.tmp' to '../../../../../../../New folder (8)/github/Nottingham_project/CIR_Nottingham main branch/Content/main_core/signs/theatre_royal/M_Sign_royal.uasset'
+[2023.02.20-11.40.44:995][559]LogSavePackage: Moving '../../../../../../../New folder (8)/github/Nottingham_project/CIR_Nottingham main branch/Saved/sign5324E81144FB032C1AD13FA946322557.tmp' to '../../../../../../../New folder (8)/github/Nottingham_project/CIR_Nottingham main branch/Content/main_core/signs/theatre_royal/sign.uasset'
+[2023.02.20-11.40.45:076][559]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2023.02.20-11.40.45:080][559]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2023.02.20-11.40.45:085][559]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2023.02.20-11.40.45:089][559]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2023.02.20-11.40.45:093][559]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2023.02.20-11.40.45:097][559]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2023.02.20-11.40.45:102][559]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2023.02.20-11.40.45:106][559]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2023.02.20-11.40.45:110][559]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2023.02.20-11.40.45:120][559]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2023.02.20-11.40.45:124][559]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2023.02.20-11.40.45:175][559]AssetCheck: New page: Asset Save: multiple assets
+[2023.02.20-11.40.45:175][559]LogContentValidation: Display: Validating Texture2D /Game/main_core/signs/market_square/market_copy.market_copy
+[2023.02.20-11.40.45:175][559]LogContentValidation: Display: Validating Texture2D /Game/main_core/signs/nottingham_train_station/nottingham_train_station__copy.nottingham_train_station__copy
+[2023.02.20-11.40.45:175][559]LogContentValidation: Display: Validating Material /Game/main_core/signs/nottingham_train_station/sign_train_station_texture.sign_train_station_texture
+[2023.02.20-11.40.45:175][559]LogContentValidation: Display: Validating StaticMesh /Game/main_core/signs/nottingham_train_station/sign_train_station.sign_train_station
+[2023.02.20-11.40.45:175][559]LogContentValidation: Display: Validating Texture2D /Game/main_core/signs/theatre_royal/theatre_royal_copy.theatre_royal_copy
+[2023.02.20-11.40.45:175][559]LogContentValidation: Display: Validating Material /Game/main_core/signs/sign_model/M_Sign.M_Sign
+[2023.02.20-11.40.45:175][559]LogContentValidation: Display: Validating StaticMesh /Game/main_core/signs/sign_model/sign.sign
+[2023.02.20-11.40.45:175][559]LogContentValidation: Display: Validating Material /Game/main_core/signs/theatre_royal/M_Sign_royal.M_Sign_royal
+[2023.02.20-11.40.45:175][559]LogContentValidation: Display: Validating StaticMesh /Game/main_core/signs/theatre_royal/sign.sign
+[2023.02.20-11.40.45:467][564]LogAnimation: Warning: AnimBP ThirdPerson_AnimBP_C is incompatible with skeleton UE4_Mannequin_Skeleton, removing AnimBP from actor.
+[2023.02.20-11.40.45:587][569]LogMaterial: Display: Missing cached shadermap for Material_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 146459CD0C184D2877C7F30198087B40A240C71D), compiling. 
+[2023.02.20-11.40.45:602][570]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2023.02.20-11.40.45:603][570]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2023.02.20-11.40.45:603][570]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2023.02.20-11.40.45:603][570]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.02.20-11.40.45:687][570]LogShaderCompilers: Display: Submitted 41 shader compile jobs with 'Normal' priority
+[2023.02.20-11.40.45:687][570]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 41
+[2023.02.20-11.40.45:687][570]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 35
+[2023.02.20-11.40.45:687][570]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 29
+[2023.02.20-11.40.45:687][570]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 23
+[2023.02.20-11.40.45:687][570]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 17
+[2023.02.20-11.40.45:687][570]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 11
+[2023.02.20-11.40.45:687][570]LogShaderCompilers: Display: Started 36 'Local' shader compile jobs with 'Normal' priority
+[2023.02.20-11.40.45:721][570]LogMaterial: Display: Missing cached shadermap for Material_0 in PCD3D_SM5, Default, SM5 (DDC key hash: A8DBD00B966695AF57AC23450D5A241486DC90FA), compiling. 
+[2023.02.20-11.40.45:778][571]LogMaterial: Display: Missing cached shadermap for Material_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 0550185A2FB6DC77A4425FB975C8AD804FA6E083), compiling. 
+[2023.02.20-11.40.45:793][572]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2023.02.20-11.40.45:825][572]LogShaderCompilers: Display: Submitted 41 shader compile jobs with 'Normal' priority
+[2023.02.20-11.40.45:960][572]LogMaterial: Display: Missing cached shadermap for Material_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 2D3E16EA561E8F2ECA0544FF968D0472EEBF8F0A), compiling. 
+[2023.02.20-11.40.46:013][573]LogMaterial: Display: Missing cached shadermap for Material_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 149E11A767217DB9933B3B0438BBF44C8E58B1D5), compiling. 
+[2023.02.20-11.40.46:026][574]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2023.02.20-11.40.46:061][574]LogShaderCompilers: Display: Submitted 41 shader compile jobs with 'Normal' priority
+[2023.02.20-11.40.46:068][574]LogMaterial: Display: Missing cached shadermap for Material_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 9D497464AF11BF5E13B226E5AD785F407A062A60), compiling. 
+[2023.02.20-11.40.46:123][575]LogMaterial: Display: Missing cached shadermap for Material_0 in PCD3D_SM5, Default, SM5 (DDC key hash: FE00B7733910CA388F02CAAB9B3E6E0CE143324F), compiling. 
+[2023.02.20-11.40.46:146][576]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2023.02.20-11.40.46:187][576]LogShaderCompilers: Display: Submitted 41 shader compile jobs with 'Normal' priority
+[2023.02.20-11.40.46:196][576]LogMaterial: Display: Missing cached shadermap for Material_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 3E5553B8866C45A6C4EED6C36BA29467D5E02B20), compiling. 
+[2023.02.20-11.40.46:482][588]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 6
+[2023.02.20-11.40.46:482][588]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.02.20-11.40.46:573][592]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 5
+[2023.02.20-11.40.46:573][592]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.02.20-11.40.47:025][610]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 4
+[2023.02.20-11.40.47:025][610]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.02.20-11.40.47:120][611]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 3
+[2023.02.20-11.40.47:120][611]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.02.20-11.40.47:547][633]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 2
+[2023.02.20-11.40.47:547][633]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.02.20-11.40.47:635][640]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 1
+[2023.02.20-11.40.47:635][640]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.02.20-11.40.47:685][644]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 128
+[2023.02.20-11.40.47:685][644]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2023.02.20-11.40.47:791][653]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 118
+[2023.02.20-11.40.47:791][653]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2023.02.20-11.40.48:090][675]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 108
+[2023.02.20-11.40.48:090][675]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2023.02.20-11.40.48:166][682]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 98
+[2023.02.20-11.40.48:166][682]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2023.02.20-11.40.48:520][713]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 88
+[2023.02.20-11.40.48:520][713]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2023.02.20-11.40.48:537][714]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 78
+[2023.02.20-11.40.48:538][714]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2023.02.20-11.40.48:864][739]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 68
+[2023.02.20-11.40.48:865][739]LogShaderCompilers: Display: Started 9 'Local' shader compile jobs with 'Normal' priority
+[2023.02.20-11.40.49:348][781]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 59
+[2023.02.20-11.40.49:348][781]LogShaderCompilers: Display: Started 8 'Local' shader compile jobs with 'Normal' priority
+[2023.02.20-11.40.51:068][932]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 51
+[2023.02.20-11.40.51:068][932]LogShaderCompilers: Display: Started 7 'Local' shader compile jobs with 'Normal' priority
+[2023.02.20-11.40.51:395][961]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 44
+[2023.02.20-11.40.51:396][961]LogShaderCompilers: Display: Started 6 'Local' shader compile jobs with 'Normal' priority
+[2023.02.20-11.40.51:565][976]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 38
+[2023.02.20-11.40.51:565][976]LogShaderCompilers: Display: Started 5 'Local' shader compile jobs with 'Normal' priority
+[2023.02.20-11.40.52:186][ 32]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 33
+[2023.02.20-11.40.52:186][ 32]LogShaderCompilers: Display: Started 5 'Local' shader compile jobs with 'Normal' priority
+[2023.02.20-11.40.52:455][ 54]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 28
+[2023.02.20-11.40.52:455][ 54]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'Normal' priority
+[2023.02.20-11.40.52:532][ 61]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 24
+[2023.02.20-11.40.52:532][ 61]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'Normal' priority
+[2023.02.20-11.40.52:570][ 65]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 20
+[2023.02.20-11.40.52:570][ 65]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Normal' priority
+[2023.02.20-11.40.53:481][144]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 17
+[2023.02.20-11.40.53:481][144]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Normal' priority
+[2023.02.20-11.40.53:548][150]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 14
+[2023.02.20-11.40.53:548][150]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2023.02.20-11.40.53:653][160]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 12
+[2023.02.20-11.40.53:653][160]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2023.02.20-11.40.53:743][168]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 10
+[2023.02.20-11.40.53:744][168]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2023.02.20-11.40.53:918][181]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 8
+[2023.02.20-11.40.53:918][181]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2023.02.20-11.40.54:118][198]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2023.02.20-11.40.54:118][198]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.02.20-11.40.54:157][201]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 5
+[2023.02.20-11.40.54:157][201]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.02.20-11.40.54:215][204]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 4
+[2023.02.20-11.40.54:216][204]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.02.20-11.40.54:264][208]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 3
+[2023.02.20-11.40.54:264][208]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.02.20-11.40.54:303][212]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 2
+[2023.02.20-11.40.54:303][212]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.02.20-11.40.54:504][228]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 1
+[2023.02.20-11.40.54:504][228]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.02.20-11.40.56:690][428]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.02.20-11.40.56:720][428]LogContentBrowser: Creating deferred item: NewFolder
+[2023.02.20-11.41.02:036][ 66]LogContentBrowser: Attempting asset rename: NewFolder -> NewFolder
+[2023.02.20-11.41.02:036][ 66]LogContentBrowser: End creating deferred item NewFolder
+[2023.02.20-11.41.52:944][892]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (TramShelterStop3)
+[2023.02.20-11.41.54:220][973]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.02.20-11.52.12:238][618]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (TramShelterStop3)
+[2023.02.20-11.52.57:519][868]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 E:\New folder (8)\github\Nottingham_project\asset folder\models\master copys photoshop files sign work\sign.FBX)
+[2023.02.20-11.52.57:790][868]LogFbx: Loading FBX Scene from E:\New folder (8)\github\Nottingham_project\asset folder\models\master copys photoshop files sign work\sign.FBX
+[2023.02.20-11.52.57:813][868]LogFbx: FBX Scene Loaded Succesfully
+[2023.02.20-11.53.00:251][868]LogSlate: Window 'FBX Import Options' being destroyed
+[2023.02.20-11.53.00:846][868]LogMaterial: Display: Missing cached shadermap for M_Sign in PCD3D_SM5, Default, SM5 (DDC key hash: B3F8A51F4B87348E94C4160D4BF98B0487AEA13F), compiling. 
+[2023.02.20-11.53.00:849][868]LogFbx: Display: Triangulating mesh UCX_sign for collision model
+[2023.02.20-11.53.00:863][868]LogStaticMesh: Building static mesh sign...
+[2023.02.20-11.53.00:865][868]LogStaticMesh: Built static mesh [0.00s] /Game/main_core/signs/market_square/sign.sign
+[2023.02.20-11.53.00:869][868]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2023.02.20-11.53.01:032][868]LogSlate: Took 0.000163 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2023.02.20-11.53.01:066][873]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2023.02.20-11.53.01:071][873]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2023.02.20-11.53.01:071][873]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2023.02.20-11.53.01:071][873]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.02.20-11.53.01:074][873]LogShaderCompilers: Display: Submitted 14 shader compile jobs with 'Normal' priority
+[2023.02.20-11.53.01:155][880]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 14
+[2023.02.20-11.53.01:155][880]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 12
+[2023.02.20-11.53.01:155][880]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 10
+[2023.02.20-11.53.01:155][880]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 8
+[2023.02.20-11.53.01:155][880]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 6
+[2023.02.20-11.53.01:155][880]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 4
+[2023.02.20-11.53.01:155][880]LogShaderCompilers: Display: Started 12 'Local' shader compile jobs with 'Normal' priority
+[2023.02.20-11.53.01:860][931]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 2
+[2023.02.20-11.53.01:860][931]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.02.20-11.53.01:863][931]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.02.20-11.53.01:863][931]LogShaderCompilers: Display: Total job queries 360, among them cache hits 0 (0.00%)
+[2023.02.20-11.53.01:863][931]LogShaderCompilers: Display: Tracking 173 distinct input hashes that result in 81 distinct outputs (46.82%)
+[2023.02.20-11.53.01:863][931]LogShaderCompilers: Display: RAM used: 0.33 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.04%
+[2023.02.20-11.53.01:863][931]LogShaderCompilers: Display: ================================================
+[2023.02.20-11.53.02:028][944]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 1
+[2023.02.20-11.53.02:028][944]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.02.20-11.53.02:941][ 34]LogSlate: Window 'Message Log' being destroyed
+[2023.02.20-11.53.02:945][ 34]LogSlate: Window 'Message Log' being destroyed
+[2023.02.20-11.53.08:949][724]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/main_core/signs/market_square/sign.sign
+[2023.02.20-11.53.09:239][724]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/EditorMaterials/AssetViewer/EpicQuadPanorama_CC+EV1.EpicQuadPanorama_CC+EV1', its maximum texture size has been explicitly set to 512.
+[2023.02.20-11.53.09:504][724]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/MapTemplates/Sky/SunsetAmbientCubemap.SunsetAmbientCubemap', its maximum texture size has been explicitly set to 512.
+[2023.02.20-11.53.13:002][970]LogRenderer: Reallocating scene render targets to support 1432x920 Format 10 NumSamples 1 (Frame:209).
+[2023.02.20-11.53.13:002][970]LogSlate: Took 0.125532 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2023.02.20-11.53.14:511][ 95]LogSlate: Window 'sign' being destroyed
+[2023.02.20-11.53.30:127][924]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2023.02.20-11.53.30:127][924]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.20-11.53.34:516][400]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/main_core/signs/market_square/M_Sign.M_Sign
+[2023.02.20-11.53.34:618][400]LogMaterial: Display: Missing cached shadermap for M_Sign in PCD3D_SM5, Default, SM5 (DDC key hash: 4C03EACBF903A426D647E1297BB02E502FC9AD39), compiling. 
+[2023.02.20-11.53.34:949][400]LogMaterial: Display: Missing cached shadermap for M_Sign in PCD3D_SM5, Default, SM5 (DDC key hash: 5596B650A8763751569A60E1EE0AF88583E46857), compiling. 
+[2023.02.20-11.53.34:960][400]LogMaterial: Display: Missing cached shadermap for M_Sign in PCD3D_SM5, Default, SM5 (DDC key hash: 7EE1F61A79F1EBACFFF3EF942ED7ED9E1B86E0E0), compiling. 
+[2023.02.20-11.53.34:962][400]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_0 in PCD3D_SM5, Default, SM5 (DDC key hash: C1D3B4AD5E13B3D40415603FF253D4D66956BEA6), compiling. 
+[2023.02.20-11.53.34:978][400]MaterialEditorStats: Texture samplers: 0/16
+[2023.02.20-11.53.34:984][400]LogSlate: Took 0.001059 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2023.02.20-11.53.35:264][401]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2023.02.20-11.53.35:264][401]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2023.02.20-11.53.35:264][401]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2023.02.20-11.53.35:264][401]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.02.20-11.53.35:272][401]MaterialEditorStats: Base pass shader: 119 instructions
+[2023.02.20-11.53.35:272][401]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 193 instructions
+[2023.02.20-11.53.35:272][401]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2023.02.20-11.53.35:272][401]MaterialEditorStats: Texture samplers: 2/16
+[2023.02.20-11.53.39:655][757]LogSlate: Window 'M_Sign' being destroyed
+[2023.02.20-11.53.44:013][269]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2023.02.20-11.53.44:013][269]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.20-11.53.45:451][424]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/main_core/signs/market_square/market_copy.market_copy
+[2023.02.20-11.53.45:792][424]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'TextureEditor' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2023.02.20-11.53.50:914][954]LogSlate: Window 'market_copy' being destroyed
+[2023.02.20-11.54.03:084][365]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/main_core/signs/market_square/M_Sign.M_Sign
+[2023.02.20-11.54.03:085][365]LogMaterial: Display: Missing cached shadermap for PreviewMaterial_0 in PCD3D_SM5, Default, SM5 (DDC key hash: D4A4BD7408F33B9BD78E60771F1B23D574A5E078), compiling. 
+[2023.02.20-11.54.03:094][365]LogShaderCompilers: Display: Submitted 10 shader compile jobs with 'Normal' priority
+[2023.02.20-11.54.03:150][365]LogMaterial: Display: Missing cached shadermap for PreviewMaterial_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 0886478D0BD56EEAC67FE3BB5CD9E5C59E947103), compiling. 
+[2023.02.20-11.54.03:153][365]LogMaterial: Display: Missing cached shadermap for PreviewMaterial_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 5F5654DD1D2A0561B1ACDB29ECFE4E82E14CD080), compiling. 
+[2023.02.20-11.54.03:154][365]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 0DB3B2F35483ACC6AE8632CD3719037C2724E738), compiling. 
+[2023.02.20-11.54.03:163][365]MaterialEditorStats: Texture samplers: 0/16
+[2023.02.20-11.54.03:234][366]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2023.02.20-11.54.03:234][366]LogShaderCompilers: Display: Submitted 8 shader compile jobs with 'Normal' priority
+[2023.02.20-11.54.03:234][366]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2023.02.20-11.54.03:234][366]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2023.02.20-11.54.03:234][366]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 8
+[2023.02.20-11.54.03:234][366]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2023.02.20-11.54.03:234][366]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 4
+[2023.02.20-11.54.03:234][366]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 2
+[2023.02.20-11.54.03:234][366]LogShaderCompilers: Display: Started 8 'Local' shader compile jobs with 'Normal' priority
+[2023.02.20-11.54.03:234][366]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.02.20-11.54.04:050][459]MaterialEditorStats: Texture samplers: 2/16
+[2023.02.20-11.54.04:624][523]MaterialEditorStats: Base pass shader: 119 instructions
+[2023.02.20-11.54.04:624][523]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 193 instructions
+[2023.02.20-11.54.04:624][523]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2023.02.20-11.54.04:624][523]MaterialEditorStats: Texture samplers: 2/16
+[2023.02.20-11.54.11:027][109]LogMaterial: Display: Missing cached shadermap for PreviewMaterial_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 2EB45CEFE677CB3FD68490DC9B56FFBC45AC0334), compiling. 
+[2023.02.20-11.54.11:029][109]MaterialEditorStats: Texture samplers: 0/16
+[2023.02.20-11.54.11:052][110]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2023.02.20-11.54.11:053][110]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2023.02.20-11.54.11:053][110]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2023.02.20-11.54.11:053][110]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.02.20-11.54.11:053][110]LogShaderCompilers: Display: Submitted 8 shader compile jobs with 'Normal' priority
+[2023.02.20-11.54.11:053][110]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 8
+[2023.02.20-11.54.11:053][110]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2023.02.20-11.54.11:053][110]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 4
+[2023.02.20-11.54.11:053][110]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 2
+[2023.02.20-11.54.11:053][110]LogShaderCompilers: Display: Started 8 'Local' shader compile jobs with 'Normal' priority
+[2023.02.20-11.54.11:559][167]MaterialEditorStats: Texture samplers: 2/16
+[2023.02.20-11.54.12:103][232]MaterialEditorStats: Base pass shader: 117 instructions
+[2023.02.20-11.54.12:103][232]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2023.02.20-11.54.12:103][232]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2023.02.20-11.54.12:103][232]MaterialEditorStats: Texture samplers: 2/16
+[2023.02.20-11.54.17:052][785]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/main_core/signs/nottingham_train_station/sign_train_station_texture.sign_train_station_texture
+[2023.02.20-11.54.17:053][785]LogMaterial: Display: Missing cached shadermap for sign_train_station_texture in PCD3D_SM5, Default, SM5 (DDC key hash: 0986BFDB0B3C1C862112F1ECE67C58E4A54A3917), compiling. 
+[2023.02.20-11.54.17:062][785]LogShaderCompilers: Display: Submitted 10 shader compile jobs with 'Normal' priority
+[2023.02.20-11.54.17:120][785]LogMaterial: Display: Missing cached shadermap for sign_train_station_texture in PCD3D_SM5, Default, SM5 (DDC key hash: 2AFD1CD0672218EE5AB47845C4761432C104DE9E), compiling. 
+[2023.02.20-11.54.17:122][785]LogMaterial: Display: Missing cached shadermap for sign_train_station_texture in PCD3D_SM5, Default, SM5 (DDC key hash: DBE9C207C24B05744EBA853F6CD4378C59AEB825), compiling. 
+[2023.02.20-11.54.17:124][785]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: DA415D1EDB9D01A48D953B12F1E832C6258FCB5A), compiling. 
+[2023.02.20-11.54.17:126][785]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 32A142589F97499052A78756AD69EB2303DA85B2), compiling. 
+[2023.02.20-11.54.17:137][785]MaterialEditorStats: Texture samplers: 0/16
+[2023.02.20-11.54.17:137][785]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2023.02.20-11.54.17:137][785]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.02.20-11.54.17:250][786]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2023.02.20-11.54.17:250][786]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2023.02.20-11.54.17:251][786]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2023.02.20-11.54.17:251][786]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.02.20-11.54.17:251][786]LogShaderCompilers: Display: Submitted 8 shader compile jobs with 'Normal' priority
+[2023.02.20-11.54.17:251][786]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 8
+[2023.02.20-11.54.17:251][786]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2023.02.20-11.54.17:251][786]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 4
+[2023.02.20-11.54.17:251][786]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 2
+[2023.02.20-11.54.17:251][786]LogShaderCompilers: Display: Started 8 'Local' shader compile jobs with 'Normal' priority
+[2023.02.20-11.54.17:735][835]MaterialEditorStats: Texture samplers: 3/16
+[2023.02.20-11.54.17:735][835]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2023.02.20-11.54.17:735][835]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.02.20-11.54.18:161][883]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2023.02.20-11.54.18:161][883]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2023.02.20-11.54.18:161][883]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2023.02.20-11.54.18:161][883]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.02.20-11.54.18:179][885]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2023.02.20-11.54.18:179][885]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 2
+[2023.02.20-11.54.18:179][885]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 1
+[2023.02.20-11.54.18:179][885]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.02.20-11.54.18:292][898]MaterialEditorStats: Base pass shader: 126 instructions
+[2023.02.20-11.54.18:293][898]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 200 instructions
+[2023.02.20-11.54.18:293][898]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2023.02.20-11.54.18:293][898]MaterialEditorStats: Texture samplers: 3/16
+[2023.02.20-11.54.18:293][898]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2023.02.20-11.54.18:293][898]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.02.20-11.54.27:933][  8]LogUObjectHash: Warning: Ambiguous path search, could be MaterialGraphNode /Engine/Transient.sign_train_station_texture:MaterialGraph_0.MaterialGraphNode_3 or MaterialGraphNode /Engine/Transient.PreviewMaterial_0:MaterialGraph_0.MaterialGraphNode_3
+[2023.02.20-11.54.27:933][  8]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionTextureSample'"MaterialGraphNode_3.MaterialExpressionTextureSample_0"',Mask=1,MaskR=1,MaskG=1,MaskB=1)'
+[2023.02.20-11.54.27:933][  8]LogUObjectHash: Warning: Ambiguous path search, could be MaterialGraphNode /Engine/Transient.sign_train_station_texture:MaterialGraph_0.MaterialGraphNode_3 or MaterialGraphNode /Engine/Transient.PreviewMaterial_0:MaterialGraph_0.MaterialGraphNode_3
+[2023.02.20-11.54.27:933][  8]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionTextureSample'"MaterialGraphNode_3.MaterialExpressionTextureSample_0"',OutputIndex=4,Mask=1,MaskA=1)'
+[2023.02.20-11.54.27:933][  8]LogUObjectHash: Warning: Ambiguous path search, could be MaterialGraphNode /Engine/Transient.sign_train_station_texture:MaterialGraph_0.MaterialGraphNode_3 or MaterialGraphNode /Engine/Transient.PreviewMaterial_0:MaterialGraph_0.MaterialGraphNode_3
+[2023.02.20-11.54.27:933][  8]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionTextureSample'"MaterialGraphNode_3.MaterialExpressionTextureSample_0"',OutputIndex=4,Mask=1,MaskA=1)'
+[2023.02.20-11.54.27:933][  8]LogUObjectHash: Warning: Ambiguous path search, could be MaterialGraphNode /Engine/Transient.sign_train_station_texture:MaterialGraph_0.MaterialGraphNode_6 or MaterialGraphNode /Engine/Transient.PreviewMaterial_0:MaterialGraph_0.MaterialGraphNode_6
+[2023.02.20-11.54.27:933][  8]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionConstant'"MaterialGraphNode_6.MaterialExpressionConstant_0"')'
+[2023.02.20-11.54.27:933][  8]LogUObjectHash: Warning: Ambiguous path search, could be MaterialGraphNode /Engine/Transient.sign_train_station_texture:MaterialGraph_0.MaterialGraphNode_4 or MaterialGraphNode /Engine/Transient.PreviewMaterial_0:MaterialGraph_0.MaterialGraphNode_4
+[2023.02.20-11.54.27:933][  8]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionTextureSample'"MaterialGraphNode_4.MaterialExpressionTextureSample_1"',Mask=1,MaskR=1,MaskG=1,MaskB=1)'
+[2023.02.20-11.54.27:933][  8]LogUObjectHash: Warning: Ambiguous path search, could be MaterialGraphNode /Engine/Transient.sign_train_station_texture:MaterialGraph_0.MaterialGraphNode_5 or MaterialGraphNode /Engine/Transient.PreviewMaterial_0:MaterialGraph_0.MaterialGraphNode_5
+[2023.02.20-11.54.27:933][  8]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionOneMinus'"MaterialGraphNode_5.MaterialExpressionOneMinus_0"')'
+[2023.02.20-11.54.27:934][  8]LogUObjectHash: Warning: Ambiguous path search, could be MaterialGraphNode /Engine/Transient.sign_train_station_texture:MaterialGraph_0.MaterialGraphNode_7 or MaterialGraphNode /Engine/Transient.PreviewMaterial_0:MaterialGraph_0.MaterialGraphNode_7
+[2023.02.20-11.54.27:934][  8]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionPanner'"MaterialGraphNode_7.MaterialExpressionPanner_0"')'
+[2023.02.20-11.54.27:935][  8]LogUObjectHash: Warning: Ambiguous path search, could be MaterialGraphNode /Engine/Transient.sign_train_station_texture:MaterialGraph_0.MaterialGraphNode_4 or MaterialGraphNode /Engine/Transient.PreviewMaterial_0:MaterialGraph_0.MaterialGraphNode_4
+[2023.02.20-11.54.27:935][  8]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionTextureSample'"MaterialGraphNode_4.MaterialExpressionTextureSample_1"',OutputIndex=4,Mask=1,MaskA=1)'
+[2023.02.20-11.54.27:935][  8]LogUObjectHash: Warning: Ambiguous path search, could be MaterialGraphNode /Engine/Transient.sign_train_station_texture:MaterialGraph_0.MaterialGraphNode_8 or MaterialGraphNode /Engine/Transient.PreviewMaterial_0:MaterialGraph_0.MaterialGraphNode_8
+[2023.02.20-11.54.27:935][  8]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionTextureCoordinate'"MaterialGraphNode_8.MaterialExpressionTextureCoordinate_0"')'
+[2023.02.20-11.54.28:076][  8]LogMaterial: Display: Missing cached shadermap for PreviewMaterial_0 in PCD3D_SM5, Default, SM5 (DDC key hash: F3F1581749A76EAD58767D418CC6694B2C566D4A), compiling. 
+[2023.02.20-11.54.28:079][  8]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: DF83791949795FAA074B4DE2DED0DD69EC62B4C0), compiling. 
+[2023.02.20-11.54.28:080][  8]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_1 in PCD3D_SM5, Default, SM5 (DDC key hash: F85D3908B955F6A61E531CDCABEFE5BA5FAA0E82), compiling. 
+[2023.02.20-11.54.28:083][  8]MaterialEditorStats: Texture samplers: 0/16
+[2023.02.20-11.54.28:107][ 10]MaterialEditorStats: Base pass shader: 117 instructions
+[2023.02.20-11.54.28:107][ 10]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2023.02.20-11.54.28:107][ 10]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2023.02.20-11.54.28:107][ 10]MaterialEditorStats: Texture samplers: 2/16
+[2023.02.20-11.54.38:988][279]LogMaterial: Display: Missing cached shadermap for PreviewMaterial_0 in PCD3D_SM5, Default, SM5 (DDC key hash: F0F8DB5F77922398C23CFEDBF13F6BC4589729B1), compiling. 
+[2023.02.20-11.54.38:990][279]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: B54C16C08DE44B211196BC23815BC8547EB691CA), compiling. 
+[2023.02.20-11.54.38:992][279]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 7C16A5FE6B9C1A94B5CDC0D011391536ABEF4FFF), compiling. 
+[2023.02.20-11.54.38:994][279]LogMaterial: Display: Missing cached shadermap for PreviewMaterial_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 024DDFB892A8BF1FA3F265A5861CEEA1F1C1DFB7), compiling. 
+[2023.02.20-11.54.38:998][279]MaterialEditorStats: Texture samplers: 0/16
+[2023.02.20-11.54.39:040][280]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2023.02.20-11.54.39:040][280]MaterialEditorStats: Base pass shader: 117 instructions
+[2023.02.20-11.54.39:040][280]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2023.02.20-11.54.39:040][280]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2023.02.20-11.54.39:040][280]MaterialEditorStats: Texture samplers: 2/16
+[2023.02.20-11.54.39:046][281]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2023.02.20-11.54.39:046][281]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2023.02.20-11.54.39:046][281]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.02.20-11.54.43:283][774]LogMaterial: Display: Missing cached shadermap for PreviewMaterial_0 in PCD3D_SM5, Default, SM5 (DDC key hash: A9485458E2804EB8B7CE77E440C0F8FC29B4020D), compiling. 
+[2023.02.20-11.54.43:285][774]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_1 in PCD3D_SM5, Default, SM5 (DDC key hash: A49172FA771A60EFF3A01299FEF112448305B7DD), compiling. 
+[2023.02.20-11.54.43:288][774]LogMaterial: Display: Missing cached shadermap for PreviewMaterial_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 61B56EAFE1F455A2C7EB5FDCC66D75459691C67C), compiling. 
+[2023.02.20-11.54.43:291][774]MaterialEditorStats: Texture samplers: 0/16
+[2023.02.20-11.54.43:299][775]MaterialEditorStats: Texture samplers: 2/16
+[2023.02.20-11.54.43:320][777]MaterialEditorStats: Base pass shader: 117 instructions
+[2023.02.20-11.54.43:320][777]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2023.02.20-11.54.43:320][777]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2023.02.20-11.54.43:320][777]MaterialEditorStats: Texture samplers: 2/16
+[2023.02.20-11.54.51:153][700]LogMaterial: Display: Missing cached shadermap for PreviewMaterial_0 in PCD3D_SM5, Default, SM5 (DDC key hash: BCEB323BC8AB45B160E2EDAA01342096C00E2110), compiling. 
+[2023.02.20-11.54.51:156][700]MaterialEditorStats: Texture samplers: 0/16
+[2023.02.20-11.54.51:157][700]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2023.02.20-11.54.51:157][700]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.02.20-11.54.51:162][701]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2023.02.20-11.54.51:168][702]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2023.02.20-11.54.51:168][702]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2023.02.20-11.54.51:168][702]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.02.20-11.54.51:168][702]LogShaderCompilers: Display: Submitted 8 shader compile jobs with 'Normal' priority
+[2023.02.20-11.54.51:177][703]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 8
+[2023.02.20-11.54.51:177][703]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2023.02.20-11.54.51:177][703]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 4
+[2023.02.20-11.54.51:177][703]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 2
+[2023.02.20-11.54.51:177][703]LogShaderCompilers: Display: Started 8 'Local' shader compile jobs with 'Normal' priority
+[2023.02.20-11.54.51:646][744]MaterialEditorStats: Texture samplers: 3/16
+[2023.02.20-11.54.51:646][744]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2023.02.20-11.54.51:646][744]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.02.20-11.54.52:660][853]MaterialEditorStats: Base pass shader: 120 instructions
+[2023.02.20-11.54.52:660][853]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 194 instructions
+[2023.02.20-11.54.52:660][853]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2023.02.20-11.54.52:660][853]MaterialEditorStats: Texture samplers: 3/16
+[2023.02.20-11.54.52:660][853]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2023.02.20-11.54.52:660][853]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.02.20-11.55.05:304][350]LogMaterial: Display: Missing cached shadermap for PreviewMaterial_0 in PCD3D_SM5, Default, SM5 (DDC key hash: CFF0E4BB39D8BFCE141DF95FA6B707C1C7B1069C), compiling. 
+[2023.02.20-11.55.05:307][350]MaterialEditorStats: Texture samplers: 0/16
+[2023.02.20-11.55.05:307][350]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2023.02.20-11.55.05:307][350]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.02.20-11.55.05:313][351]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2023.02.20-11.55.05:313][351]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2023.02.20-11.55.05:313][351]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2023.02.20-11.55.05:313][351]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.02.20-11.55.05:319][352]LogShaderCompilers: Display: Submitted 8 shader compile jobs with 'Normal' priority
+[2023.02.20-11.55.05:320][352]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 8
+[2023.02.20-11.55.05:320][352]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2023.02.20-11.55.05:320][352]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 4
+[2023.02.20-11.55.05:320][352]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 2
+[2023.02.20-11.55.05:320][352]LogShaderCompilers: Display: Started 8 'Local' shader compile jobs with 'Normal' priority
+[2023.02.20-11.55.05:859][403]MaterialEditorStats: Texture samplers: 3/16
+[2023.02.20-11.55.05:859][403]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2023.02.20-11.55.05:859][403]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.02.20-11.55.06:412][464]MaterialEditorStats: Base pass shader: 120 instructions
+[2023.02.20-11.55.06:412][464]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 194 instructions
+[2023.02.20-11.55.06:412][464]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2023.02.20-11.55.06:412][464]MaterialEditorStats: Texture samplers: 3/16
+[2023.02.20-11.55.06:412][464]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2023.02.20-11.55.06:412][464]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.02.20-11.55.11:096][ 11]LogMaterial: Display: Missing cached shadermap for PreviewMaterial_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 2E9635AF35114CBDC43705363014DA692125F731), compiling. 
+[2023.02.20-11.55.11:100][ 11]MaterialEditorStats: Texture samplers: 0/16
+[2023.02.20-11.55.11:100][ 11]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2023.02.20-11.55.11:100][ 11]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.02.20-11.55.11:105][ 12]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2023.02.20-11.55.11:111][ 13]LogShaderCompilers: Display: Submitted 8 shader compile jobs with 'Normal' priority
+[2023.02.20-11.55.11:113][ 13]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2023.02.20-11.55.11:113][ 13]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2023.02.20-11.55.11:113][ 13]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 8
+[2023.02.20-11.55.11:113][ 13]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2023.02.20-11.55.11:113][ 13]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 4
+[2023.02.20-11.55.11:113][ 13]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 2
+[2023.02.20-11.55.11:113][ 13]LogShaderCompilers: Display: Started 8 'Local' shader compile jobs with 'Normal' priority
+[2023.02.20-11.55.11:113][ 13]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.02.20-11.55.11:681][ 68]MaterialEditorStats: Texture samplers: 3/16
+[2023.02.20-11.55.11:681][ 68]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2023.02.20-11.55.11:681][ 68]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.02.20-11.55.12:216][126]MaterialEditorStats: Base pass shader: 126 instructions
+[2023.02.20-11.55.12:216][126]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 200 instructions
+[2023.02.20-11.55.12:216][126]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2023.02.20-11.55.12:216][126]MaterialEditorStats: Texture samplers: 3/16
+[2023.02.20-11.55.12:216][126]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2023.02.20-11.55.12:216][126]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.02.20-11.55.12:619][173]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2023.02.20-11.55.12:619][173]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.20-11.55.17:016][496]LogSlate: Window 'Message' being destroyed
+[2023.02.20-11.55.17:019][496]Message dialog closed, result: Yes, title: Message, text: Would you like to apply the changes of the modified material to the original material?
+/Game/main_core/signs/market_square/M_Sign.M_Sign
+(Selecting 'No' will cause all changes to be lost!)
+[2023.02.20-11.55.17:407][496]LogMaterial: Display: Missing cached shadermap for PreviewMaterial_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 55CF07CE2EE37B1F00BA130C52F90112BDE77A7B), compiling. 
+[2023.02.20-11.55.17:425][496]LogMaterial: Display: Missing cached shadermap for M_Sign in PCD3D_SM5, Default, SM5 (DDC key hash: 3905A1204C2BB02727AB5C3C3E311AEA1CF1AF4F), compiling. 
+[2023.02.20-11.55.17:462][496]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2023.02.20-11.55.17:467][496]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2023.02.20-11.55.18:141][496]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2023.02.20-11.55.18:141][496]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2023.02.20-11.55.18:141][496]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.02.20-11.55.18:153][496]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2023.02.20-11.55.18:169][496]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2023.02.20-11.55.18:169][496]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.20-11.55.18:941][579]LogSavePackage: Moving '../../../../../../../New folder (8)/github/Nottingham_project/CIR_Nottingham main branch/Saved/market_copyB97640184FFD25A3597510A5C8AF1CCA.tmp' to '../../../../../../../New folder (8)/github/Nottingham_project/CIR_Nottingham main branch/Content/main_core/signs/market_square/market_copy.uasset'
+[2023.02.20-11.55.18:951][579]AssetCheck: New page: Asset Save: market_copy
+[2023.02.20-11.55.18:951][579]LogContentValidation: Display: Validating Texture2D /Game/main_core/signs/market_square/market_copy.market_copy
+[2023.02.20-11.55.23:866][151]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2023.02.20-11.55.23:874][152]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2023.02.20-11.55.23:874][152]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2023.02.20-11.55.23:874][152]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.02.20-11.55.23:881][152]LogShaderCompilers: Display: Submitted 12 shader compile jobs with 'Normal' priority
+[2023.02.20-11.55.23:882][152]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 12
+[2023.02.20-11.55.23:882][152]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 10
+[2023.02.20-11.55.23:882][152]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 8
+[2023.02.20-11.55.23:882][152]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 6
+[2023.02.20-11.55.23:882][152]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 4
+[2023.02.20-11.55.23:882][152]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2023.02.20-11.55.23:882][152]LogShaderCompilers: Display: Started 12 'Local' shader compile jobs with 'Normal' priority
+[2023.02.20-11.55.33:202][175]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/main_core/signs/market_square/sign.sign
+[2023.02.20-11.55.37:430][560]LogSlate: Window 'sign' being destroyed
+[2023.02.20-11.55.39:587][817]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2023.02.20-11.55.39:587][817]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.20-11.56.16:578][909]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2023.02.20-11.56.16:581][909]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/main_core/Maps/ThirdPersonExampleMap' took 0.009
+[2023.02.20-11.56.16:583][909]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/main_core/signs/market_square/sign] ([1] browsable assets)...
+[2023.02.20-11.56.16:592][909]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/main_core/signs/market_square/sign.sign]
+[2023.02.20-11.56.16:592][909]OBJ SavePackage: Finished generating thumbnails for package [/Game/main_core/signs/market_square/sign]
+[2023.02.20-11.56.16:600][909]LogSavePackage: Moving '../../../../../../../New folder (8)/github/Nottingham_project/CIR_Nottingham main branch/Saved/sign_Auto197FC482D44D6E9A2EAD2C6973C30D6FF.tmp' to '../../../../../../../New folder (8)/github/Nottingham_project/CIR_Nottingham main branch/Saved/Autosaves/Game/main_core/signs/market_square/sign_Auto1.uasset'
+[2023.02.20-11.56.16:602][909]LogFileHelpers: Auto-saving content packages took 0.022
