@@ -629,3 +629,14 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2023.02.20-11.28.21:894][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
 [2023.02.20-11.28.21:895][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
 [2023.02.20-11.28.21:895][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2023.02.20-11.28.25:433][  0]LogOpenImageDenoise: OIDN starting up
+[2023.02.20-11.28.25:726][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2023.02.20-11.28.25:876][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2023.02.20-11.28.25:876][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2023.02.20-11.28.27:363][  0]LogCollectionManager: Loaded 0 collections in 0.002206 seconds
+[2023.02.20-11.28.27:752][  0]LogFileCache: Scanning file cache for directory 'E:/New folder (8)/github/Nottingham_project/CIR_Nottingham main branch/Saved/Collections/' took 0.00s
+[2023.02.20-11.28.27:752][  0]LogFileCache: Scanning file cache for directory 'E:/New folder (8)/github/Nottingham_project/CIR_Nottingham main branch/Content/Developers/Liam/Collections/' took 0.00s
+[2023.02.20-11.28.27:752][  0]LogFileCache: Scanning file cache for directory 'E:/New folder (8)/github/Nottingham_project/CIR_Nottingham main branch/Content/Collections/' took 0.00s
+[2023.02.20-11.28.27:752][  0]LogOcInput: OculusInput pre-init called
+[2023.02.20-11.28.31:404][  0]LogEngine: Initializing Engine...
+[2023.02.20-11.28.31:529][  0]LogHMD: Failed to enumerate extensions. Please check that you have a valid OpenXR runtime installed.
