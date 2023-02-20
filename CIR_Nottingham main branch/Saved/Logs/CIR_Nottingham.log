@@ -947,3 +947,20 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2023.02.20-13.11.58:134][576]LogSlate: Took 0.000267 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
 [2023.02.20-13.11.58:205][577]LogSlate: Took 0.000279 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
 [2023.02.20-13.12.00:091][723]LogRenderer: Reallocating scene render targets to support 1156x632 Format 10 NumSamples 1 (Frame:1).
+[2023.02.20-13.12.42:727][447]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.02.20-13.12.42:756][447]LogContentBrowser: Creating deferred item: NewFolder
+[2023.02.20-13.12.44:917][658]LogContentBrowser: Attempting asset rename: NewFolder -> audio
+[2023.02.20-13.12.44:917][658]LogContentBrowser: End creating deferred item NewFolder
+[2023.02.20-13.12.49:591][102]BlueprintLog: New page: Compile tram_2_1
+[2023.02.20-13.12.49:744][102]LogUObjectHash: Compacting FUObjectHashTables data took   4.41ms
+[2023.02.20-13.12.49:779][102]LogSlate: Took 0.000249 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2023.02.20-13.12.58:362][795]BlueprintLog: New page: Compile tram_2_1
+[2023.02.20-13.12.58:410][795]LogUObjectHash: Compacting FUObjectHashTables data took   3.87ms
+[2023.02.20-13.14.23:028][462]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (TramShelterStop3)
+[2023.02.20-13.14.44:204][458]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.02.20-13.14.44:224][458]LogContentBrowser: Creating deferred item: NewFolder
+[2023.02.20-13.14.47:470][769]LogContentBrowser: Attempting asset rename: NewFolder -> stop_system
+[2023.02.20-13.14.47:471][769]LogContentBrowser: End creating deferred item NewFolder
+[2023.02.20-13.14.52:752][274]LogSlate: Window 'tram_2_1' being destroyed
+[2023.02.20-13.14.52:762][274]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2023.02.20-13.14.52:762][274]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
