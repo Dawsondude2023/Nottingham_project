@@ -895,3 +895,818 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2023.02.20-11.29.41:369][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000006 seconds (updated 0 objects)
 [2023.02.20-11.29.41:555][  0]LogContentStreaming: Texture pool size now 1000 MB
 [2023.02.20-11.29.42:200][  2]LogSlate: Took 0.013206 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.02.20-11.37.18:152][289]LogSlate: Took 0.000258 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.02.20-11.37.18:406][289]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Mannequin/Animations/ThirdPersonJump_End.ThirdPersonJump_End
+[2023.02.20-11.37.18:901][289]LogMetaData: Removing '/Game/Geometry/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton.UE4_Mannequin_Skeleton' ref from Metadata '/Game/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton.PackageMetaData'
+[2023.02.20-11.37.18:901][289]LogMetaData: Removing '/Game/Geometry/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C' ref from Metadata '/Game/Mannequin/Animations/ThirdPerson_AnimBP.PackageMetaData'
+[2023.02.20-11.37.18:901][289]LogMetaData: Removing '/Game/Geometry/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP:AnimGraph.AnimGraphNode_StateMachine_1.Default.AnimStateTransitionNode_4.Transition.AnimGraphNode_TransitionResult_26' ref from Metadata '/Game/Mannequin/Animations/ThirdPerson_AnimBP.PackageMetaData'
+[2023.02.20-11.37.18:901][289]LogMetaData: Removing '/Game/Geometry/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP:AnimGraph.AnimGraphNode_StateMachine_1.Default.AnimStateTransitionNode_6.Transition.AnimGraphNode_TransitionResult_37' ref from Metadata '/Game/Mannequin/Animations/ThirdPerson_AnimBP.PackageMetaData'
+[2023.02.20-11.37.18:901][289]LogMetaData: Removing '/Game/Geometry/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP:AnimGraph.AnimGraphNode_StateMachine_1.Default.AnimStateTransitionNode_2.Transition.AnimGraphNode_TransitionResult_15' ref from Metadata '/Game/Mannequin/Animations/ThirdPerson_AnimBP.PackageMetaData'
+[2023.02.20-11.37.18:901][289]LogMetaData: Removing '/Game/Geometry/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP:AnimGraph.AnimGraphNode_StateMachine_1.Default.AnimStateTransitionNode_8.Transition.AnimGraphNode_TransitionResult_48' ref from Metadata '/Game/Mannequin/Animations/ThirdPerson_AnimBP.PackageMetaData'
+[2023.02.20-11.37.18:901][289]LogMetaData: Removing '/Game/Geometry/Mannequin/Animations/ThirdPerson_AnimBP.SKEL_ThirdPerson_AnimBP_C:BlueprintUpdateAnimation' ref from Metadata '/Game/Mannequin/Animations/ThirdPerson_AnimBP.PackageMetaData'
+[2023.02.20-11.37.18:901][289]LogMetaData: Removing '/Game/Geometry/Mannequin/Animations/ThirdPerson_AnimBP.SKEL_ThirdPerson_AnimBP_C:AnimGraph' ref from Metadata '/Game/Mannequin/Animations/ThirdPerson_AnimBP.PackageMetaData'
+[2023.02.20-11.37.18:901][289]LogMetaData: Removing '/Game/Geometry/Mannequin/Animations/ThirdPerson_AnimBP.SKEL_ThirdPerson_AnimBP_C' ref from Metadata '/Game/Mannequin/Animations/ThirdPerson_AnimBP.PackageMetaData'
+[2023.02.20-11.37.18:901][289]LogMetaData: Removing '/Game/Geometry/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:BlueprintUpdateAnimation' ref from Metadata '/Game/Mannequin/Animations/ThirdPerson_AnimBP.PackageMetaData'
+[2023.02.20-11.37.18:901][289]LogMetaData: Removing '/Game/Geometry/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:AnimGraph' ref from Metadata '/Game/Mannequin/Animations/ThirdPerson_AnimBP.PackageMetaData'
+[2023.02.20-11.37.19:178][289]LogMetaData: Removing '/Game/Geometry/Mannequin/Character/Mesh/SK_Mannequin_Female.SK_Mannequin_Female' ref from Metadata '/Game/Mannequin/Character/Mesh/SK_Mannequin_Female.PackageMetaData'
+[2023.02.20-11.37.19:645][289]LogSavePackage: Moving '../../../../../../../New folder (8)/github/Nottingham_project/CIR_Nottingham main branch/Saved/ThirdPerson_IdleRun_2DF39F308B446FAAE8E527E29492397BE9.tmp' to '../../../../../../../New folder (8)/github/Nottingham_project/CIR_Nottingham main branch/Content/Geometry/Mannequin/Animations/ThirdPerson_IdleRun_2D.uasset'
+[2023.02.20-11.37.19:714][289]LogSavePackage: Moving '../../../../../../../New folder (8)/github/Nottingham_project/CIR_Nottingham main branch/Saved/ThirdPersonWalk944BEDB644047DD7092268B5BBF4C620.tmp' to '../../../../../../../New folder (8)/github/Nottingham_project/CIR_Nottingham main branch/Content/Geometry/Mannequin/Animations/ThirdPersonWalk.uasset'
+[2023.02.20-11.37.19:747][289]LogSavePackage: Moving '../../../../../../../New folder (8)/github/Nottingham_project/CIR_Nottingham main branch/Saved/ThirdPersonRun295A8A31426EEE3FB5C02E97240D4FA7.tmp' to '../../../../../../../New folder (8)/github/Nottingham_project/CIR_Nottingham main branch/Content/Geometry/Mannequin/Animations/ThirdPersonRun.uasset'
+[2023.02.20-11.37.19:785][289]LogSavePackage: Moving '../../../../../../../New folder (8)/github/Nottingham_project/CIR_Nottingham main branch/Saved/ThirdPersonIdle137FBD02411281A4A0238CB166AEF3E8.tmp' to '../../../../../../../New folder (8)/github/Nottingham_project/CIR_Nottingham main branch/Content/Geometry/Mannequin/Animations/ThirdPersonIdle.uasset'
+[2023.02.20-11.37.19:819][289]LogSavePackage: Moving '../../../../../../../New folder (8)/github/Nottingham_project/CIR_Nottingham main branch/Saved/ThirdPersonJump_Start9A46852F4B74D34FBC983D96F819B351.tmp' to '../../../../../../../New folder (8)/github/Nottingham_project/CIR_Nottingham main branch/Content/Geometry/Mannequin/Animations/ThirdPersonJump_Start.uasset'
+[2023.02.20-11.37.19:853][289]LogSavePackage: Moving '../../../../../../../New folder (8)/github/Nottingham_project/CIR_Nottingham main branch/Saved/ThirdPersonJump_Loop5F3DA72C49D5979F1147A080ED1F19AE.tmp' to '../../../../../../../New folder (8)/github/Nottingham_project/CIR_Nottingham main branch/Content/Geometry/Mannequin/Animations/ThirdPersonJump_Loop.uasset'
+[2023.02.20-11.37.19:888][289]LogSavePackage: Moving '../../../../../../../New folder (8)/github/Nottingham_project/CIR_Nottingham main branch/Saved/ThirdPerson_JumpCDF63B5341551412E2FBA1B28FD2197B.tmp' to '../../../../../../../New folder (8)/github/Nottingham_project/CIR_Nottingham main branch/Content/Geometry/Mannequin/Animations/ThirdPerson_Jump.uasset'
+[2023.02.20-11.37.19:901][289]LogSavePackage: Moving '../../../../../../../New folder (8)/github/Nottingham_project/CIR_Nottingham main branch/Saved/UE4_Mannequin_Skeleton0C5F29104CBD02F4F6350D944ECFFF50.tmp' to '../../../../../../../New folder (8)/github/Nottingham_project/CIR_Nottingham main branch/Content/Geometry/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton.uasset'
+[2023.02.20-11.37.20:124][289]LogSavePackage: Moving '../../../../../../../New folder (8)/github/Nottingham_project/CIR_Nottingham main branch/Saved/ThirdPerson_AnimBP9B959A464C8AAE0A7B4648B62C624000.tmp' to '../../../../../../../New folder (8)/github/Nottingham_project/CIR_Nottingham main branch/Content/Geometry/Mannequin/Animations/ThirdPerson_AnimBP.uasset'
+[2023.02.20-11.37.20:141][289]LogSavePackage: Moving '../../../../../../../New folder (8)/github/Nottingham_project/CIR_Nottingham main branch/Saved/T_ML_Rubber_Blue_01_D27D9C32C48A9F031A7C98CABCED6C96A.tmp' to '../../../../../../../New folder (8)/github/Nottingham_project/CIR_Nottingham main branch/Content/Geometry/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset'
+[2023.02.20-11.37.20:158][289]LogSavePackage: Moving '../../../../../../../New folder (8)/github/Nottingham_project/CIR_Nottingham main branch/Saved/T_ML_Rubber_Blue_01_NA149FD5445B09BBE88A902A36EE7998D.tmp' to '../../../../../../../New folder (8)/github/Nottingham_project/CIR_Nottingham main branch/Content/Geometry/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uasset'
+[2023.02.20-11.37.20:166][289]LogMaterial: Display: Missing cached shadermap for Material_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 2AC85C343CD340CC1A33023824FC0EE0589E5988), compiling. 
+[2023.02.20-11.37.20:221][289]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2023.02.20-11.37.20:226][289]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2023.02.20-11.37.20:226][289]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2023.02.20-11.37.20:226][289]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.02.20-11.37.20:321][289]LogShaderCompilers: Display: Submitted 41 shader compile jobs with 'Normal' priority
+[2023.02.20-11.37.20:414][289]LogSavePackage: Moving '../../../../../../../New folder (8)/github/Nottingham_project/CIR_Nottingham main branch/Saved/ML_GlossyBlack_Latex_UE458C8C0ED4A0B6BBF43A36BB6FB945181.tmp' to '../../../../../../../New folder (8)/github/Nottingham_project/CIR_Nottingham main branch/Content/Geometry/Mannequin/Character/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uasset'
+[2023.02.20-11.37.20:420][289]LogMaterial: Display: Missing cached shadermap for Material_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 3677E55B7FCBB1C49969404866ADA22770D7BAA7), compiling. 
+[2023.02.20-11.37.20:427][289]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2023.02.20-11.37.20:429][289]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 2
+[2023.02.20-11.37.20:429][289]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 1
+[2023.02.20-11.37.20:429][289]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 41
+[2023.02.20-11.37.20:429][289]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 35
+[2023.02.20-11.37.20:429][289]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 29
+[2023.02.20-11.37.20:429][289]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 23
+[2023.02.20-11.37.20:429][289]LogShaderCompilers: Display: Started 24 'Local' shader compile jobs with 'Normal' priority
+[2023.02.20-11.37.20:429][289]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.02.20-11.37.20:452][289]LogShaderCompilers: Display: Submitted 41 shader compile jobs with 'Normal' priority
+[2023.02.20-11.37.20:478][289]LogSavePackage: Moving '../../../../../../../New folder (8)/github/Nottingham_project/CIR_Nottingham main branch/Saved/ML_Plastic_Shiny_BeigeB0AB1ACF4D079FCB8FA8AB9D549EC2EF.tmp' to '../../../../../../../New folder (8)/github/Nottingham_project/CIR_Nottingham main branch/Content/Geometry/Mannequin/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uasset'
+[2023.02.20-11.37.20:493][289]LogSavePackage: Moving '../../../../../../../New folder (8)/github/Nottingham_project/CIR_Nottingham main branch/Saved/T_UE4Logo_Mask8B9991C74C9337C13937628776B40FFF.tmp' to '../../../../../../../New folder (8)/github/Nottingham_project/CIR_Nottingham main branch/Content/Geometry/Mannequin/Character/Textures/T_UE4Logo_Mask.uasset'
+[2023.02.20-11.37.20:498][289]LogMaterial: Display: Missing cached shadermap for Material_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 05B19650C421B6C15771CE5C25D45220DE45D367), compiling. 
+[2023.02.20-11.37.20:505][289]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2023.02.20-11.37.20:529][289]LogShaderCompilers: Display: Submitted 41 shader compile jobs with 'Normal' priority
+[2023.02.20-11.37.20:585][289]LogSavePackage: Moving '../../../../../../../New folder (8)/github/Nottingham_project/CIR_Nottingham main branch/Saved/ML_Plastic_Shiny_Beige_LOGO9626C8DC40342E7172CA0EB0C2969D2F.tmp' to '../../../../../../../New folder (8)/github/Nottingham_project/CIR_Nottingham main branch/Content/Geometry/Mannequin/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.uasset'
+[2023.02.20-11.37.20:679][289]LogSavePackage: Moving '../../../../../../../New folder (8)/github/Nottingham_project/CIR_Nottingham main branch/Saved/T_ML_Aluminum01F7FA157541A7A88AC99D739C3D1DE960.tmp' to '../../../../../../../New folder (8)/github/Nottingham_project/CIR_Nottingham main branch/Content/Geometry/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01.uasset'
+[2023.02.20-11.37.20:701][289]LogSavePackage: Moving '../../../../../../../New folder (8)/github/Nottingham_project/CIR_Nottingham main branch/Saved/T_ML_Aluminum01_N53DDBE55456AF888061E949521FBC538.tmp' to '../../../../../../../New folder (8)/github/Nottingham_project/CIR_Nottingham main branch/Content/Geometry/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01_N.uasset'
+[2023.02.20-11.37.20:705][289]LogMaterial: Display: Missing cached shadermap for Material_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 1E9F8DF3D7D78D318E0CFBE6BAA11FC19D84136A), compiling. 
+[2023.02.20-11.37.20:714][289]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2023.02.20-11.37.20:742][289]LogShaderCompilers: Display: Submitted 41 shader compile jobs with 'Normal' priority
+[2023.02.20-11.37.20:778][289]LogSavePackage: Moving '../../../../../../../New folder (8)/github/Nottingham_project/CIR_Nottingham main branch/Saved/ML_SoftMetal_UE4D9962EC541AD6C492788ECA5E5333C08.tmp' to '../../../../../../../New folder (8)/github/Nottingham_project/CIR_Nottingham main branch/Content/Geometry/Mannequin/Character/Materials/MaterialLayers/ML_SoftMetal_UE4.uasset'
+[2023.02.20-11.37.20:855][289]LogSavePackage: Moving '../../../../../../../New folder (8)/github/Nottingham_project/CIR_Nottingham main branch/Saved/T_Male_MaskF015D5254177D2BF6DAF139B602AF79E.tmp' to '../../../../../../../New folder (8)/github/Nottingham_project/CIR_Nottingham main branch/Content/Geometry/Mannequin/Character/Textures/T_Male_Mask.uasset'
+[2023.02.20-11.37.20:910][289]LogSavePackage: Moving '../../../../../../../New folder (8)/github/Nottingham_project/CIR_Nottingham main branch/Saved/T_Male_N485BF83546DBAFA0D9B399992AB7EA16.tmp' to '../../../../../../../New folder (8)/github/Nottingham_project/CIR_Nottingham main branch/Content/Geometry/Mannequin/Character/Textures/T_Male_N.uasset'
+[2023.02.20-11.37.20:970][289]LogSavePackage: Moving '../../../../../../../New folder (8)/github/Nottingham_project/CIR_Nottingham main branch/Saved/M_Male_BodyDD39E2304CBDDB6CE55CD88CE112F686.tmp' to '../../../../../../../New folder (8)/github/Nottingham_project/CIR_Nottingham main branch/Content/Geometry/Mannequin/Character/Materials/M_Male_Body.uasset'
+[2023.02.20-11.37.20:986][289]LogSavePackage: Moving '../../../../../../../New folder (8)/github/Nottingham_project/CIR_Nottingham main branch/Saved/T_UE4Logo_N9F40A2384AB853F2695B8890F17AE55B.tmp' to '../../../../../../../New folder (8)/github/Nottingham_project/CIR_Nottingham main branch/Content/Geometry/Mannequin/Character/Textures/T_UE4Logo_N.uasset'
+[2023.02.20-11.37.21:024][289]LogSavePackage: Moving '../../../../../../../New folder (8)/github/Nottingham_project/CIR_Nottingham main branch/Saved/M_UE4Man_ChestLogo6B04B8574AFFDE78C1DCEF8AC1CDB520.tmp' to '../../../../../../../New folder (8)/github/Nottingham_project/CIR_Nottingham main branch/Content/Geometry/Mannequin/Character/Materials/M_UE4Man_ChestLogo.uasset'
+[2023.02.20-11.37.21:086][289]LogSavePackage: Moving '../../../../../../../New folder (8)/github/Nottingham_project/CIR_Nottingham main branch/Saved/SK_Mannequin_PhysicsAssetE902F97B48FF999EAACCD9B7DAA79B39.tmp' to '../../../../../../../New folder (8)/github/Nottingham_project/CIR_Nottingham main branch/Content/Geometry/Mannequin/Character/Mesh/SK_Mannequin_PhysicsAsset.uasset'
+[2023.02.20-11.37.21:230][289]LogSavePackage: Moving '../../../../../../../New folder (8)/github/Nottingham_project/CIR_Nottingham main branch/Saved/SK_Mannequin6E62B716470E1C06D260228D24E38FBA.tmp' to '../../../../../../../New folder (8)/github/Nottingham_project/CIR_Nottingham main branch/Content/Geometry/Mannequin/Character/Mesh/SK_Mannequin.uasset'
+[2023.02.20-11.37.21:280][289]LogSavePackage: Moving '../../../../../../../New folder (8)/github/Nottingham_project/CIR_Nottingham main branch/Saved/ThirdPersonJump_End0794DE8346A366D1E915F2B2C4E371FE.tmp' to '../../../../../../../New folder (8)/github/Nottingham_project/CIR_Nottingham main branch/Content/Geometry/Mannequin/Animations/ThirdPersonJump_End.uasset'
+[2023.02.20-11.37.21:320][289]LogSavePackage: Moving '../../../../../../../New folder (8)/github/Nottingham_project/CIR_Nottingham main branch/Saved/MI_Female_BodyC2A6E8DF4E7CECF57FFC9EA97C613CC0.tmp' to '../../../../../../../New folder (8)/github/Nottingham_project/CIR_Nottingham main branch/Content/Geometry/Mannequin/Character/Materials/MI_Female_Body.uasset'
+[2023.02.20-11.37.22:175][289]LogSavePackage: Moving '../../../../../../../New folder (8)/github/Nottingham_project/CIR_Nottingham main branch/Saved/SK_Mannequin_Female4A7FEB754DE73DC1F86E0B9F48E2B503.tmp' to '../../../../../../../New folder (8)/github/Nottingham_project/CIR_Nottingham main branch/Content/Geometry/Mannequin/Character/Mesh/SK_Mannequin_Female.uasset'
+[2023.02.20-11.37.22:214][289]LogSavePackage: Moving '../../../../../../../New folder (8)/github/Nottingham_project/CIR_Nottingham main branch/Saved/SK_Mannequin_Female_PhysicsAsset4AE4C77340AE1864E225CA952697297E.tmp' to '../../../../../../../New folder (8)/github/Nottingham_project/CIR_Nottingham main branch/Content/Geometry/Mannequin/Character/Mesh/SK_Mannequin_Female_PhysicsAsset.uasset'
+[2023.02.20-11.37.22:233][289]LogSavePackage: Moving '../../../../../../../New folder (8)/github/Nottingham_project/CIR_Nottingham main branch/Saved/T_Female_MaskC879309540491992FB2D27B48758E02D.tmp' to '../../../../../../../New folder (8)/github/Nottingham_project/CIR_Nottingham main branch/Content/Geometry/Mannequin/Character/Textures/T_Female_Mask.uasset'
+[2023.02.20-11.37.22:356][289]LogSavePackage: Moving '../../../../../../../New folder (8)/github/Nottingham_project/CIR_Nottingham main branch/Saved/T_Female_N92C6D49746CE1E50381CC9B72E98660A.tmp' to '../../../../../../../New folder (8)/github/Nottingham_project/CIR_Nottingham main branch/Content/Geometry/Mannequin/Character/Textures/T_Female_N.uasset'
+[2023.02.20-11.37.22:674][289]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2023.02.20-11.37.22:680][289]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2023.02.20-11.37.22:685][289]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2023.02.20-11.37.22:689][289]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2023.02.20-11.37.22:694][289]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2023.02.20-11.37.22:699][289]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2023.02.20-11.37.22:703][289]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2023.02.20-11.37.22:708][289]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2023.02.20-11.37.22:713][289]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2023.02.20-11.37.22:717][289]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2023.02.20-11.37.22:722][289]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2023.02.20-11.37.22:727][289]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2023.02.20-11.37.22:731][289]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2023.02.20-11.37.22:736][289]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2023.02.20-11.37.22:740][289]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2023.02.20-11.37.22:745][289]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2023.02.20-11.37.22:749][289]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2023.02.20-11.37.22:753][289]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2023.02.20-11.37.22:758][289]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2023.02.20-11.37.22:762][289]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2023.02.20-11.37.22:766][289]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2023.02.20-11.37.22:771][289]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2023.02.20-11.37.22:776][289]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2023.02.20-11.37.22:780][289]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2023.02.20-11.37.22:785][289]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2023.02.20-11.37.22:789][289]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2023.02.20-11.37.22:793][289]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2023.02.20-11.37.22:798][289]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2023.02.20-11.37.22:803][289]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2023.02.20-11.37.22:808][289]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2023.02.20-11.37.22:812][289]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2023.02.20-11.37.22:822][289]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2023.02.20-11.37.22:826][289]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2023.02.20-11.37.22:834][289]LogFileManager: Warning: Error deleting file: ../../../../../../../New folder (8)/github/Nottingham_project/CIR_Nottingham main branch/Content/Mannequin/Character/Mesh/SK_Mannequin.uasset (Error Code 32)
+[2023.02.20-11.37.22:835][289]LogFileManager: Warning: Error deleting file: ../../../../../../../New folder (8)/github/Nottingham_project/CIR_Nottingham main branch/Content/Mannequin/Character/Mesh/SK_Mannequin_PhysicsAsset.uasset (Error Code 32)
+[2023.02.20-11.37.22:836][289]LogFileManager: Warning: Error deleting file: ../../../../../../../New folder (8)/github/Nottingham_project/CIR_Nottingham main branch/Content/Mannequin/Character/Materials/M_UE4Man_ChestLogo.uasset (Error Code 32)
+[2023.02.20-11.37.22:836][289]LogFileManager: Warning: Error deleting file: ../../../../../../../New folder (8)/github/Nottingham_project/CIR_Nottingham main branch/Content/Mannequin/Character/Textures/T_UE4Logo_N.uasset (Error Code 32)
+[2023.02.20-11.37.22:837][289]LogFileManager: Warning: Error deleting file: ../../../../../../../New folder (8)/github/Nottingham_project/CIR_Nottingham main branch/Content/Mannequin/Character/Materials/M_Male_Body.uasset (Error Code 32)
+[2023.02.20-11.37.22:838][289]LogFileManager: Warning: Error deleting file: ../../../../../../../New folder (8)/github/Nottingham_project/CIR_Nottingham main branch/Content/Mannequin/Character/Textures/T_Male_N.uasset (Error Code 32)
+[2023.02.20-11.37.22:838][289]LogFileManager: Warning: Error deleting file: ../../../../../../../New folder (8)/github/Nottingham_project/CIR_Nottingham main branch/Content/Mannequin/Character/Textures/T_Male_Mask.uasset (Error Code 32)
+[2023.02.20-11.37.22:839][289]LogFileManager: Warning: Error deleting file: ../../../../../../../New folder (8)/github/Nottingham_project/CIR_Nottingham main branch/Content/Mannequin/Character/Materials/MaterialLayers/ML_SoftMetal_UE4.uasset (Error Code 32)
+[2023.02.20-11.37.22:839][289]LogFileManager: Warning: Error deleting file: ../../../../../../../New folder (8)/github/Nottingham_project/CIR_Nottingham main branch/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01_N.uasset (Error Code 32)
+[2023.02.20-11.37.22:840][289]LogFileManager: Warning: Error deleting file: ../../../../../../../New folder (8)/github/Nottingham_project/CIR_Nottingham main branch/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01.uasset (Error Code 32)
+[2023.02.20-11.37.22:841][289]LogFileManager: Warning: Error deleting file: ../../../../../../../New folder (8)/github/Nottingham_project/CIR_Nottingham main branch/Content/Mannequin/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.uasset (Error Code 32)
+[2023.02.20-11.37.22:841][289]LogFileManager: Warning: Error deleting file: ../../../../../../../New folder (8)/github/Nottingham_project/CIR_Nottingham main branch/Content/Mannequin/Character/Textures/T_UE4Logo_Mask.uasset (Error Code 32)
+[2023.02.20-11.37.22:842][289]LogFileManager: Warning: Error deleting file: ../../../../../../../New folder (8)/github/Nottingham_project/CIR_Nottingham main branch/Content/Mannequin/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uasset (Error Code 32)
+[2023.02.20-11.37.22:842][289]LogFileManager: Warning: Error deleting file: ../../../../../../../New folder (8)/github/Nottingham_project/CIR_Nottingham main branch/Content/Mannequin/Character/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uasset (Error Code 32)
+[2023.02.20-11.37.22:843][289]LogFileManager: Warning: Error deleting file: ../../../../../../../New folder (8)/github/Nottingham_project/CIR_Nottingham main branch/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uasset (Error Code 32)
+[2023.02.20-11.37.22:844][289]LogFileManager: Warning: Error deleting file: ../../../../../../../New folder (8)/github/Nottingham_project/CIR_Nottingham main branch/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset (Error Code 32)
+[2023.02.20-11.37.22:844][289]LogFileManager: Warning: Error deleting file: ../../../../../../../New folder (8)/github/Nottingham_project/CIR_Nottingham main branch/Content/Mannequin/Animations/ThirdPerson_AnimBP.uasset (Error Code 32)
+[2023.02.20-11.37.22:845][289]LogFileManager: Warning: Error deleting file: ../../../../../../../New folder (8)/github/Nottingham_project/CIR_Nottingham main branch/Content/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton.uasset (Error Code 32)
+[2023.02.20-11.37.22:845][289]LogFileManager: Warning: Error deleting file: ../../../../../../../New folder (8)/github/Nottingham_project/CIR_Nottingham main branch/Content/Mannequin/Animations/ThirdPerson_Jump.uasset (Error Code 32)
+[2023.02.20-11.37.22:846][289]LogFileManager: Warning: Error deleting file: ../../../../../../../New folder (8)/github/Nottingham_project/CIR_Nottingham main branch/Content/Mannequin/Animations/ThirdPersonJump_Loop.uasset (Error Code 32)
+[2023.02.20-11.37.22:847][289]LogFileManager: Warning: Error deleting file: ../../../../../../../New folder (8)/github/Nottingham_project/CIR_Nottingham main branch/Content/Mannequin/Animations/ThirdPersonJump_Start.uasset (Error Code 32)
+[2023.02.20-11.37.22:847][289]LogFileManager: Warning: Error deleting file: ../../../../../../../New folder (8)/github/Nottingham_project/CIR_Nottingham main branch/Content/Mannequin/Animations/ThirdPersonIdle.uasset (Error Code 32)
+[2023.02.20-11.37.22:848][289]LogFileManager: Warning: Error deleting file: ../../../../../../../New folder (8)/github/Nottingham_project/CIR_Nottingham main branch/Content/Mannequin/Animations/ThirdPersonRun.uasset (Error Code 32)
+[2023.02.20-11.37.22:848][289]LogFileManager: Warning: Error deleting file: ../../../../../../../New folder (8)/github/Nottingham_project/CIR_Nottingham main branch/Content/Mannequin/Animations/ThirdPersonWalk.uasset (Error Code 32)
+[2023.02.20-11.37.22:849][289]LogFileManager: Warning: Error deleting file: ../../../../../../../New folder (8)/github/Nottingham_project/CIR_Nottingham main branch/Content/Mannequin/Animations/ThirdPerson_IdleRun_2D.uasset (Error Code 32)
+[2023.02.20-11.37.23:016][289]LogSavePackage: Moving '../../../../../../../New folder (8)/github/Nottingham_project/CIR_Nottingham main branch/Saved/ThirdPersonCharacter660BD03348E74F0F0273F5B3BC7F2375.tmp' to '../../../../../../../New folder (8)/github/Nottingham_project/CIR_Nottingham main branch/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2023.02.20-11.37.23:017][289]LogFileManager: Warning: DeleteFile was unable to delete '../../../../../../../New folder (8)/github/Nottingham_project/CIR_Nottingham main branch/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset', retrying in .5s...
+[2023.02.20-11.37.23:519][289]LogFileManager: Error: Error deleting file '../../../../../../../New folder (8)/github/Nottingham_project/CIR_Nottingham main branch/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'.
+[2023.02.20-11.37.23:519][289]LogSavePackage: Error: Error saving '../../../../../../../New folder (8)/github/Nottingham_project/CIR_Nottingham main branch/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2023.02.20-11.37.23:631][289]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 4
+[2023.02.20-11.37.23:632][289]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 3
+[2023.02.20-11.37.23:632][289]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.02.20-11.37.23:716][289]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2023.02.20-11.37.23:716][289]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 1
+[2023.02.20-11.37.23:716][289]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.02.20-11.37.24:012][289]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 140
+[2023.02.20-11.37.24:012][289]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2023.02.20-11.37.24:114][289]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 130
+[2023.02.20-11.37.24:114][289]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2023.02.20-11.37.24:114][289]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 120
+[2023.02.20-11.37.24:114][289]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2023.02.20-11.37.24:234][289]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 110
+[2023.02.20-11.37.24:234][289]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2023.02.20-11.37.24:677][289]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 100
+[2023.02.20-11.37.24:677][289]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2023.02.20-11.37.25:206][289]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 90
+[2023.02.20-11.37.25:206][289]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2023.02.20-11.37.25:275][289]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 80
+[2023.02.20-11.37.25:275][289]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2023.02.20-11.37.26:130][289]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 70
+[2023.02.20-11.37.26:130][289]LogShaderCompilers: Display: Started 9 'Local' shader compile jobs with 'Normal' priority
+[2023.02.20-11.37.26:711][289]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 61
+[2023.02.20-11.37.26:711][289]LogShaderCompilers: Display: Started 8 'Local' shader compile jobs with 'Normal' priority
+[2023.02.20-11.37.27:171][289]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 53
+[2023.02.20-11.37.27:171][289]LogShaderCompilers: Display: Started 7 'Local' shader compile jobs with 'Normal' priority
+[2023.02.20-11.37.27:926][289]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 46
+[2023.02.20-11.37.27:926][289]LogShaderCompilers: Display: Started 6 'Local' shader compile jobs with 'Normal' priority
+[2023.02.20-11.37.28:051][289]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 40
+[2023.02.20-11.37.28:051][289]LogShaderCompilers: Display: Started 6 'Local' shader compile jobs with 'Normal' priority
+[2023.02.20-11.37.28:257][289]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 34
+[2023.02.20-11.37.28:257][289]LogShaderCompilers: Display: Started 5 'Local' shader compile jobs with 'Normal' priority
+[2023.02.20-11.37.28:427][289]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 29
+[2023.02.20-11.37.28:427][289]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'Normal' priority
+[2023.02.20-11.37.28:668][289]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 25
+[2023.02.20-11.37.28:668][289]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'Normal' priority
+[2023.02.20-11.37.28:736][289]LogSlate: Window 'Message' being destroyed
+[2023.02.20-11.37.28:741][289]Message dialog closed, result: Retry, title: Message, text: The asset '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter' (ThirdPersonCharacter.uasset) failed to save.
+
+Cancel: Stop saving all assets and return to the editor.
+Retry: Attempt to save the asset again.
+Continue: Skip saving this asset only.
+[2023.02.20-11.37.28:789][289]LogSavePackage: Moving '../../../../../../../New folder (8)/github/Nottingham_project/CIR_Nottingham main branch/Saved/ThirdPersonCharacterBCF65A8149FAF4F28E2C7BA496286F67.tmp' to '../../../../../../../New folder (8)/github/Nottingham_project/CIR_Nottingham main branch/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2023.02.20-11.37.28:790][289]LogFileManager: Warning: DeleteFile was unable to delete '../../../../../../../New folder (8)/github/Nottingham_project/CIR_Nottingham main branch/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset', retrying in .5s...
+[2023.02.20-11.37.29:291][289]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 21
+[2023.02.20-11.37.29:291][289]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Normal' priority
+[2023.02.20-11.37.29:291][289]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 18
+[2023.02.20-11.37.29:291][289]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Normal' priority
+[2023.02.20-11.37.29:291][289]LogFileManager: Error: Error deleting file '../../../../../../../New folder (8)/github/Nottingham_project/CIR_Nottingham main branch/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'.
+[2023.02.20-11.37.29:291][289]LogSavePackage: Error: Error saving '../../../../../../../New folder (8)/github/Nottingham_project/CIR_Nottingham main branch/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2023.02.20-11.37.29:399][289]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 15
+[2023.02.20-11.37.29:399][289]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2023.02.20-11.37.29:502][289]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 13
+[2023.02.20-11.37.29:519][289]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2023.02.20-11.37.29:758][289]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 11
+[2023.02.20-11.37.29:758][289]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2023.02.20-11.37.29:826][289]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 9
+[2023.02.20-11.37.29:826][289]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2023.02.20-11.37.30:049][289]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 7
+[2023.02.20-11.37.30:049][289]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.02.20-11.37.30:135][289]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 6
+[2023.02.20-11.37.30:135][289]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.02.20-11.37.30:223][289]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 5
+[2023.02.20-11.37.30:223][289]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.02.20-11.37.30:274][289]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 4
+[2023.02.20-11.37.30:274][289]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.02.20-11.37.30:291][289]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 3
+[2023.02.20-11.37.30:291][289]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.02.20-11.37.30:308][289]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2023.02.20-11.37.30:308][289]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.02.20-11.37.30:325][289]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 1
+[2023.02.20-11.37.30:325][289]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.02.20-11.37.31:346][289]LogSlate: Window 'Message' being destroyed
+[2023.02.20-11.37.31:349][289]Message dialog closed, result: Continue, title: Message, text: The asset '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter' (ThirdPersonCharacter.uasset) failed to save.
+
+Cancel: Stop saving all assets and return to the editor.
+Retry: Attempt to save the asset again.
+Continue: Skip saving this asset only.
+[2023.02.20-11.37.31:385][289]EditorErrors: New page: Save Output
+[2023.02.20-11.37.31:385][289]EditorErrors: Warning: Error saving '../../../../../../../New folder (8)/github/Nottingham_project/CIR_Nottingham main branch/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2023.02.20-11.37.31:385][289]EditorErrors: Warning: Error saving '../../../../../../../New folder (8)/github/Nottingham_project/CIR_Nottingham main branch/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2023.02.20-11.37.35:129][289]LogSlate: Window 'Packages Failed To Save' being destroyed
+[2023.02.20-11.37.35:134][289]Message dialog closed, result: Ok, title: Packages Failed To Save, text: The following assets failed to save correctly:
+/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter
+[2023.02.20-11.37.35:281][289]AssetCheck: New page: Asset Save: multiple assets
+[2023.02.20-11.37.35:281][289]LogContentValidation: Display: Validating BlendSpace1D /Game/Geometry/Mannequin/Animations/ThirdPerson_IdleRun_2D.ThirdPerson_IdleRun_2D
+[2023.02.20-11.37.35:282][289]LogContentValidation: Display: Validating AnimSequence /Game/Geometry/Mannequin/Animations/ThirdPersonWalk.ThirdPersonWalk
+[2023.02.20-11.37.35:282][289]LogContentValidation: Display: Validating AnimSequence /Game/Geometry/Mannequin/Animations/ThirdPersonRun.ThirdPersonRun
+[2023.02.20-11.37.35:282][289]LogContentValidation: Display: Validating AnimSequence /Game/Geometry/Mannequin/Animations/ThirdPersonIdle.ThirdPersonIdle
+[2023.02.20-11.37.35:282][289]LogContentValidation: Display: Validating AnimSequence /Game/Geometry/Mannequin/Animations/ThirdPersonJump_Start.ThirdPersonJump_Start
+[2023.02.20-11.37.35:282][289]LogContentValidation: Display: Validating AnimSequence /Game/Geometry/Mannequin/Animations/ThirdPersonJump_Loop.ThirdPersonJump_Loop
+[2023.02.20-11.37.35:282][289]LogContentValidation: Display: Validating AnimSequence /Game/Geometry/Mannequin/Animations/ThirdPerson_Jump.ThirdPerson_Jump
+[2023.02.20-11.37.35:282][289]LogContentValidation: Display: Validating Skeleton /Game/Geometry/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton.UE4_Mannequin_Skeleton
+[2023.02.20-11.37.35:282][289]LogContentValidation: Display: Validating AnimBlueprint /Game/Geometry/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP
+[2023.02.20-11.37.35:282][289]LogContentValidation: Display: Validating Texture2D /Game/Geometry/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.T_ML_Rubber_Blue_01_D
+[2023.02.20-11.37.35:282][289]LogContentValidation: Display: Validating Texture2D /Game/Geometry/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.T_ML_Rubber_Blue_01_N
+[2023.02.20-11.37.35:282][289]LogContentValidation: Display: Validating MaterialFunction /Game/Geometry/Mannequin/Character/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.ML_GlossyBlack_Latex_UE4
+[2023.02.20-11.37.35:282][289]LogContentValidation: Display: Validating MaterialFunction /Game/Geometry/Mannequin/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.ML_Plastic_Shiny_Beige
+[2023.02.20-11.37.35:282][289]LogContentValidation: Display: Validating Texture2D /Game/Geometry/Mannequin/Character/Textures/T_UE4Logo_Mask.T_UE4Logo_Mask
+[2023.02.20-11.37.35:282][289]LogContentValidation: Display: Validating MaterialFunction /Game/Geometry/Mannequin/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.ML_Plastic_Shiny_Beige_LOGO
+[2023.02.20-11.37.35:282][289]LogContentValidation: Display: Validating Texture2D /Game/Geometry/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01.T_ML_Aluminum01
+[2023.02.20-11.37.35:282][289]LogContentValidation: Display: Validating Texture2D /Game/Geometry/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01_N.T_ML_Aluminum01_N
+[2023.02.20-11.37.35:282][289]LogContentValidation: Display: Validating MaterialFunction /Game/Geometry/Mannequin/Character/Materials/MaterialLayers/ML_SoftMetal_UE4.ML_SoftMetal_UE4
+[2023.02.20-11.37.35:282][289]LogContentValidation: Display: Validating Texture2D /Game/Geometry/Mannequin/Character/Textures/T_Male_Mask.T_Male_Mask
+[2023.02.20-11.37.35:282][289]LogContentValidation: Display: Validating Texture2D /Game/Geometry/Mannequin/Character/Textures/T_Male_N.T_Male_N
+[2023.02.20-11.37.35:282][289]LogContentValidation: Display: Validating Material /Game/Geometry/Mannequin/Character/Materials/M_Male_Body.M_Male_Body
+[2023.02.20-11.37.35:282][289]LogContentValidation: Display: Validating Texture2D /Game/Geometry/Mannequin/Character/Textures/T_UE4Logo_N.T_UE4Logo_N
+[2023.02.20-11.37.35:282][289]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Geometry/Mannequin/Character/Materials/M_UE4Man_ChestLogo.M_UE4Man_ChestLogo
+[2023.02.20-11.37.35:282][289]LogContentValidation: Display: Validating PhysicsAsset /Game/Geometry/Mannequin/Character/Mesh/SK_Mannequin_PhysicsAsset.SK_Mannequin_PhysicsAsset
+[2023.02.20-11.37.35:282][289]LogContentValidation: Display: Validating SkeletalMesh /Game/Geometry/Mannequin/Character/Mesh/SK_Mannequin.SK_Mannequin
+[2023.02.20-11.37.35:282][289]LogContentValidation: Display: Validating SkeletalMesh /Game/Geometry/Mannequin/Character/Mesh/SK_Mannequin_Female.SK_Mannequin_Female
+[2023.02.20-11.37.35:282][289]LogContentValidation: Display: Validating PhysicsAsset /Game/Geometry/Mannequin/Character/Mesh/SK_Mannequin_Female_PhysicsAsset.SK_Mannequin_Female_PhysicsAsset
+[2023.02.20-11.37.35:282][289]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Geometry/Mannequin/Character/Materials/MI_Female_Body.MI_Female_Body
+[2023.02.20-11.37.35:283][289]LogContentValidation: Display: Validating Texture2D /Game/Geometry/Mannequin/Character/Textures/T_Female_N.T_Female_N
+[2023.02.20-11.37.35:283][289]LogContentValidation: Display: Validating Texture2D /Game/Geometry/Mannequin/Character/Textures/T_Female_Mask.T_Female_Mask
+[2023.02.20-11.37.35:283][289]LogContentValidation: Display: Validating AnimSequence /Game/Geometry/Mannequin/Animations/ThirdPersonJump_End.ThirdPersonJump_End
+[2023.02.20-11.37.35:300][289]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.02.20-11.37.35:300][289]LogShaderCompilers: Display: Total job queries 172, among them cache hits 0 (0.00%)
+[2023.02.20-11.37.35:300][289]LogShaderCompilers: Display: Tracking 172 distinct input hashes that result in 82 distinct outputs (47.67%)
+[2023.02.20-11.37.35:300][289]LogShaderCompilers: Display: RAM used: 0.33 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.04%
+[2023.02.20-11.37.35:300][289]LogShaderCompilers: Display: ================================================
+[2023.02.20-11.37.35:343][289]LogSlate: Took 0.035771 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2023.02.20-11.37.37:485][532]LogSlate: Window 'Message Log' being destroyed
+[2023.02.20-11.37.37:488][532]LogSlate: Window 'Message Log' being destroyed
+[2023.02.20-11.37.52:191][198]LogMetaData: Removing '/Game/ThirdPerson/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C' ref from Metadata '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.PackageMetaData'
+[2023.02.20-11.37.52:191][198]LogMetaData: Removing '/Game/ThirdPerson/ThirdPersonBP/Blueprints/ThirdPersonCharacter.SKEL_ThirdPersonCharacter_C:InpAxisEvt_LookUp_K2Node_InputAxisEvent_40' ref from Metadata '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.PackageMetaData'
+[2023.02.20-11.37.52:191][198]LogMetaData: Removing '/Game/ThirdPerson/ThirdPersonBP/Blueprints/ThirdPersonCharacter.SKEL_ThirdPersonCharacter_C:InpAxisEvt_Turn_K2Node_InputAxisEvent_47' ref from Metadata '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.PackageMetaData'
+[2023.02.20-11.37.52:191][198]LogMetaData: Removing '/Game/ThirdPerson/ThirdPersonBP/Blueprints/ThirdPersonCharacter.SKEL_ThirdPersonCharacter_C:InpAxisEvt_MoveForward_K2Node_InputAxisEvent_79' ref from Metadata '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.PackageMetaData'
+[2023.02.20-11.37.52:191][198]LogMetaData: Removing '/Game/ThirdPerson/ThirdPersonBP/Blueprints/ThirdPersonCharacter.SKEL_ThirdPersonCharacter_C:InpAxisEvt_MoveRight_K2Node_InputAxisEvent_90' ref from Metadata '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.PackageMetaData'
+[2023.02.20-11.37.52:191][198]LogMetaData: Removing '/Game/ThirdPerson/ThirdPersonBP/Blueprints/ThirdPersonCharacter.SKEL_ThirdPersonCharacter_C:InpAxisEvt_TurnRate_K2Node_InputAxisEvent_38' ref from Metadata '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.PackageMetaData'
+[2023.02.20-11.37.52:191][198]LogMetaData: Removing '/Game/ThirdPerson/ThirdPersonBP/Blueprints/ThirdPersonCharacter.SKEL_ThirdPersonCharacter_C:InpAxisEvt_LookUpRate_K2Node_InputAxisEvent_53' ref from Metadata '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.PackageMetaData'
+[2023.02.20-11.37.52:191][198]LogMetaData: Removing '/Game/ThirdPerson/ThirdPersonBP/Blueprints/ThirdPersonCharacter.SKEL_ThirdPersonCharacter_C:UserConstructionScript' ref from Metadata '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.PackageMetaData'
+[2023.02.20-11.37.52:191][198]LogMetaData: Removing '/Game/ThirdPerson/ThirdPersonBP/Blueprints/ThirdPersonCharacter.SKEL_ThirdPersonCharacter_C' ref from Metadata '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.PackageMetaData'
+[2023.02.20-11.37.52:193][198]LogMetaData: Removing '/Game/ThirdPerson/ThirdPersonBP/assets/TramShelterStop.TramShelterStop' ref from Metadata '/Game/ThirdPersonBP/assets/TramShelterStop.PackageMetaData'
+[2023.02.20-11.37.52:327][198]LogMetaData: Removing '/Game/ThirdPerson/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' ref from Metadata '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.PackageMetaData'
+[2023.02.20-11.37.52:327][198]LogMetaData: Removing '/Game/ThirdPerson/ThirdPersonBP/Maps/ThirdPersonExampleMap.SKEL_ThirdPersonExampleMap_C' ref from Metadata '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.PackageMetaData'
+[2023.02.20-11.37.52:328][198]LogMetaData: Removing '/Game/ThirdPerson/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C' ref from Metadata '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.PackageMetaData'
+[2023.02.20-11.37.52:328][198]LogMetaData: Removing '/Game/ThirdPerson/ThirdPersonBP/Blueprints/ThirdPersonGameMode.SKEL_ThirdPersonGameMode_C:UserConstructionScript' ref from Metadata '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.PackageMetaData'
+[2023.02.20-11.37.52:328][198]LogMetaData: Removing '/Game/ThirdPerson/ThirdPersonBP/Blueprints/ThirdPersonGameMode.SKEL_ThirdPersonGameMode_C' ref from Metadata '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.PackageMetaData'
+[2023.02.20-11.37.52:329][198]LogMetaData: Removing '/Game/ThirdPerson/ThirdPersonBP/Blueprints/ThirdPersonOverview.ThirdPersonOverview_C' ref from Metadata '/Game/ThirdPersonBP/Blueprints/ThirdPersonOverview.PackageMetaData'
+[2023.02.20-11.37.52:329][198]LogMetaData: Removing '/Game/ThirdPerson/ThirdPersonBP/Blueprints/ThirdPersonOverview.SKEL_ThirdPersonOverview_C' ref from Metadata '/Game/ThirdPersonBP/Blueprints/ThirdPersonOverview.PackageMetaData'
+[2023.02.20-11.37.52:333][198]LogMetaData: Removing '/Game/ThirdPerson/ThirdPersonBP/signs/sign_model/sign.sign' ref from Metadata '/Game/ThirdPersonBP/signs/sign_model/sign.PackageMetaData'
+[2023.02.20-11.37.52:451][198]LogSavePackage: Moving '../../../../../../../New folder (8)/github/Nottingham_project/CIR_Nottingham main branch/Saved/ThirdPersonExampleMap_BuiltDataAA04125C42FEC350026813B96F12A478.tmp' to '../../../../../../../New folder (8)/github/Nottingham_project/CIR_Nottingham main branch/Content/ThirdPerson/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2023.02.20-11.37.52:508][198]LogSavePackage: Moving '../../../../../../../New folder (8)/github/Nottingham_project/CIR_Nottingham main branch/Saved/ThirdPersonCharacterE450F577452ACAC2E6CD78A0AC883C88.tmp' to '../../../../../../../New folder (8)/github/Nottingham_project/CIR_Nottingham main branch/Content/ThirdPerson/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2023.02.20-11.37.52:527][198]LogSavePackage: Moving '../../../../../../../New folder (8)/github/Nottingham_project/CIR_Nottingham main branch/Saved/Tram2F7A6BCD426C65E4EB17ADAAD9014FFB.tmp' to '../../../../../../../New folder (8)/github/Nottingham_project/CIR_Nottingham main branch/Content/ThirdPerson/ThirdPersonBP/assets/Tram.uasset'
+[2023.02.20-11.37.52:554][198]LogSavePackage: Moving '../../../../../../../New folder (8)/github/Nottingham_project/CIR_Nottingham main branch/Saved/TramShelterStopE57BB0304E7D0A2D7C41E49F7A54A276.tmp' to '../../../../../../../New folder (8)/github/Nottingham_project/CIR_Nottingham main branch/Content/ThirdPerson/ThirdPersonBP/assets/TramShelterStop.uasset'
+[2023.02.20-11.37.52:591][198]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2023.02.20-11.37.52:629][198]LogSavePackage: Moving '../../../../../../../New folder (8)/github/Nottingham_project/CIR_Nottingham main branch/Saved/ThirdPersonExampleMapF10D6272442E07F302304BB44D3F63F1.tmp' to '../../../../../../../New folder (8)/github/Nottingham_project/CIR_Nottingham main branch/Content/ThirdPerson/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2023.02.20-11.37.52:636][198]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.067
+[2023.02.20-11.37.52:641][198]LogSavePackage: Moving '../../../../../../../New folder (8)/github/Nottingham_project/CIR_Nottingham main branch/Saved/ThirdPersonGameMode832FA978486A6F7CEA28E2995783F021.tmp' to '../../../../../../../New folder (8)/github/Nottingham_project/CIR_Nottingham main branch/Content/ThirdPerson/ThirdPersonBP/Blueprints/ThirdPersonGameMode.uasset'
+[2023.02.20-11.37.52:653][198]LogSavePackage: Moving '../../../../../../../New folder (8)/github/Nottingham_project/CIR_Nottingham main branch/Saved/ThirdPersonOverview29B21B0C4DCEF1BC574545B096C23C70.tmp' to '../../../../../../../New folder (8)/github/Nottingham_project/CIR_Nottingham main branch/Content/ThirdPerson/ThirdPersonBP/Blueprints/ThirdPersonOverview.uasset'
+[2023.02.20-11.37.52:663][198]LogSavePackage: Moving '../../../../../../../New folder (8)/github/Nottingham_project/CIR_Nottingham main branch/Saved/market_copyF6A12EC74EC8EC15FC8D7BB1FD2F3AFE.tmp' to '../../../../../../../New folder (8)/github/Nottingham_project/CIR_Nottingham main branch/Content/ThirdPerson/ThirdPersonBP/signs/market_square/market_copy.uasset'
+[2023.02.20-11.37.52:672][198]LogSavePackage: Moving '../../../../../../../New folder (8)/github/Nottingham_project/CIR_Nottingham main branch/Saved/nottingham_train_station__copyF41EE9AF433288E00E57E6B1D9F71028.tmp' to '../../../../../../../New folder (8)/github/Nottingham_project/CIR_Nottingham main branch/Content/ThirdPerson/ThirdPersonBP/signs/nottingham_train_station/nottingham_train_station__copy.uasset'
+[2023.02.20-11.37.52:692][198]LogSavePackage: Moving '../../../../../../../New folder (8)/github/Nottingham_project/CIR_Nottingham main branch/Saved/sign_train_stationBBB9AD2D497E1DF2EEADA2BC28F486C5.tmp' to '../../../../../../../New folder (8)/github/Nottingham_project/CIR_Nottingham main branch/Content/ThirdPerson/ThirdPersonBP/signs/nottingham_train_station/sign_train_station.uasset'
+[2023.02.20-11.37.52:713][198]LogSavePackage: Moving '../../../../../../../New folder (8)/github/Nottingham_project/CIR_Nottingham main branch/Saved/sign_train_station_textureF1C94A3546029CC2A3F0FAB23ED8AEE3.tmp' to '../../../../../../../New folder (8)/github/Nottingham_project/CIR_Nottingham main branch/Content/ThirdPerson/ThirdPersonBP/signs/nottingham_train_station/sign_train_station_texture.uasset'
+[2023.02.20-11.37.52:732][198]LogSavePackage: Moving '../../../../../../../New folder (8)/github/Nottingham_project/CIR_Nottingham main branch/Saved/M_Sign0DF74F26406C35E68D6906A481BDE710.tmp' to '../../../../../../../New folder (8)/github/Nottingham_project/CIR_Nottingham main branch/Content/ThirdPerson/ThirdPersonBP/signs/sign_model/M_Sign.uasset'
+[2023.02.20-11.37.52:751][198]LogSavePackage: Moving '../../../../../../../New folder (8)/github/Nottingham_project/CIR_Nottingham main branch/Saved/sign3FC167444E611AE6F4A28D916F99478A.tmp' to '../../../../../../../New folder (8)/github/Nottingham_project/CIR_Nottingham main branch/Content/ThirdPerson/ThirdPersonBP/signs/sign_model/sign.uasset'
+[2023.02.20-11.37.52:770][198]LogSavePackage: Moving '../../../../../../../New folder (8)/github/Nottingham_project/CIR_Nottingham main branch/Saved/M_Sign_royalD99A54F04DD771A77B8E4FB48CF2A65B.tmp' to '../../../../../../../New folder (8)/github/Nottingham_project/CIR_Nottingham main branch/Content/ThirdPerson/ThirdPersonBP/signs/theatre_royal/M_Sign_royal.uasset'
+[2023.02.20-11.37.52:790][198]LogSavePackage: Moving '../../../../../../../New folder (8)/github/Nottingham_project/CIR_Nottingham main branch/Saved/sign1B7EB8B84F6A54A0C9704DB133543528.tmp' to '../../../../../../../New folder (8)/github/Nottingham_project/CIR_Nottingham main branch/Content/ThirdPerson/ThirdPersonBP/signs/theatre_royal/sign.uasset'
+[2023.02.20-11.37.52:800][198]LogSavePackage: Moving '../../../../../../../New folder (8)/github/Nottingham_project/CIR_Nottingham main branch/Saved/theatre_royal_copy3333E9C54D4E90EBD0B8BCA3A0641BBB.tmp' to '../../../../../../../New folder (8)/github/Nottingham_project/CIR_Nottingham main branch/Content/ThirdPerson/ThirdPersonBP/signs/theatre_royal/theatre_royal_copy.uasset'
+[2023.02.20-11.37.52:889][198]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2023.02.20-11.37.52:893][198]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2023.02.20-11.37.52:897][198]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2023.02.20-11.37.52:902][198]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2023.02.20-11.37.52:906][198]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2023.02.20-11.37.52:910][198]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2023.02.20-11.37.52:914][198]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2023.02.20-11.37.52:918][198]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2023.02.20-11.37.52:922][198]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2023.02.20-11.37.52:927][198]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2023.02.20-11.37.52:931][198]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2023.02.20-11.37.52:935][198]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2023.02.20-11.37.52:939][198]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2023.02.20-11.37.52:944][198]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2023.02.20-11.37.52:948][198]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2023.02.20-11.37.52:952][198]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2023.02.20-11.37.52:964][198]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2023.02.20-11.37.52:969][198]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2023.02.20-11.37.52:978][198]LogFileManager: Warning: Error deleting file: ../../../../../../../New folder (8)/github/Nottingham_project/CIR_Nottingham main branch/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap (Error Code 32)
+[2023.02.20-11.37.52:979][198]LogFileManager: Warning: Error deleting file: ../../../../../../../New folder (8)/github/Nottingham_project/CIR_Nottingham main branch/Content/ThirdPersonBP/assets/TramShelterStop.uasset (Error Code 32)
+[2023.02.20-11.37.52:979][198]LogFileManager: Warning: Error deleting file: ../../../../../../../New folder (8)/github/Nottingham_project/CIR_Nottingham main branch/Content/ThirdPersonBP/assets/Tram.uasset (Error Code 32)
+[2023.02.20-11.37.52:980][198]LogFileManager: Warning: Error deleting file: ../../../../../../../New folder (8)/github/Nottingham_project/CIR_Nottingham main branch/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset (Error Code 32)
+[2023.02.20-11.37.52:980][198]LogFileManager: Warning: Error deleting file: ../../../../../../../New folder (8)/github/Nottingham_project/CIR_Nottingham main branch/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset (Error Code 32)
+[2023.02.20-11.37.53:019][198]AssetCheck: New page: Asset Save: multiple assets
+[2023.02.20-11.37.53:019][198]LogContentValidation: Display: Validating Blueprint /Game/ThirdPerson/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2023.02.20-11.37.53:019][198]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPerson/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2023.02.20-11.37.53:019][198]LogContentValidation: Display: Validating Material /Game/ThirdPerson/ThirdPersonBP/assets/Tram.Tram
+[2023.02.20-11.37.53:019][198]LogContentValidation: Display: Validating StaticMesh /Game/ThirdPerson/ThirdPersonBP/assets/TramShelterStop.TramShelterStop
+[2023.02.20-11.37.53:019][198]LogContentValidation: Display: Validating World /Game/ThirdPerson/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2023.02.20-11.37.53:019][198]LogContentValidation: Display: Validating Blueprint /Game/ThirdPerson/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode
+[2023.02.20-11.37.53:019][198]LogContentValidation: Display: Validating Blueprint /Game/ThirdPerson/ThirdPersonBP/Blueprints/ThirdPersonOverview.ThirdPersonOverview
+[2023.02.20-11.37.53:019][198]LogContentValidation: Display: Validating Texture2D /Game/ThirdPerson/ThirdPersonBP/signs/market_square/market_copy.market_copy
+[2023.02.20-11.37.53:019][198]LogContentValidation: Display: Validating Texture2D /Game/ThirdPerson/ThirdPersonBP/signs/nottingham_train_station/nottingham_train_station__copy.nottingham_train_station__copy
+[2023.02.20-11.37.53:019][198]LogContentValidation: Display: Validating Material /Game/ThirdPerson/ThirdPersonBP/signs/nottingham_train_station/sign_train_station_texture.sign_train_station_texture
+[2023.02.20-11.37.53:019][198]LogContentValidation: Display: Validating StaticMesh /Game/ThirdPerson/ThirdPersonBP/signs/nottingham_train_station/sign_train_station.sign_train_station
+[2023.02.20-11.37.53:019][198]LogContentValidation: Display: Validating Texture2D /Game/ThirdPerson/ThirdPersonBP/signs/theatre_royal/theatre_royal_copy.theatre_royal_copy
+[2023.02.20-11.37.53:019][198]LogContentValidation: Display: Validating Material /Game/ThirdPerson/ThirdPersonBP/signs/sign_model/M_Sign.M_Sign
+[2023.02.20-11.37.53:019][198]LogContentValidation: Display: Validating StaticMesh /Game/ThirdPerson/ThirdPersonBP/signs/sign_model/sign.sign
+[2023.02.20-11.37.53:019][198]LogContentValidation: Display: Validating Material /Game/ThirdPerson/ThirdPersonBP/signs/theatre_royal/M_Sign_royal.M_Sign_royal
+[2023.02.20-11.37.53:019][198]LogContentValidation: Display: Validating StaticMesh /Game/ThirdPerson/ThirdPersonBP/signs/theatre_royal/sign.sign
+[2023.02.20-11.38.18:355][204]LogObjectTools: Deleting 1 worlds: /Game/ThirdPerson/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2023.02.20-11.38.18:355][204]LogObjectTools: Currently 11 active worlds: /Game/ThirdPerson/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap, /Engine/Transient.World_0, /Engine/Transient.World_1, /Engine/Transient.World_2, /Engine/Transient.World_3, /Engine/Transient.World_4, /Engine/Transient.World_5, /Engine/Transient.World_6, /Engine/Transient.World_7, /Engine/Transient.World_8, /Engine/Transient.World_9
+[2023.02.20-11.38.20:524][204]LogSlate: Window 'Unable to delete level' being destroyed
+[2023.02.20-11.38.20:531][204]Message dialog closed, result: Ok, title: Unable to delete level, text: Unable to delete level while it is open
+[2023.02.20-11.38.21:747][346]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2023.02.20-11.38.21:761][346]LogSlate: Window 'CIR_Nottingham - Unreal Editor' being destroyed
+[2023.02.20-11.38.22:073][347]Cmd: QUIT_EDITOR
+[2023.02.20-11.38.22:073][347]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2023.02.20-11.38.22:092][347]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2023.02.20-11.38.22:169][347]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2023.02.20-11.38.22:169][347]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2023.02.20-11.38.22:169][347]LogAudio: Display: Audio Device unregistered from world 'ThirdPersonExampleMap'.
+[2023.02.20-11.38.22:169][347]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.02.20-11.38.22:170][347]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.02.20-11.38.22:175][347]LogAudio: Display: Audio Device Manager Shutdown
+[2023.02.20-11.38.22:175][347]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2023.02.20-11.38.22:186][347]LogExit: Preparing to exit.
+[2023.02.20-11.38.22:272][347]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2023.02.20-11.38.22:684][347]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2023.02.20-11.38.22:684][347]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2023.02.20-11.38.22:684][347]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2023.02.20-11.38.22:684][347]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2023.02.20-11.38.22:684][347]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2023.02.20-11.38.22:684][347]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2023.02.20-11.38.22:685][347]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2023.02.20-11.38.22:685][347]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2023.02.20-11.38.22:685][347]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2023.02.20-11.38.22:685][347]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2023.02.20-11.38.22:854][347]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2023.02.20-11.38.22:950][347]LogExit: Editor shut down
+[2023.02.20-11.38.22:951][347]LogExit: Transaction tracking system shut down
+[2023.02.20-11.38.24:161][347]LogExit: Object subsystem successfully closed.
+[2023.02.20-11.38.24:176][347]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.02.20-11.38.24:176][347]LogShaderCompilers: Display: Total job queries 172, among them cache hits 0 (0.00%)
+[2023.02.20-11.38.24:176][347]LogShaderCompilers: Display: Tracking 172 distinct input hashes that result in 82 distinct outputs (47.67%)
+[2023.02.20-11.38.24:176][347]LogShaderCompilers: Display: RAM used: 0.33 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.04%
+[2023.02.20-11.38.24:176][347]LogShaderCompilers: Display: ================================================
+[2023.02.20-11.38.24:248][347]LogShaderCompilers: Display: Shaders left to compile 0
+[2023.02.20-11.38.25:005][347]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (872)
+[2023.02.20-11.38.25:005][347]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (870)
+[2023.02.20-11.38.25:005][347]LogModuleManager: Shutting down and abandoning module SceneOutliner (868)
+[2023.02.20-11.38.25:005][347]LogModuleManager: Shutting down and abandoning module AddContentDialog (866)
+[2023.02.20-11.38.25:006][347]LogModuleManager: Shutting down and abandoning module WidgetCarousel (865)
+[2023.02.20-11.38.25:006][347]LogModuleManager: Shutting down and abandoning module EditorWidgets (862)
+[2023.02.20-11.38.25:006][347]LogModuleManager: Shutting down and abandoning module StatsViewer (860)
+[2023.02.20-11.38.25:006][347]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (858)
+[2023.02.20-11.38.25:006][347]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (856)
+[2023.02.20-11.38.25:006][347]LogModuleManager: Shutting down and abandoning module AutomationWorker (854)
+[2023.02.20-11.38.25:006][347]LogModuleManager: Shutting down and abandoning module SteamVREditor (852)
+[2023.02.20-11.38.25:006][347]LogModuleManager: Shutting down and abandoning module OculusMR (850)
+[2023.02.20-11.38.25:006][347]LogModuleManager: Shutting down and abandoning module OpenXRInput (848)
+[2023.02.20-11.38.25:006][347]LogModuleManager: Shutting down and abandoning module GooglePADEditor (846)
+[2023.02.20-11.38.25:006][347]LogModuleManager: Shutting down and abandoning module TakeRecorderSources (844)
+[2023.02.20-11.38.25:037][347]LogModuleManager: Shutting down and abandoning module TakeRecorder (843)
+[2023.02.20-11.38.25:037][347]LogModuleManager: Shutting down and abandoning module TakeTrackRecorders (840)
+[2023.02.20-11.38.25:038][347]LogModuleManager: Shutting down and abandoning module TakesCore (838)
+[2023.02.20-11.38.25:045][347]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (836)
+[2023.02.20-11.38.25:045][347]LogModuleManager: Shutting down and abandoning module TemplateSequenceEditor (834)
+[2023.02.20-11.38.25:057][347]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (832)
+[2023.02.20-11.38.25:057][347]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (830)
+[2023.02.20-11.38.25:120][347]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (828)
+[2023.02.20-11.38.25:120][347]LogModuleManager: Shutting down and abandoning module PlanarCut (826)
+[2023.02.20-11.38.25:144][347]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (824)
+[2023.02.20-11.38.25:144][347]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (822)
+[2023.02.20-11.38.25:144][347]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (820)
+[2023.02.20-11.38.25:144][347]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (818)
+[2023.02.20-11.38.25:144][347]LogModuleManager: Shutting down and abandoning module WebMMedia (816)
+[2023.02.20-11.38.25:144][347]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (814)
+[2023.02.20-11.38.25:144][347]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (812)
+[2023.02.20-11.38.25:144][347]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (810)
+[2023.02.20-11.38.25:144][347]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (808)
+[2023.02.20-11.38.25:145][347]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (806)
+[2023.02.20-11.38.25:145][347]LogModuleManager: Shutting down and abandoning module SequenceRecorder (805)
+[2023.02.20-11.38.25:145][347]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (802)
+[2023.02.20-11.38.25:145][347]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (800)
+[2023.02.20-11.38.25:145][347]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (798)
+[2023.02.20-11.38.25:145][347]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (796)
+[2023.02.20-11.38.25:145][347]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (794)
+[2023.02.20-11.38.25:145][347]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (792)
+[2023.02.20-11.38.25:145][347]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (790)
+[2023.02.20-11.38.25:145][347]LogModuleManager: Shutting down and abandoning module CharacterAI (788)
+[2023.02.20-11.38.25:145][347]LogModuleManager: Shutting down and abandoning module TextureAlignMode (786)
+[2023.02.20-11.38.25:145][347]LogModuleManager: Shutting down and abandoning module BspMode (784)
+[2023.02.20-11.38.25:145][347]LogModuleManager: Shutting down and abandoning module GeometryMode (782)
+[2023.02.20-11.38.25:145][347]LogModuleManager: Shutting down and abandoning module CameraShakePreviewer (780)
+[2023.02.20-11.38.25:162][347]LogModuleManager: Shutting down and abandoning module SmartSnapping (778)
+[2023.02.20-11.38.25:162][347]LogModuleManager: Shutting down and abandoning module SessionServices (776)
+[2023.02.20-11.38.25:162][347]LogModuleManager: Shutting down and abandoning module MeshPaint (774)
+[2023.02.20-11.38.25:162][347]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (772)
+[2023.02.20-11.38.25:162][347]LogModuleManager: Shutting down and abandoning module FoliageEdit (770)
+[2023.02.20-11.38.25:162][347]LogModuleManager: Shutting down and abandoning module LandscapeEditor (768)
+[2023.02.20-11.38.25:184][347]LogModuleManager: Shutting down and abandoning module MeshPaintMode (766)
+[2023.02.20-11.38.25:184][347]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (764)
+[2023.02.20-11.38.25:184][347]LogModuleManager: Shutting down and abandoning module ActorPickerMode (762)
+[2023.02.20-11.38.25:185][347]LogModuleManager: Shutting down and abandoning module PlacementMode (760)
+[2023.02.20-11.38.25:185][347]LogModuleManager: Shutting down and abandoning module ViewportSnapping (758)
+[2023.02.20-11.38.25:185][347]LogModuleManager: Shutting down and abandoning module ViewportInteraction (756)
+[2023.02.20-11.38.25:185][347]LogModuleManager: Shutting down and abandoning module ClothPainter (754)
+[2023.02.20-11.38.25:233][347]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (753)
+[2023.02.20-11.38.25:256][347]LogModuleManager: Shutting down and abandoning module LogVisualizer (750)
+[2023.02.20-11.38.25:256][347]LogModuleManager: Shutting down and abandoning module IntroTutorials (748)
+[2023.02.20-11.38.25:256][347]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (747)
+[2023.02.20-11.38.25:256][347]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (744)
+[2023.02.20-11.38.25:256][347]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (742)
+[2023.02.20-11.38.25:256][347]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (740)
+[2023.02.20-11.38.25:256][347]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (739)
+[2023.02.20-11.38.25:788][347]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (736)
+[2023.02.20-11.38.25:788][347]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (734)
+[2023.02.20-11.38.25:788][347]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (732)
+[2023.02.20-11.38.25:788][347]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (730)
+[2023.02.20-11.38.25:789][347]LogModuleManager: Shutting down and abandoning module TraceInsights (728)
+[2023.02.20-11.38.27:088][347]MemoryProfiler: Shutdown
+[2023.02.20-11.38.27:088][347]NetworkingProfiler: Shutdown
+[2023.02.20-11.38.27:088][347]LoadingProfiler: Shutdown
+[2023.02.20-11.38.27:088][347]TimingProfiler: Shutdown
+[2023.02.20-11.38.27:143][347]LogModuleManager: Shutting down and abandoning module TraceServices (727)
+[2023.02.20-11.38.27:172][347]LogModuleManager: Shutting down and abandoning module EditorInteractiveToolsFramework (724)
+[2023.02.20-11.38.27:172][347]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (722)
+[2023.02.20-11.38.27:172][347]LogModuleManager: Shutting down and abandoning module InputBindingEditor (720)
+[2023.02.20-11.38.27:172][347]LogModuleManager: Shutting down and abandoning module MergeActors (718)
+[2023.02.20-11.38.27:198][347]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (716)
+[2023.02.20-11.38.27:198][347]LogModuleManager: Shutting down and abandoning module LocalizationService (715)
+[2023.02.20-11.38.27:198][347]LogModuleManager: Shutting down and abandoning module HardwareTargeting (712)
+[2023.02.20-11.38.27:198][347]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (710)
+[2023.02.20-11.38.27:198][347]LogModuleManager: Shutting down and abandoning module UndoHistory (708)
+[2023.02.20-11.38.27:198][347]LogModuleManager: Shutting down and abandoning module XmlParser (706)
+[2023.02.20-11.38.27:198][347]LogModuleManager: Shutting down and abandoning module Blutility (704)
+[2023.02.20-11.38.27:198][347]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (702)
+[2023.02.20-11.38.27:198][347]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (701)
+[2023.02.20-11.38.27:198][347]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (698)
+[2023.02.20-11.38.27:198][347]LogModuleManager: Shutting down and abandoning module InternationalizationSettings (697)
+[2023.02.20-11.38.27:198][347]LogModuleManager: Shutting down and abandoning module SettingsEditor (694)
+[2023.02.20-11.38.27:198][347]LogModuleManager: Shutting down and abandoning module ProjectLauncher (692)
+[2023.02.20-11.38.27:198][347]LogModuleManager: Shutting down and abandoning module SessionFrontend (690)
+[2023.02.20-11.38.27:198][347]LogModuleManager: Shutting down and abandoning module ProfilerClient (688)
+[2023.02.20-11.38.27:210][347]LogModuleManager: Shutting down and abandoning module DeviceManager (686)
+[2023.02.20-11.38.27:226][347]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (685)
+[2023.02.20-11.38.27:259][347]LogModuleManager: Shutting down and abandoning module AutomationController (682)
+[2023.02.20-11.38.27:259][347]LogModuleManager: Shutting down and abandoning module AutomationWindow (680)
+[2023.02.20-11.38.27:260][347]LogModuleManager: Shutting down and abandoning module Layers (678)
+[2023.02.20-11.38.27:276][347]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (676)
+[2023.02.20-11.38.27:276][347]LogModuleManager: Shutting down and abandoning module DetailCustomizations (674)
+[2023.02.20-11.38.27:276][347]LogModuleManager: Shutting down and abandoning module PackagesDialog (672)
+[2023.02.20-11.38.27:276][347]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (670)
+[2023.02.20-11.38.27:305][347]LogModuleManager: Shutting down and abandoning module Persona (668)
+[2023.02.20-11.38.27:414][347]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (667)
+[2023.02.20-11.38.27:414][347]LogModuleManager: Shutting down and abandoning module AnimGraph (665)
+[2023.02.20-11.38.27:414][347]LogModuleManager: Shutting down and abandoning module Kismet (662)
+[2023.02.20-11.38.27:481][347]LogModuleManager: Shutting down and abandoning module KismetWidgets (661)
+[2023.02.20-11.38.27:504][347]LogModuleManager: Shutting down and abandoning module GraphEditor (658)
+[2023.02.20-11.38.27:552][347]LogModuleManager: Shutting down and abandoning module StructViewer (656)
+[2023.02.20-11.38.27:552][347]LogModuleManager: Shutting down and abandoning module ClassViewer (654)
+[2023.02.20-11.38.27:552][347]LogModuleManager: Shutting down and abandoning module Toolbox (652)
+[2023.02.20-11.38.27:552][347]LogModuleManager: Shutting down and abandoning module ModuleUI (650)
+[2023.02.20-11.38.27:568][347]LogModuleManager: Shutting down and abandoning module OutputLog (648)
+[2023.02.20-11.38.27:580][347]LogModuleManager: Shutting down and abandoning module GammaUI (646)
+[2023.02.20-11.38.27:580][347]LogModuleManager: Shutting down and abandoning module Documentation (644)
+[2023.02.20-11.38.27:580][347]LogModuleManager: Shutting down and abandoning module LiveCoding (642)
+[2023.02.20-11.38.27:580][347]LogModuleManager: Shutting down and abandoning module LevelSequence (640)
+[2023.02.20-11.38.27:580][347]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (638)
+[2023.02.20-11.38.27:580][347]LogModuleManager: Shutting down and abandoning module MovieScene (636)
+[2023.02.20-11.38.27:580][347]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (634)
+[2023.02.20-11.38.27:580][347]LogModuleManager: Shutting down and abandoning module LauncherPlatform (632)
+[2023.02.20-11.38.27:580][347]LogModuleManager: Shutting down and abandoning module AnalyticsET (630)
+[2023.02.20-11.38.27:581][347]LogModuleManager: Shutting down and abandoning module PortalServices (628)
+[2023.02.20-11.38.27:581][347]LogModuleManager: Shutting down and abandoning module PortalRpc (626)
+[2023.02.20-11.38.27:581][347]LogModuleManager: Shutting down and abandoning module MessagingRpc (624)
+[2023.02.20-11.38.27:581][347]LogModuleManager: Shutting down and abandoning module AudioMixerXAudio2 (622)
+[2023.02.20-11.38.27:581][347]LogModuleManager: Shutting down and abandoning module AudioMixerCore (621)
+[2023.02.20-11.38.27:581][347]LogModuleManager: Shutting down and abandoning module AIModule (618)
+[2023.02.20-11.38.27:581][347]LogModuleManager: Shutting down and abandoning module GameplayDebugger (617)
+[2023.02.20-11.38.27:581][347]LogModuleManager: Shutting down and abandoning module AITestSuite (615)
+[2023.02.20-11.38.27:581][347]LogModuleManager: Shutting down and abandoning module NavigationSystem (613)
+[2023.02.20-11.38.27:581][347]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (610)
+[2023.02.20-11.38.27:584][347]LogModuleManager: Shutting down and abandoning module ProfilerService (608)
+[2023.02.20-11.38.27:832][347]LogModuleManager: Shutting down and abandoning module TaskGraph (606)
+[2023.02.20-11.38.27:849][347]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaEditor (604)
+[2023.02.20-11.38.27:849][347]LogModuleManager: Shutting down and abandoning module OculusEditor (602)
+[2023.02.20-11.38.27:864][347]LogModuleManager: Shutting down and abandoning module OculusInput (600)
+[2023.02.20-11.38.27:864][347]LogModuleManager: Shutting down and abandoning module ContentBrowserFileDataSource (598)
+[2023.02.20-11.38.27:864][347]LogModuleManager: Shutting down and abandoning module ContentBrowserClassDataSource (596)
+[2023.02.20-11.38.27:864][347]LogModuleManager: Shutting down and abandoning module ContentBrowserAssetDataSource (594)
+[2023.02.20-11.38.27:864][347]LogModuleManager: Shutting down and abandoning module CollectionManager (593)
+[2023.02.20-11.38.27:864][347]LogModuleManager: Shutting down and abandoning module SynthesisEditor (590)
+[2023.02.20-11.38.27:864][347]LogModuleManager: Shutting down and abandoning module Synthesis (588)
+[2023.02.20-11.38.27:874][347]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (586)
+[2023.02.20-11.38.27:874][347]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (584)
+[2023.02.20-11.38.27:874][347]LogModuleManager: Shutting down and abandoning module OpenXREditor (582)
+[2023.02.20-11.38.27:874][347]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (580)
+[2023.02.20-11.38.27:874][347]LogModuleManager: Shutting down and abandoning module GooglePAD (578)
+[2023.02.20-11.38.27:874][347]LogModuleManager: Shutting down and abandoning module ScreenshotTools (576)
+[2023.02.20-11.38.27:874][347]LogModuleManager: Shutting down and abandoning module TakeSequencer (574)
+[2023.02.20-11.38.27:874][347]LogModuleManager: Shutting down and abandoning module TakeMovieScene (572)
+[2023.02.20-11.38.27:874][347]LogModuleManager: Shutting down and abandoning module EditableMesh (570)
+[2023.02.20-11.38.27:874][347]LogModuleManager: Shutting down and abandoning module CableComponent (568)
+[2023.02.20-11.38.27:874][347]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (566)
+[2023.02.20-11.38.27:874][347]LogModuleManager: Shutting down and abandoning module AudioCapture (564)
+[2023.02.20-11.38.27:874][347]LogModuleManager: Shutting down and abandoning module AudioCaptureRtAudio (563)
+[2023.02.20-11.38.27:874][347]LogModuleManager: Shutting down and abandoning module AssetTags (560)
+[2023.02.20-11.38.27:874][347]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (558)
+[2023.02.20-11.38.27:874][347]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (556)
+[2023.02.20-11.38.27:874][347]LogModuleManager: Shutting down and abandoning module AppleImageUtils (554)
+[2023.02.20-11.38.27:874][347]LogModuleManager: Shutting down and abandoning module AndroidPermission (552)
+[2023.02.20-11.38.27:874][347]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (550)
+[2023.02.20-11.38.27:874][347]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (548)
+[2023.02.20-11.38.27:874][347]LogModuleManager: Shutting down and abandoning module TemplateSequence (546)
+[2023.02.20-11.38.27:874][347]LogModuleManager: Shutting down and abandoning module MotoSynthEditor (544)
+[2023.02.20-11.38.27:874][347]LogModuleManager: Shutting down and abandoning module MotoSynth (542)
+[2023.02.20-11.38.27:874][347]LogModuleManager: Shutting down and abandoning module OpenImageDenoise (540)
+[2023.02.20-11.38.27:874][347]LogOpenImageDenoise: OIDN shutting down
+[2023.02.20-11.38.27:874][347]LogModuleManager: Shutting down and abandoning module MeshConversion (538)
+[2023.02.20-11.38.27:890][347]LogModuleManager: Shutting down and abandoning module DynamicMesh (536)
+[2023.02.20-11.38.27:900][347]LogModuleManager: Shutting down and abandoning module GeometryAlgorithms (534)
+[2023.02.20-11.38.27:913][347]LogModuleManager: Shutting down and abandoning module GeometricObjects (532)
+[2023.02.20-11.38.27:974][347]LogModuleManager: Shutting down and abandoning module MagicLeapSharedWorld (530)
+[2023.02.20-11.38.27:974][347]LogModuleManager: Shutting down and abandoning module MagicLeapLightEstimation (528)
+[2023.02.20-11.38.27:974][347]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (526)
+[2023.02.20-11.38.27:974][347]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (524)
+[2023.02.20-11.38.27:974][347]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (522)
+[2023.02.20-11.38.27:974][347]LogModuleManager: Shutting down and abandoning module MediaCompositing (520)
+[2023.02.20-11.38.27:974][347]LogModuleManager: Shutting down and abandoning module ImgMedia (518)
+[2023.02.20-11.38.27:974][347]LogModuleManager: Shutting down and abandoning module GeometryCollectionTracks (516)
+[2023.02.20-11.38.27:974][347]LogModuleManager: Shutting down and abandoning module GeometryCollectionSequencer (515)
+[2023.02.20-11.38.27:974][347]LogModuleManager: Shutting down and abandoning module GeometryCollectionEditor (512)
+[2023.02.20-11.38.27:974][347]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (510)
+[2023.02.20-11.38.27:974][347]LogModuleManager: Shutting down and abandoning module GeometryCacheStreamer (508)
+[2023.02.20-11.38.27:974][347]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (506)
+[2023.02.20-11.38.27:974][347]LogModuleManager: Shutting down and abandoning module ChaosNiagara (504)
+[2023.02.20-11.38.27:974][347]LogModuleManager: Shutting down and abandoning module ChaosSolverEditor (502)
+[2023.02.20-11.38.27:974][347]LogModuleManager: Shutting down and abandoning module FractureEditor (500)
+[2023.02.20-11.38.27:975][347]LogModuleManager: Shutting down and abandoning module FieldSystemEngine (499)
+[2023.02.20-11.38.27:975][347]LogModuleManager: Shutting down and abandoning module ChaosClothEditor (496)
+[2023.02.20-11.38.27:991][347]LogModuleManager: Shutting down and abandoning module BackChannel (494)
+[2023.02.20-11.38.27:991][347]LogModuleManager: Shutting down and abandoning module NiagaraEditorWidgets (492)
+[2023.02.20-11.38.28:012][347]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (490)
+[2023.02.20-11.38.28:012][347]LogModuleManager: Shutting down and abandoning module AutomationUtils (488)
+[2023.02.20-11.38.28:012][347]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (486)
+[2023.02.20-11.38.28:012][347]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (484)
+[2023.02.20-11.38.28:012][347]LogModuleManager: Shutting down and abandoning module UObjectPlugin (482)
+[2023.02.20-11.38.28:012][347]LogModuleManager: Shutting down and abandoning module AlembicImporter (480)
+[2023.02.20-11.38.28:012][347]LogModuleManager: Shutting down and abandoning module AlembicLibrary (479)
+[2023.02.20-11.38.28:012][347]LogModuleManager: Shutting down and abandoning module GeometryCache (478)
+[2023.02.20-11.38.28:012][347]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (477)
+[2023.02.20-11.38.28:012][347]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (472)
+[2023.02.20-11.38.28:012][347]LogModuleManager: Shutting down and abandoning module RiderSourceCodeAccess (470)
+[2023.02.20-11.38.28:012][347]LogModuleManager: Shutting down and abandoning module PluginUtils (468)
+[2023.02.20-11.38.28:012][347]LogModuleManager: Shutting down and abandoning module PlasticSourceControl (466)
+[2023.02.20-11.38.28:026][347]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (464)
+[2023.02.20-11.38.28:026][347]LogModuleManager: Shutting down and abandoning module GitSourceControl (462)
+[2023.02.20-11.38.28:026][347]LogModuleManager: Shutting down and abandoning module SourceControl (461)
+[2023.02.20-11.38.28:040][347]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (458)
+[2023.02.20-11.38.28:040][347]LogModuleManager: Shutting down and abandoning module PluginBrowser (456)
+[2023.02.20-11.38.28:059][347]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (454)
+[2023.02.20-11.38.28:059][347]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (452)
+[2023.02.20-11.38.28:059][347]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (450)
+[2023.02.20-11.38.28:059][347]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (448)
+[2023.02.20-11.38.28:059][347]LogModuleManager: Shutting down and abandoning module VariantManagerContentEditor (446)
+[2023.02.20-11.38.28:059][347]LogModuleManager: Shutting down and abandoning module CurveEditorTools (444)
+[2023.02.20-11.38.28:071][347]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (442)
+[2023.02.20-11.38.28:071][347]LogModuleManager: Shutting down and abandoning module CryptoKeys (440)
+[2023.02.20-11.38.28:071][347]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (438)
+[2023.02.20-11.38.28:071][347]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (436)
+[2023.02.20-11.38.28:071][347]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (434)
+[2023.02.20-11.38.28:071][347]LogModuleManager: Shutting down and abandoning module Paper2DEditor (432)
+[2023.02.20-11.38.28:088][347]LogModuleManager: Shutting down and abandoning module OodleNetworkHandlerComponent (430)
+[2023.02.20-11.38.28:088][347]LogModuleManager: Shutting down and abandoning module LiveLinkSequencer (428)
+[2023.02.20-11.38.28:088][347]LogModuleManager: Shutting down and abandoning module LiveLinkMovieScene (426)
+[2023.02.20-11.38.28:088][347]LogModuleManager: Shutting down and abandoning module LiveLinkGraphNode (424)
+[2023.02.20-11.38.28:088][347]LogModuleManager: Shutting down and abandoning module LiveLinkEditor (422)
+[2023.02.20-11.38.28:088][347]LogModuleManager: Shutting down and abandoning module LiveLinkComponents (420)
+[2023.02.20-11.38.28:088][347]LogModuleManager: Shutting down and abandoning module LiveLink (418)
+[2023.02.20-11.38.28:453][347]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (416)
+[2023.02.20-11.38.28:453][347]LogModuleManager: Shutting down and abandoning module MeshPaintingToolset (414)
+[2023.02.20-11.38.28:466][347]LogModuleManager: Shutting down and abandoning module MeshPaintEditorMode (412)
+[2023.02.20-11.38.28:466][347]LogModuleManager: Shutting down and abandoning module SoundFields (410)
+[2023.02.20-11.38.28:466][347]LogModuleManager: Shutting down and abandoning module SignificanceManager (408)
+[2023.02.20-11.38.28:466][347]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (406)
+[2023.02.20-11.38.28:466][347]LogModuleManager: Shutting down and abandoning module PropertyAccessEditor (404)
+[2023.02.20-11.38.28:466][347]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (402)
+[2023.02.20-11.38.28:466][347]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (398)
+[2023.02.20-11.38.28:466][347]LogModuleManager: Shutting down and abandoning module AudioSynesthesia (396)
+[2023.02.20-11.38.28:466][347]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaCore (394)
+[2023.02.20-11.38.28:466][347]LogModuleManager: Shutting down and abandoning module PythonScriptPlugin (392)
+[2023.02.20-11.38.28:466][347]LogModuleManager: Shutting down and abandoning module ActorSequence (390)
+[2023.02.20-11.38.28:466][347]LogModuleManager: Shutting down and abandoning module UdpMessaging (388)
+[2023.02.20-11.38.28:566][347]LogModuleManager: Shutting down and abandoning module TcpMessaging (386)
+[2023.02.20-11.38.28:667][347]LogModuleManager: Shutting down and abandoning module MagicLeapARPin (384)
+[2023.02.20-11.38.28:667][347]LogModuleManager: Shutting down and abandoning module MagicLeapHandMeshing (382)
+[2023.02.20-11.38.28:667][347]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (380)
+[2023.02.20-11.38.28:667][347]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (378)
+[2023.02.20-11.38.28:667][347]LogModuleManager: Shutting down and abandoning module MagicLeapPlanes (376)
+[2023.02.20-11.38.28:667][347]LogMagicLeapPlanes: Planes tracker already destroyed.
+[2023.02.20-11.38.28:667][347]LogModuleManager: Shutting down and abandoning module MagicLeapImageTracker (374)
+[2023.02.20-11.38.28:667][347]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (372)
+[2023.02.20-11.38.28:667][347]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (370)
+[2023.02.20-11.38.28:667][347]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (368)
+[2023.02.20-11.38.28:667][347]LogModuleManager: Shutting down and abandoning module MagicLeapController (366)
+[2023.02.20-11.38.28:667][347]LogModuleManager: Shutting down and abandoning module MagicLeapARPinImpl (364)
+[2023.02.20-11.38.28:667][347]LogModuleManager: Shutting down and abandoning module MagicLeapAR (362)
+[2023.02.20-11.38.28:667][347]LogModuleManager: Shutting down and abandoning module ImgMediaEngine (360)
+[2023.02.20-11.38.28:667][347]LogModuleManager: Shutting down and abandoning module NiagaraAnimNotifies (358)
+[2023.02.20-11.38.28:667][347]LogModuleManager: Shutting down and abandoning module Niagara (356)
+[2023.02.20-11.38.28:689][347]LogModuleManager: Shutting down and abandoning module SignalProcessing (355)
+[2023.02.20-11.38.28:689][347]LogModuleManager: Shutting down and abandoning module NiagaraEditor (353)
+[2023.02.20-11.38.28:689][347]LogModuleManager: Shutting down and abandoning module NiagaraCore (350)
+[2023.02.20-11.38.28:689][347]LogModuleManager: Shutting down and abandoning module PropertyAccessNode (348)
+[2023.02.20-11.38.28:701][347]LogModuleManager: Shutting down and abandoning module AnimationSharing (346)
+[2023.02.20-11.38.28:701][347]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (344)
+[2023.02.20-11.38.28:701][347]LogModuleManager: Shutting down and abandoning module FacialAnimation (342)
+[2023.02.20-11.38.28:701][347]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (340)
+[2023.02.20-11.38.28:701][347]LogModuleManager: Shutting down and abandoning module DataValidation (338)
+[2023.02.20-11.38.28:701][347]LogModuleManager: Shutting down and abandoning module GameplayCameras (336)
+[2023.02.20-11.38.28:701][347]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (334)
+[2023.02.20-11.38.28:702][347]LogModuleManager: Shutting down and abandoning module LevelEditor (333)
+[2023.02.20-11.38.28:702][347]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (332)
+[2023.02.20-11.38.28:703][347]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (330)
+[2023.02.20-11.38.28:703][347]LogModuleManager: Shutting down and abandoning module MainFrame (328)
+[2023.02.20-11.38.28:703][347]LogModuleManager: Shutting down and abandoning module HotReload (327)
+[2023.02.20-11.38.28:704][347]LogModuleManager: Shutting down and abandoning module ToolMenus (323)
+[2023.02.20-11.38.28:704][347]LogModuleManager: Shutting down and abandoning module ContentBrowser (321)
+[2023.02.20-11.38.28:704][347]LogModuleManager: Shutting down and abandoning module ContentBrowserData (320)
+[2023.02.20-11.38.28:704][347]LogModuleManager: Shutting down and abandoning module TreeMap (317)
+[2023.02.20-11.38.28:714][347]LogModuleManager: Shutting down and abandoning module Paper2D (314)
+[2023.02.20-11.38.28:714][347]LogModuleManager: Shutting down and abandoning module EnvironmentQueryEditor (312)
+[2023.02.20-11.38.28:732][347]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (310)
+[2023.02.20-11.38.28:732][347]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (308)
+[2023.02.20-11.38.28:733][347]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (306)
+[2023.02.20-11.38.28:733][347]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (304)
+[2023.02.20-11.38.28:733][347]LogModuleManager: Shutting down and abandoning module PacketHandler (302)
+[2023.02.20-11.38.28:733][347]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (300)
+[2023.02.20-11.38.28:733][347]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntimeNv (298)
+[2023.02.20-11.38.28:756][347]LogModuleManager: Shutting down and abandoning module MediaAssets (296)
+[2023.02.20-11.38.28:756][347]LogModuleManager: Shutting down and abandoning module Overlay (294)
+[2023.02.20-11.38.28:756][347]LogModuleManager: Shutting down and abandoning module OverlayEditor (293)
+[2023.02.20-11.38.28:756][347]LogModuleManager: Shutting down and abandoning module VREditor (290)
+[2023.02.20-11.38.28:756][347]LogModuleManager: Shutting down and abandoning module StringTableEditor (288)
+[2023.02.20-11.38.28:791][347]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (286)
+[2023.02.20-11.38.28:791][347]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (284)
+[2023.02.20-11.38.28:808][347]LogModuleManager: Shutting down and abandoning module FunctionalTesting (282)
+[2023.02.20-11.38.28:808][347]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (280)
+[2023.02.20-11.38.28:808][347]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (279)
+[2023.02.20-11.38.28:808][347]LogModuleManager: Shutting down and abandoning module UMG (276)
+[2023.02.20-11.38.28:828][347]LogModuleManager: Shutting down and abandoning module UMGEditor (275)
+[2023.02.20-11.38.28:828][347]LogModuleManager: Shutting down and abandoning module MessageLog (273)
+[2023.02.20-11.38.28:828][347]LogModuleManager: Shutting down and abandoning module SlateReflector (268)
+[2023.02.20-11.38.28:856][347]LogModuleManager: Shutting down and abandoning module Slate (266)
+[2023.02.20-11.38.28:856][347]LogModuleManager: Shutting down and abandoning module SlateCore (264)
+[2023.02.20-11.38.28:857][347]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (262)
+[2023.02.20-11.38.28:857][347]LogModuleManager: Shutting down and abandoning module UnrealEd (260)
+[2023.02.20-11.38.28:907][347]LogModuleManager: Shutting down and abandoning module MRMesh (258)
+[2023.02.20-11.38.28:907][347]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (256)
+[2023.02.20-11.38.28:907][347]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (254)
+[2023.02.20-11.38.28:907][347]LogModuleManager: Shutting down and abandoning module XAudio2 (252)
+[2023.02.20-11.38.28:907][347]LogModuleManager: Shutting down and abandoning module Networking (250)
+[2023.02.20-11.38.28:907][347]LogModuleManager: Shutting down and abandoning module Core (248)
+[2023.02.20-11.38.28:907][347]LogModuleManager: Shutting down and abandoning module MaterialEditor (246)
+[2023.02.20-11.38.28:930][347]LogModuleManager: Shutting down and abandoning module MovieSceneTools (244)
+[2023.02.20-11.38.28:931][347]LogModuleManager: Shutting down and abandoning module CurveEditor (243)
+[2023.02.20-11.38.28:947][347]LogModuleManager: Shutting down and abandoning module Sequencer (241)
+[2023.02.20-11.38.28:948][347]LogModuleManager: Shutting down and abandoning module EditorStyle (240)
+[2023.02.20-11.38.28:949][347]LogModuleManager: Shutting down and abandoning module KismetCompiler (236)
+[2023.02.20-11.38.28:949][347]LogModuleManager: Shutting down and abandoning module MeshBuilder (234)
+[2023.02.20-11.38.28:949][347]LogModuleManager: Shutting down and abandoning module MeshUtilities (232)
+[2023.02.20-11.38.28:949][347]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (231)
+[2023.02.20-11.38.28:949][347]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (230)
+[2023.02.20-11.38.28:949][347]LogModuleManager: Shutting down and abandoning module MeshBoneReduction (229)
+[2023.02.20-11.38.28:949][347]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (227)
+[2023.02.20-11.38.28:959][347]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (225)
+[2023.02.20-11.38.28:971][347]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (223)
+[2023.02.20-11.38.28:971][347]LogModuleManager: Shutting down and abandoning module MaterialBaking (219)
+[2023.02.20-11.38.28:971][347]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (214)
+[2023.02.20-11.38.28:971][347]LogModuleManager: Shutting down and abandoning module DerivedDataCache (212)
+[2023.02.20-11.38.28:971][347]LogModuleManager: Shutting down and abandoning module TargetPlatform (210)
+[2023.02.20-11.38.28:971][347]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (209)
+[2023.02.20-11.38.28:971][347]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (207)
+[2023.02.20-11.38.28:984][347]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (205)
+[2023.02.20-11.38.29:007][347]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (203)
+[2023.02.20-11.38.29:007][347]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (201)
+[2023.02.20-11.38.29:016][347]LogModuleManager: Shutting down and abandoning module TextureFormatOodle (199)
+[2023.02.20-11.38.29:017][347]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (197)
+[2023.02.20-11.38.29:017][347]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (195)
+[2023.02.20-11.38.29:017][347]LogModuleManager: Shutting down and abandoning module TextureFormatETC2 (193)
+[2023.02.20-11.38.29:017][347]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (191)
+[2023.02.20-11.38.29:017][347]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (189)
+[2023.02.20-11.38.29:017][347]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (187)
+[2023.02.20-11.38.29:017][347]LogModuleManager: Shutting down and abandoning module ImageWrapper (186)
+[2023.02.20-11.38.29:017][347]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (183)
+[2023.02.20-11.38.29:017][347]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (181)
+[2023.02.20-11.38.29:017][347]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (179)
+[2023.02.20-11.38.29:017][347]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (177)
+[2023.02.20-11.38.29:017][347]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (175)
+[2023.02.20-11.38.29:017][347]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (173)
+[2023.02.20-11.38.29:017][347]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (171)
+[2023.02.20-11.38.29:017][347]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (169)
+[2023.02.20-11.38.29:018][347]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (167)
+[2023.02.20-11.38.29:018][347]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (165)
+[2023.02.20-11.38.29:018][347]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (163)
+[2023.02.20-11.38.29:018][347]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (161)
+[2023.02.20-11.38.29:018][347]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (159)
+[2023.02.20-11.38.29:018][347]LogModuleManager: Shutting down and abandoning module LinuxAArch64ServerTargetPlatform (157)
+[2023.02.20-11.38.29:018][347]LogModuleManager: Shutting down and abandoning module LinuxAArch64ClientTargetPlatform (155)
+[2023.02.20-11.38.29:018][347]LogModuleManager: Shutting down and abandoning module LinuxAArch64NoEditorTargetPlatform (153)
+[2023.02.20-11.38.29:018][347]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (151)
+[2023.02.20-11.38.29:018][347]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (149)
+[2023.02.20-11.38.29:018][347]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (147)
+[2023.02.20-11.38.29:018][347]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (145)
+[2023.02.20-11.38.29:018][347]LogModuleManager: Shutting down and abandoning module Messaging (143)
+[2023.02.20-11.38.29:018][347]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (141)
+[2023.02.20-11.38.29:019][347]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (139)
+[2023.02.20-11.38.29:021][347]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (137)
+[2023.02.20-11.38.29:021][347]LogModuleManager: Shutting down and abandoning module D3D11RHI (134)
+[2023.02.20-11.38.29:021][347]LogModuleManager: Shutting down and abandoning module InputCore (132)
+[2023.02.20-11.38.29:021][347]LogModuleManager: Shutting down and abandoning module Settings (130)
+[2023.02.20-11.38.29:021][347]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (128)
+[2023.02.20-11.38.29:021][347]LogModuleManager: Shutting down and abandoning module PhysXCooking (126)
+[2023.02.20-11.38.29:022][347]LogModuleManager: Shutting down and abandoning module Chaos (124)
+[2023.02.20-11.38.29:034][347]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (122)
+[2023.02.20-11.38.29:034][347]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (121)
+[2023.02.20-11.38.29:034][347]LogModuleManager: Shutting down and abandoning module AVEncoder (120)
+[2023.02.20-11.38.29:034][347]LogModuleManager: Shutting down and abandoning module SteamVRInputDevice (116)
+[2023.02.20-11.38.29:034][347]LogModuleManager: Shutting down and abandoning module SteamVRInput (114)
+[2023.02.20-11.38.29:034][347]LogModuleManager: Shutting down and abandoning module SteamVR (112)
+[2023.02.20-11.38.29:034][347]LogHMD: Freeing OpenVRDLLHandle.
+[2023.02.20-11.38.29:034][347]LogModuleManager: Shutting down and abandoning module OculusHMD (110)
+[2023.02.20-11.38.29:034][347]LogModuleManager: Shutting down and abandoning module OpenXRHandTracking (108)
+[2023.02.20-11.38.29:035][347]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2023.02.20-11.38.29:035][347]LogModuleManager: Shutting down and abandoning module OpenXREyeTracker (106)
+[2023.02.20-11.38.29:035][347]LogModuleManager: Shutting down and abandoning module OpenXRAR (104)
+[2023.02.20-11.38.29:035][347]LogModuleManager: Shutting down and abandoning module AugmentedReality (103)
+[2023.02.20-11.38.29:035][347]LogModuleManager: Shutting down and abandoning module OpenXRHMD (100)
+[2023.02.20-11.38.29:035][347]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (98)
+[2023.02.20-11.38.29:035][347]LogModuleManager: Shutting down and abandoning module ChunkDownloader (96)
+[2023.02.20-11.38.29:047][347]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (94)
+[2023.02.20-11.38.29:047][347]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (90)
+[2023.02.20-11.38.29:080][347]LogModuleManager: Shutting down and abandoning module XMPP (85)
+[2023.02.20-11.38.29:105][347]LogModuleManager: Shutting down and abandoning module WebSockets (84)
+[2023.02.20-11.38.29:170][347]LogModuleManager: Shutting down and abandoning module HTTP (81)
+[2023.02.20-11.38.29:170][347]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2023.02.20-11.38.29:170][347]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B85F7A285-4AC6-97B9-DA05-56883662F453%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=8b59f839432b574857be38a78bc15daa%7C480486ea7fff45d3bb59b82930f0597b%7C423080b1-f5ed-4cc2-b373-289405dd6e17&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[1] status=Processing
+[2023.02.20-11.38.29:170][347]LogHttp: Display: cleaning up 1 outstanding Http requests.
+[2023.02.20-11.38.29:201][347]LogModuleManager: Shutting down and abandoning module SSL (80)
+[2023.02.20-11.38.29:202][347]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (76)
+[2023.02.20-11.38.29:202][347]LogModuleManager: Shutting down and abandoning module WmfMedia (74)
+[2023.02.20-11.38.29:217][347]LogModuleManager: Shutting down and abandoning module Media (73)
+[2023.02.20-11.38.29:218][347]LogModuleManager: Shutting down and abandoning module MediaInfo (72)
+[2023.02.20-11.38.29:218][347]LogModuleManager: Shutting down and abandoning module MLSDK (68)
+[2023.02.20-11.38.29:218][347]LogModuleManager: Shutting down and abandoning module MagicLeap (66)
+[2023.02.20-11.38.29:218][347]LogModuleManager: Shutting down and abandoning module ExrReaderGpu (64)
+[2023.02.20-11.38.29:218][347]LogModuleManager: Shutting down and abandoning module ChaosCloth (62)
+[2023.02.20-11.38.29:218][347]LogModuleManager: Shutting down and abandoning module NiagaraVertexFactories (60)
+[2023.02.20-11.38.29:218][347]LogModuleManager: Shutting down and abandoning module NiagaraShader (58)
+[2023.02.20-11.38.29:218][347]LogModuleManager: Shutting down and abandoning module PixWinPlugin (56)
+[2023.02.20-11.38.29:218][347]LogModuleManager: Shutting down and abandoning module VariantManagerContent (54)
+[2023.02.20-11.38.29:218][347]LogModuleManager: Shutting down and abandoning module DatasmithContent (52)
+[2023.02.20-11.38.29:219][347]LogModuleManager: Shutting down and abandoning module AISupportModule (50)
+[2023.02.20-11.38.29:219][347]LogModuleManager: Shutting down and abandoning module DesktopPlatform (48)
+[2023.02.20-11.38.29:219][347]LogModuleManager: Shutting down and abandoning module PythonScriptPluginPreload (46)
+[2023.02.20-11.38.29:219][347]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (44)
+[2023.02.20-11.38.29:219][347]LogModuleManager: Shutting down and abandoning module PlatformCryptoTypes (42)
+[2023.02.20-11.38.29:219][347]LogModuleManager: Shutting down and abandoning module PlatformCrypto (40)
+[2023.02.20-11.38.29:219][347]LogModuleManager: Shutting down and abandoning module OodleDataCompressionFormat (38)
+[2023.02.20-11.38.29:219][347]LogModuleManager: Shutting down and abandoning module XGEController (36)
+[2023.02.20-11.38.29:219][347]LogXGEController: Cleaning working directory: C:/Users/Liam/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2023.02.20-11.38.29:220][347]LogModuleManager: Shutting down and abandoning module AnimationModifiers (34)
+[2023.02.20-11.38.29:220][347]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2023.02.20-11.38.29:234][347]LogModuleManager: Shutting down and abandoning module PropertyEditor (31)
+[2023.02.20-11.38.29:251][347]LogModuleManager: Shutting down and abandoning module TextureCompressor (28)
+[2023.02.20-11.38.29:251][347]LogModuleManager: Shutting down and abandoning module RenderCore (26)
+[2023.02.20-11.38.29:251][347]LogModuleManager: Shutting down and abandoning module Landscape (24)
+[2023.02.20-11.38.29:251][347]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (22)
+[2023.02.20-11.38.29:252][347]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2023.02.20-11.38.29:252][347]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2023.02.20-11.38.29:252][347]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2023.02.20-11.38.29:252][347]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2023.02.20-11.38.29:252][347]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2023.02.20-11.38.29:252][347]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2023.02.20-11.38.29:252][347]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2023.02.20-11.38.29:252][347]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2023.02.20-11.38.29:252][347]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2023.02.20-11.38.29:252][347]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2023.02.20-11.38.29:252][347]LogContentStreaming: Display: There are 1 unreleased StreamingManagers
+[2023.02.20-11.38.29:269][347]LogD3D11RHI: Shutdown
+[2023.02.20-11.38.29:269][347]LogD3D11RHI: CleanupD3DDevice
+[2023.02.20-11.38.29:297][347]LogExit: Exiting.
+[2023.02.20-11.38.29:362][347]Log file closed, 02/20/23 11:38:29
