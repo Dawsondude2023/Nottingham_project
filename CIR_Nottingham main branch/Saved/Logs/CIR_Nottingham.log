@@ -903,3 +903,44 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2023.02.22-18.35.39:448][442]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 126 classes and 0 folders.
 [2023.02.22-18.35.41:794][442]LogSlate: Took 0.027417 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
 [2023.02.22-18.35.42:178][443]LogSlate: Took 0.001365 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2023.02.22-18.35.47:038][587]LogRenderer: Reallocating scene render targets to support 1156x632 Format 10 NumSamples 1 (Frame:1).
+[2023.02.22-18.36.52:013][766]LogEditorTransaction: Undo Modify Component(s)
+[2023.02.22-18.37.17:079][680]LogEditorTransaction: Undo Modify Component(s)
+[2023.02.22-18.39.38:997][434]BlueprintLog: New page: Compile TramStopParent_lacemarket
+[2023.02.22-18.39.39:566][434]LogUObjectHash: Compacting FUObjectHashTables data took   5.39ms
+[2023.02.22-18.39.39:618][434]LogSlate: Took 0.022918 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2023.02.22-18.39.44:467][986]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/main_core/stop/theate_royal.theate_royal
+[2023.02.22-18.39.46:693][167]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2023.02.22-18.39.46:693][167]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.22-18.39.46:748][167]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/main_core/stop/theate_royal.theate_royal
+[2023.02.22-18.40.43:390][744]BlueprintLog: New page: Compile TramStopParent_lacemarket
+[2023.02.22-18.40.43:785][744]LogUObjectHash: Compacting FUObjectHashTables data took   4.94ms
+[2023.02.22-18.41.03:840][ 58]BlueprintLog: New page: Compile theate_royal
+[2023.02.22-18.41.03:885][ 58]LogUObjectHash: Compacting FUObjectHashTables data took   4.23ms
+[2023.02.22-18.41.05:384][217]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2023.02.22-18.41.05:384][217]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.22-18.41.06:340][322]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2023.02.22-18.41.06:340][322]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2023.02.22-18.41.06:340][322]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.22-18.41.08:368][551]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/main_core/stop/OldMarketSquare.OldMarketSquare
+[2023.02.22-18.41.10:111][708]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2023.02.22-18.41.10:111][708]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.22-18.41.10:167][708]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/main_core/stop/OldMarketSquare.OldMarketSquare
+[2023.02.22-18.41.40:457][170]BlueprintLog: New page: Compile OldMarketSquare
+[2023.02.22-18.41.40:520][170]LogUObjectHash: Compacting FUObjectHashTables data took   3.69ms
+[2023.02.22-18.41.41:832][319]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2023.02.22-18.41.41:832][319]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.22-18.41.43:069][450]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/main_core/stop/nottingham_train_station.nottingham_train_station
+[2023.02.22-18.41.45:030][635]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2023.02.22-18.41.45:030][635]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.22-18.41.45:083][635]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/main_core/stop/nottingham_train_station.nottingham_train_station
+[2023.02.22-18.42.01:024][401]BlueprintLog: New page: Compile nottingham_train_station
+[2023.02.22-18.42.01:086][401]LogUObjectHash: Compacting FUObjectHashTables data took   3.62ms
+[2023.02.22-18.42.02:173][522]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2023.02.22-18.42.02:173][522]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.22-18.42.04:796][810]LogUObjectHash: Compacting FUObjectHashTables data took   2.35ms
+[2023.02.22-18.42.04:879][810]LogSavePackage: Moving '../../../../../../../New folder (8)/github/Nottingham_project/CIR_Nottingham main branch/Saved/ThirdPersonExampleMap3B179F534F4DF3FBE43E1685F1761B9C.tmp' to '../../../../../../../New folder (8)/github/Nottingham_project/CIR_Nottingham main branch/Content/main_core/Maps/ThirdPersonExampleMap.umap'
+[2023.02.22-18.42.05:023][810]LogSavePackage: Moving '../../../../../../../New folder (8)/github/Nottingham_project/CIR_Nottingham main branch/Saved/ThirdPersonExampleMap_BuiltData419C333447F2D4A2D2D9AFB151D69428.tmp' to '../../../../../../../New folder (8)/github/Nottingham_project/CIR_Nottingham main branch/Content/main_core/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2023.02.22-18.42.05:035][810]AssetCheck: New page: Asset Save: multiple assets
+[2023.02.22-18.42.05:035][810]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/main_core/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2023.02.22-18.42.05:035][810]LogContentValidation: Display: Validating World /Game/main_core/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
