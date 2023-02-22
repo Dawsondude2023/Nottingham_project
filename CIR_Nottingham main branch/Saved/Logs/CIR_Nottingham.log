@@ -1366,3 +1366,9 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2023.02.22-18.59.23:148][719]AssetCheck: New page: Asset Save: multiple assets
 [2023.02.22-18.59.23:148][719]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/main_core/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
 [2023.02.22-18.59.23:148][719]LogContentValidation: Display: Validating World /Game/main_core/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2023.02.22-19.27.01:187][737]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2023.02.22-19.27.01:862][737]LogSavePackage: Moving '../../../../../../../New folder (8)/github/Nottingham_project/CIR_Nottingham main branch/Saved/ThirdPersonExampleMap920130D24D981320F218938B0B20B2DD.tmp' to '../../../../../../../New folder (8)/github/Nottingham_project/CIR_Nottingham main branch/Content/main_core/Maps/ThirdPersonExampleMap.umap'
+[2023.02.22-19.27.01:968][737]LogSavePackage: Moving '../../../../../../../New folder (8)/github/Nottingham_project/CIR_Nottingham main branch/Saved/ThirdPersonExampleMap_BuiltData110EF8DA443E17F44779A5B6580628DA.tmp' to '../../../../../../../New folder (8)/github/Nottingham_project/CIR_Nottingham main branch/Content/main_core/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2023.02.22-19.27.02:011][737]AssetCheck: New page: Asset Save: multiple assets
+[2023.02.22-19.27.02:011][737]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/main_core/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2023.02.22-19.27.02:011][737]LogContentValidation: Display: Validating World /Game/main_core/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
