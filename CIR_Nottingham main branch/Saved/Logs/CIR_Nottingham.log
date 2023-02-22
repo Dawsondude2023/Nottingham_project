@@ -944,3 +944,425 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2023.02.22-18.42.05:035][810]AssetCheck: New page: Asset Save: multiple assets
 [2023.02.22-18.42.05:035][810]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/main_core/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
 [2023.02.22-18.42.05:035][810]LogContentValidation: Display: Validating World /Game/main_core/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2023.02.22-18.42.56:550][786]LogTemp: Repeating last play command: Selected Viewport
+[2023.02.22-18.42.56:558][786]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.02.22-18.42.56:558][786]PIE: New page: PIE session: ThirdPersonExampleMap (22 Feb 2023, 18:42:56)
+[2023.02.22-18.42.56:559][786]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2023.02.22-18.42.56:560][786]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2023.02.22-18.42.56:560][786]LogPlayLevel: Creating play world package: /Game/main_core/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2023.02.22-18.42.56:574][786]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013575s)
+[2023.02.22-18.42.56:575][786]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2023.02.22-18.42.56:575][786]LogPlayLevel: PIE: World Init took: (0.001208s)
+[2023.02.22-18.42.56:575][786]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/main_core/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/main_core/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.014968s)
+[2023.02.22-18.42.56:600][786]LogUObjectHash: Compacting FUObjectHashTables data took   2.57ms
+[2023.02.22-18.42.56:603][786]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2023.02.22-18.42.56:603][786]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.02.22-18.42.56:603][786]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.02.22-18.42.56:603][786]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.02.22-18.42.56:603][786]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.02.22-18.42.56:603][786]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.02.22-18.42.56:603][786]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.02.22-18.42.56:603][786]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.02.22-18.42.56:603][786]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.02.22-18.42.56:603][786]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.02.22-18.42.56:603][786]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.02.22-18.42.56:603][786]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.02.22-18.42.56:603][786]LogAudioMixer: Display: Initializing audio mixer.
+[2023.02.22-18.42.56:615][786]LogAudioMixer: Display: 0: FrontLeft
+[2023.02.22-18.42.56:615][786]LogAudioMixer: Display: 1: FrontRight
+[2023.02.22-18.42.56:637][786]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2023.02.22-18.42.56:637][786]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.02.22-18.42.56:637][786]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.02.22-18.42.56:637][786]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.02.22-18.42.56:637][786]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.02.22-18.42.56:637][786]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.02.22-18.42.56:637][786]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.02.22-18.42.56:638][786]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.02.22-18.42.56:638][786]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.02.22-18.42.56:638][786]LogInit: FAudioDevice initialized.
+[2023.02.22-18.42.56:639][786]LogAudio: Display: Audio Device (ID: 2) registered with world 'ThirdPersonExampleMap'.
+[2023.02.22-18.42.56:644][786]LogLinker: Warning: Failed to load '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode': Can't find file.
+[2023.02.22-18.42.56:645][786]LogLinker: Warning: Failed to load '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode': Can't find file.
+[2023.02.22-18.42.56:645][786]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C'
+[2023.02.22-18.42.56:645][786]LogLoad: Game class is 'GameModeBase'
+[2023.02.22-18.42.56:647][786]LogWorld: Bringing World /Game/main_core/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2023.02.22-18.42.56
+[2023.02.22-18.42.56:648][786]LogWorld: Bringing up level for play took: 0.002254
+[2023.02.22-18.42.56:648][786]LogOnline: OSS: Creating online subsystem instance for: :Context_14
+[2023.02.22-18.42.56:652][786]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2023.02.22-18.42.56:652][786]PIE: Server logged in
+[2023.02.22-18.42.56:653][786]PIE: Play in editor total start time 0.098 seconds.
+[2023.02.22-18.43.02:765][474]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.22-18.43.02:765][474]LogWorld: BeginTearingDown for /Game/main_core/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2023.02.22-18.43.02:765][474]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2023.02.22-18.43.02:766][474]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.22-18.43.02:772][474]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.02.22-18.43.02:776][474]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.22-18.43.02:792][474]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.02.22-18.43.02:793][474]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.02.22-18.43.02:793][474]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.02.22-18.43.02:796][474]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.22-18.43.02:842][474]LogUObjectHash: Compacting FUObjectHashTables data took   4.09ms
+[2023.02.22-18.43.02:862][475]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2023.02.22-18.43.07:507][  0]LogEditorViewport: Clicking on Actor (LMB): tram_2_1_C (tram_2_1)
+[2023.02.22-18.43.13:233][639]Cmd: TRANSACTION UNDO
+[2023.02.22-18.43.13:233][639]LogEditorTransaction: Undo Move Actors
+[2023.02.22-18.43.13:238][639]LogActorComponent: UnregisterComponent: (/Game/main_core/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.tram_2_2.audio.AudioComponent_0) Not registered. Aborting.
+[2023.02.22-18.43.23:519][749]LogTemp: Repeating last play command: Selected Viewport
+[2023.02.22-18.43.23:526][749]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.02.22-18.43.23:526][749]PIE: New page: PIE session: ThirdPersonExampleMap (22 Feb 2023, 18:43:23)
+[2023.02.22-18.43.23:563][749]LogPlayLevel: Creating play world package: /Game/main_core/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2023.02.22-18.43.23:577][749]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013706s)
+[2023.02.22-18.43.23:578][749]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2023.02.22-18.43.23:578][749]LogPlayLevel: PIE: World Init took: (0.001200s)
+[2023.02.22-18.43.23:578][749]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/main_core/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/main_core/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.015088s)
+[2023.02.22-18.43.23:627][749]LogUObjectHash: Compacting FUObjectHashTables data took   3.61ms
+[2023.02.22-18.43.23:630][749]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2023.02.22-18.43.23:630][749]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.02.22-18.43.23:630][749]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.02.22-18.43.23:630][749]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.02.22-18.43.23:630][749]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.02.22-18.43.23:630][749]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.02.22-18.43.23:630][749]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.02.22-18.43.23:630][749]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.02.22-18.43.23:630][749]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.02.22-18.43.23:630][749]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.02.22-18.43.23:631][749]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.02.22-18.43.23:631][749]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.02.22-18.43.23:631][749]LogAudioMixer: Display: Initializing audio mixer.
+[2023.02.22-18.43.23:642][749]LogAudioMixer: Display: 0: FrontLeft
+[2023.02.22-18.43.23:642][749]LogAudioMixer: Display: 1: FrontRight
+[2023.02.22-18.43.23:663][749]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2023.02.22-18.43.23:663][749]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.02.22-18.43.23:663][749]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.02.22-18.43.23:663][749]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.02.22-18.43.23:664][749]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.02.22-18.43.23:664][749]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.02.22-18.43.23:664][749]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.02.22-18.43.23:665][749]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.02.22-18.43.23:665][749]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.02.22-18.43.23:665][749]LogInit: FAudioDevice initialized.
+[2023.02.22-18.43.23:665][749]LogAudio: Display: Audio Device (ID: 3) registered with world 'ThirdPersonExampleMap'.
+[2023.02.22-18.43.23:675][749]LogLoad: Game class is 'GameModeBase'
+[2023.02.22-18.43.23:677][749]LogWorld: Bringing World /Game/main_core/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2023.02.22-18.43.23
+[2023.02.22-18.43.23:678][749]LogWorld: Bringing up level for play took: 0.002154
+[2023.02.22-18.43.23:678][749]LogOnline: OSS: Creating online subsystem instance for: :Context_15
+[2023.02.22-18.43.23:680][749]PIE: Server logged in
+[2023.02.22-18.43.23:680][749]PIE: Play in editor total start time 0.156 seconds.
+[2023.02.22-18.43.24:873][851]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.22-18.43.24:873][851]LogWorld: BeginTearingDown for /Game/main_core/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2023.02.22-18.43.24:873][851]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2023.02.22-18.43.24:874][851]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.22-18.43.24:884][851]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.02.22-18.43.24:893][851]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.22-18.43.24:905][851]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.22-18.43.24:905][851]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.02.22-18.43.24:906][851]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.02.22-18.43.24:912][851]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2023.02.22-18.43.24:916][851]LogActorComponent: ReregisterComponent: (/Game/main_core/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.tram_2_2.TRASH_AudioComponent_11) Not currently registered. Aborting.
+[2023.02.22-18.43.24:916][851]LogActorComponent: ReregisterComponent: (/Game/main_core/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.tram_2_2.TRASH_AudioComponent_1059) Not currently registered. Aborting.
+[2023.02.22-18.43.24:916][851]LogActorComponent: ReregisterComponent: (/Game/main_core/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.tram_2_2.TRASH_AudioComponent_1179) Not currently registered. Aborting.
+[2023.02.22-18.43.24:916][851]LogActorComponent: ReregisterComponent: (/Game/main_core/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.tram_2_2.TRASH_AudioComponent_1169) Not currently registered. Aborting.
+[2023.02.22-18.43.24:916][851]LogActorComponent: ReregisterComponent: (/Game/main_core/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.tram_2_2.TRASH_AudioComponent_1160) Not currently registered. Aborting.
+[2023.02.22-18.43.24:916][851]LogActorComponent: ReregisterComponent: (/Game/main_core/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.tram_2_2.TRASH_AudioComponent_1150) Not currently registered. Aborting.
+[2023.02.22-18.43.24:916][851]LogActorComponent: ReregisterComponent: (/Game/main_core/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.tram_2_2.TRASH_AudioComponent_1139) Not currently registered. Aborting.
+[2023.02.22-18.43.24:916][851]LogActorComponent: ReregisterComponent: (/Game/main_core/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.tram_2_2.TRASH_AudioComponent_1130) Not currently registered. Aborting.
+[2023.02.22-18.43.24:916][851]LogActorComponent: ReregisterComponent: (/Game/main_core/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.tram_2_2.TRASH_AudioComponent_1119) Not currently registered. Aborting.
+[2023.02.22-18.43.24:916][851]LogActorComponent: ReregisterComponent: (/Game/main_core/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.tram_2_2.TRASH_AudioComponent_1109) Not currently registered. Aborting.
+[2023.02.22-18.43.24:916][851]LogActorComponent: ReregisterComponent: (/Game/main_core/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.tram_2_2.TRASH_AudioComponent_1100) Not currently registered. Aborting.
+[2023.02.22-18.43.24:916][851]LogActorComponent: ReregisterComponent: (/Game/main_core/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.tram_2_2.TRASH_AudioComponent_1090) Not currently registered. Aborting.
+[2023.02.22-18.43.24:916][851]LogActorComponent: ReregisterComponent: (/Game/main_core/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.tram_2_2.TRASH_AudioComponent_1080) Not currently registered. Aborting.
+[2023.02.22-18.43.24:916][851]LogActorComponent: ReregisterComponent: (/Game/main_core/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.tram_2_2.TRASH_AudioComponent_1069) Not currently registered. Aborting.
+[2023.02.22-18.43.24:916][851]LogActorComponent: ReregisterComponent: (/Game/main_core/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.tram_2_2.TRASH_AudioComponent_149) Not currently registered. Aborting.
+[2023.02.22-18.43.24:916][851]LogActorComponent: ReregisterComponent: (/Game/main_core/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.tram_2_2.TRASH_AudioComponent_159) Not currently registered. Aborting.
+[2023.02.22-18.43.24:916][851]LogActorComponent: ReregisterComponent: (/Game/main_core/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.tram_2_2.TRASH_AudioComponent_170) Not currently registered. Aborting.
+[2023.02.22-18.43.24:916][851]LogActorComponent: ReregisterComponent: (/Game/main_core/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.tram_2_2.TRASH_AudioComponent_180) Not currently registered. Aborting.
+[2023.02.22-18.43.24:916][851]LogActorComponent: ReregisterComponent: (/Game/main_core/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.tram_2_2.TRASH_AudioComponent_190) Not currently registered. Aborting.
+[2023.02.22-18.43.24:916][851]LogActorComponent: ReregisterComponent: (/Game/main_core/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.tram_2_2.TRASH_AudioComponent_199) Not currently registered. Aborting.
+[2023.02.22-18.43.24:916][851]LogActorComponent: ReregisterComponent: (/Game/main_core/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.tram_2_2.TRASH_AudioComponent_209) Not currently registered. Aborting.
+[2023.02.22-18.43.24:916][851]LogActorComponent: ReregisterComponent: (/Game/main_core/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.tram_2_2.TRASH_AudioComponent_220) Not currently registered. Aborting.
+[2023.02.22-18.43.24:916][851]LogActorComponent: ReregisterComponent: (/Game/main_core/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.tram_2_2.TRASH_AudioComponent_229) Not currently registered. Aborting.
+[2023.02.22-18.43.24:916][851]LogActorComponent: ReregisterComponent: (/Game/main_core/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.tram_2_2.TRASH_AudioComponent_239) Not currently registered. Aborting.
+[2023.02.22-18.43.24:916][851]LogActorComponent: ReregisterComponent: (/Game/main_core/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.tram_2_2.TRASH_AudioComponent_249) Not currently registered. Aborting.
+[2023.02.22-18.43.24:916][851]LogActorComponent: ReregisterComponent: (/Game/main_core/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.tram_2_2.TRASH_AudioComponent_260) Not currently registered. Aborting.
+[2023.02.22-18.43.24:916][851]LogActorComponent: ReregisterComponent: (/Game/main_core/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.tram_2_2.TRASH_AudioComponent_269) Not currently registered. Aborting.
+[2023.02.22-18.43.24:916][851]LogActorComponent: ReregisterComponent: (/Game/main_core/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.tram_2_2.TRASH_AudioComponent_279) Not currently registered. Aborting.
+[2023.02.22-18.43.24:916][851]LogActorComponent: ReregisterComponent: (/Game/main_core/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.tram_2_2.TRASH_AudioComponent_290) Not currently registered. Aborting.
+[2023.02.22-18.43.24:916][851]LogActorComponent: ReregisterComponent: (/Game/main_core/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.tram_2_2.TRASH_AudioComponent_299) Not currently registered. Aborting.
+[2023.02.22-18.43.24:916][851]LogActorComponent: ReregisterComponent: (/Game/main_core/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.tram_2_2.TRASH_AudioComponent_309) Not currently registered. Aborting.
+[2023.02.22-18.43.24:916][851]LogActorComponent: ReregisterComponent: (/Game/main_core/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.tram_2_2.TRASH_AudioComponent_319) Not currently registered. Aborting.
+[2023.02.22-18.43.24:916][851]LogActorComponent: ReregisterComponent: (/Game/main_core/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.tram_2_2.TRASH_AudioComponent_330) Not currently registered. Aborting.
+[2023.02.22-18.43.24:917][851]LogActorComponent: ReregisterComponent: (/Game/main_core/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.tram_2_2.TRASH_AudioComponent_339) Not currently registered. Aborting.
+[2023.02.22-18.43.24:917][851]LogActorComponent: ReregisterComponent: (/Game/main_core/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.tram_2_2.TRASH_AudioComponent_349) Not currently registered. Aborting.
+[2023.02.22-18.43.24:917][851]LogActorComponent: ReregisterComponent: (/Game/main_core/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.tram_2_2.TRASH_AudioComponent_360) Not currently registered. Aborting.
+[2023.02.22-18.43.24:917][851]LogActorComponent: ReregisterComponent: (/Game/main_core/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.tram_2_2.TRASH_AudioComponent_370) Not currently registered. Aborting.
+[2023.02.22-18.43.24:917][851]LogActorComponent: ReregisterComponent: (/Game/main_core/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.tram_2_2.TRASH_AudioComponent_379) Not currently registered. Aborting.
+[2023.02.22-18.43.24:917][851]LogActorComponent: ReregisterComponent: (/Game/main_core/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.tram_2_2.TRASH_AudioComponent_390) Not currently registered. Aborting.
+[2023.02.22-18.43.24:917][851]LogActorComponent: ReregisterComponent: (/Game/main_core/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.tram_2_2.TRASH_AudioComponent_399) Not currently registered. Aborting.
+[2023.02.22-18.43.24:917][851]LogActorComponent: ReregisterComponent: (/Game/main_core/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.tram_2_2.TRASH_AudioComponent_409) Not currently registered. Aborting.
+[2023.02.22-18.43.24:917][851]LogActorComponent: ReregisterComponent: (/Game/main_core/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.tram_2_2.TRASH_AudioComponent_419) Not currently registered. Aborting.
+[2023.02.22-18.43.24:917][851]LogActorComponent: ReregisterComponent: (/Game/main_core/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.tram_2_2.TRASH_AudioComponent_429) Not currently registered. Aborting.
+[2023.02.22-18.43.24:917][851]LogActorComponent: ReregisterComponent: (/Game/main_core/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.tram_2_2.TRASH_AudioComponent_440) Not currently registered. Aborting.
+[2023.02.22-18.43.24:917][851]LogActorComponent: ReregisterComponent: (/Game/main_core/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.tram_2_2.TRASH_AudioComponent_450) Not currently registered. Aborting.
+[2023.02.22-18.43.24:917][851]LogActorComponent: ReregisterComponent: (/Game/main_core/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.tram_2_2.TRASH_AudioComponent_459) Not currently registered. Aborting.
+[2023.02.22-18.43.24:917][851]LogActorComponent: ReregisterComponent: (/Game/main_core/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.tram_2_2.TRASH_AudioComponent_470) Not currently registered. Aborting.
+[2023.02.22-18.43.24:917][851]LogActorComponent: ReregisterComponent: (/Game/main_core/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.tram_2_2.TRASH_AudioComponent_479) Not currently registered. Aborting.
+[2023.02.22-18.43.24:917][851]LogActorComponent: ReregisterComponent: (/Game/main_core/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.tram_2_2.TRASH_AudioComponent_489) Not currently registered. Aborting.
+[2023.02.22-18.43.24:917][851]LogActorComponent: ReregisterComponent: (/Game/main_core/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.tram_2_2.TRASH_AudioComponent_499) Not currently registered. Aborting.
+[2023.02.22-18.43.24:917][851]LogActorComponent: ReregisterComponent: (/Game/main_core/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.tram_2_2.TRASH_AudioComponent_510) Not currently registered. Aborting.
+[2023.02.22-18.43.24:917][851]LogActorComponent: ReregisterComponent: (/Game/main_core/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.tram_2_2.TRASH_AudioComponent_519) Not currently registered. Aborting.
+[2023.02.22-18.43.24:917][851]LogActorComponent: ReregisterComponent: (/Game/main_core/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.tram_2_2.TRASH_AudioComponent_530) Not currently registered. Aborting.
+[2023.02.22-18.43.24:917][851]LogActorComponent: ReregisterComponent: (/Game/main_core/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.tram_2_2.TRASH_AudioComponent_540) Not currently registered. Aborting.
+[2023.02.22-18.43.24:917][851]LogActorComponent: ReregisterComponent: (/Game/main_core/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.tram_2_2.TRASH_AudioComponent_550) Not currently registered. Aborting.
+[2023.02.22-18.43.24:917][851]LogActorComponent: ReregisterComponent: (/Game/main_core/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.tram_2_2.TRASH_AudioComponent_560) Not currently registered. Aborting.
+[2023.02.22-18.43.24:917][851]LogActorComponent: ReregisterComponent: (/Game/main_core/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.tram_2_2.TRASH_AudioComponent_569) Not currently registered. Aborting.
+[2023.02.22-18.43.24:917][851]LogActorComponent: ReregisterComponent: (/Game/main_core/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.tram_2_2.TRASH_AudioComponent_579) Not currently registered. Aborting.
+[2023.02.22-18.43.24:917][851]LogActorComponent: ReregisterComponent: (/Game/main_core/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.tram_2_2.TRASH_AudioComponent_589) Not currently registered. Aborting.
+[2023.02.22-18.43.24:917][851]LogActorComponent: ReregisterComponent: (/Game/main_core/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.tram_2_2.TRASH_AudioComponent_600) Not currently registered. Aborting.
+[2023.02.22-18.43.24:917][851]LogActorComponent: ReregisterComponent: (/Game/main_core/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.tram_2_2.TRASH_AudioComponent_610) Not currently registered. Aborting.
+[2023.02.22-18.43.24:917][851]LogActorComponent: ReregisterComponent: (/Game/main_core/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.tram_2_2.TRASH_AudioComponent_619) Not currently registered. Aborting.
+[2023.02.22-18.43.24:917][851]LogActorComponent: ReregisterComponent: (/Game/main_core/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.tram_2_2.TRASH_AudioComponent_629) Not currently registered. Aborting.
+[2023.02.22-18.43.24:917][851]LogActorComponent: ReregisterComponent: (/Game/main_core/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.tram_2_2.TRASH_AudioComponent_639) Not currently registered. Aborting.
+[2023.02.22-18.43.24:917][851]LogActorComponent: ReregisterComponent: (/Game/main_core/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.tram_2_2.TRASH_AudioComponent_650) Not currently registered. Aborting.
+[2023.02.22-18.43.24:917][851]LogActorComponent: ReregisterComponent: (/Game/main_core/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.tram_2_2.TRASH_AudioComponent_660) Not currently registered. Aborting.
+[2023.02.22-18.43.24:917][851]LogActorComponent: ReregisterComponent: (/Game/main_core/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.tram_2_2.TRASH_AudioComponent_670) Not currently registered. Aborting.
+[2023.02.22-18.43.24:917][851]LogActorComponent: ReregisterComponent: (/Game/main_core/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.tram_2_2.TRASH_AudioComponent_679) Not currently registered. Aborting.
+[2023.02.22-18.43.24:917][851]LogActorComponent: ReregisterComponent: (/Game/main_core/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.tram_2_2.TRASH_AudioComponent_690) Not currently registered. Aborting.
+[2023.02.22-18.43.24:917][851]LogActorComponent: ReregisterComponent: (/Game/main_core/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.tram_2_2.TRASH_AudioComponent_700) Not currently registered. Aborting.
+[2023.02.22-18.43.24:917][851]LogActorComponent: ReregisterComponent: (/Game/main_core/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.tram_2_2.TRASH_AudioComponent_709) Not currently registered. Aborting.
+[2023.02.22-18.43.24:917][851]LogActorComponent: ReregisterComponent: (/Game/main_core/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.tram_2_2.TRASH_AudioComponent_720) Not currently registered. Aborting.
+[2023.02.22-18.43.24:917][851]LogActorComponent: ReregisterComponent: (/Game/main_core/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.tram_2_2.TRASH_AudioComponent_729) Not currently registered. Aborting.
+[2023.02.22-18.43.24:917][851]LogActorComponent: ReregisterComponent: (/Game/main_core/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.tram_2_2.TRASH_AudioComponent_740) Not currently registered. Aborting.
+[2023.02.22-18.43.24:917][851]LogActorComponent: ReregisterComponent: (/Game/main_core/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.tram_2_2.TRASH_AudioComponent_750) Not currently registered. Aborting.
+[2023.02.22-18.43.24:917][851]LogActorComponent: ReregisterComponent: (/Game/main_core/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.tram_2_2.TRASH_AudioComponent_759) Not currently registered. Aborting.
+[2023.02.22-18.43.24:917][851]LogActorComponent: ReregisterComponent: (/Game/main_core/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.tram_2_2.TRASH_AudioComponent_770) Not currently registered. Aborting.
+[2023.02.22-18.43.24:917][851]LogActorComponent: ReregisterComponent: (/Game/main_core/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.tram_2_2.TRASH_AudioComponent_779) Not currently registered. Aborting.
+[2023.02.22-18.43.24:917][851]LogActorComponent: ReregisterComponent: (/Game/main_core/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.tram_2_2.TRASH_AudioComponent_789) Not currently registered. Aborting.
+[2023.02.22-18.43.24:917][851]LogActorComponent: ReregisterComponent: (/Game/main_core/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.tram_2_2.TRASH_AudioComponent_799) Not currently registered. Aborting.
+[2023.02.22-18.43.24:917][851]LogActorComponent: ReregisterComponent: (/Game/main_core/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.tram_2_2.TRASH_AudioComponent_810) Not currently registered. Aborting.
+[2023.02.22-18.43.24:917][851]LogActorComponent: ReregisterComponent: (/Game/main_core/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.tram_2_2.TRASH_AudioComponent_820) Not currently registered. Aborting.
+[2023.02.22-18.43.24:917][851]LogActorComponent: ReregisterComponent: (/Game/main_core/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.tram_2_2.TRASH_AudioComponent_829) Not currently registered. Aborting.
+[2023.02.22-18.43.24:917][851]LogActorComponent: ReregisterComponent: (/Game/main_core/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.tram_2_2.TRASH_AudioComponent_839) Not currently registered. Aborting.
+[2023.02.22-18.43.24:917][851]LogActorComponent: ReregisterComponent: (/Game/main_core/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.tram_2_2.TRASH_AudioComponent_849) Not currently registered. Aborting.
+[2023.02.22-18.43.24:917][851]LogActorComponent: ReregisterComponent: (/Game/main_core/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.tram_2_2.TRASH_AudioComponent_859) Not currently registered. Aborting.
+[2023.02.22-18.43.24:917][851]LogActorComponent: ReregisterComponent: (/Game/main_core/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.tram_2_2.TRASH_AudioComponent_870) Not currently registered. Aborting.
+[2023.02.22-18.43.24:917][851]LogActorComponent: ReregisterComponent: (/Game/main_core/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.tram_2_2.TRASH_AudioComponent_879) Not currently registered. Aborting.
+[2023.02.22-18.43.24:917][851]LogActorComponent: ReregisterComponent: (/Game/main_core/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.tram_2_2.TRASH_AudioComponent_889) Not currently registered. Aborting.
+[2023.02.22-18.43.24:917][851]LogActorComponent: ReregisterComponent: (/Game/main_core/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.tram_2_2.TRASH_AudioComponent_900) Not currently registered. Aborting.
+[2023.02.22-18.43.24:917][851]LogActorComponent: ReregisterComponent: (/Game/main_core/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.tram_2_2.TRASH_AudioComponent_910) Not currently registered. Aborting.
+[2023.02.22-18.43.24:917][851]LogActorComponent: ReregisterComponent: (/Game/main_core/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.tram_2_2.TRASH_AudioComponent_920) Not currently registered. Aborting.
+[2023.02.22-18.43.24:917][851]LogActorComponent: ReregisterComponent: (/Game/main_core/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.tram_2_2.TRASH_AudioComponent_929) Not currently registered. Aborting.
+[2023.02.22-18.43.24:917][851]LogActorComponent: ReregisterComponent: (/Game/main_core/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.tram_2_2.TRASH_AudioComponent_939) Not currently registered. Aborting.
+[2023.02.22-18.43.24:917][851]LogActorComponent: ReregisterComponent: (/Game/main_core/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.tram_2_2.TRASH_AudioComponent_949) Not currently registered. Aborting.
+[2023.02.22-18.43.24:918][851]LogActorComponent: ReregisterComponent: (/Game/main_core/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.tram_2_2.TRASH_AudioComponent_960) Not currently registered. Aborting.
+[2023.02.22-18.43.24:918][851]LogActorComponent: ReregisterComponent: (/Game/main_core/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.tram_2_2.TRASH_AudioComponent_970) Not currently registered. Aborting.
+[2023.02.22-18.43.24:918][851]LogActorComponent: ReregisterComponent: (/Game/main_core/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.tram_2_2.TRASH_AudioComponent_980) Not currently registered. Aborting.
+[2023.02.22-18.43.24:918][851]LogActorComponent: ReregisterComponent: (/Game/main_core/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.tram_2_2.TRASH_AudioComponent_989) Not currently registered. Aborting.
+[2023.02.22-18.43.24:918][851]LogActorComponent: ReregisterComponent: (/Game/main_core/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.tram_2_2.TRASH_AudioComponent_999) Not currently registered. Aborting.
+[2023.02.22-18.43.24:918][851]LogActorComponent: ReregisterComponent: (/Game/main_core/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.tram_2_2.TRASH_AudioComponent_1010) Not currently registered. Aborting.
+[2023.02.22-18.43.24:918][851]LogActorComponent: ReregisterComponent: (/Game/main_core/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.tram_2_2.TRASH_AudioComponent_1019) Not currently registered. Aborting.
+[2023.02.22-18.43.24:918][851]LogActorComponent: ReregisterComponent: (/Game/main_core/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.tram_2_2.TRASH_AudioComponent_1030) Not currently registered. Aborting.
+[2023.02.22-18.43.24:918][851]LogActorComponent: ReregisterComponent: (/Game/main_core/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.tram_2_2.TRASH_AudioComponent_1040) Not currently registered. Aborting.
+[2023.02.22-18.43.24:918][851]LogActorComponent: ReregisterComponent: (/Game/main_core/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.tram_2_2.TRASH_AudioComponent_1049) Not currently registered. Aborting.
+[2023.02.22-18.43.24:937][852]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2023.02.22-18.43.25:925][970]Cmd: TRANSACTION UNDO
+[2023.02.22-18.43.25:925][970]LogEditorTransaction: Undo Move Actors
+[2023.02.22-18.43.25:925][970]LogActorComponent: UnregisterComponent: (/Game/main_core/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.tram_2_2.audio.AudioComponent_0) Not registered. Aborting.
+[2023.02.22-18.43.25:930][970]LogActorComponent: UnregisterComponent: (/Game/main_core/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.tram_2_2.audio.AudioComponent_0) Not registered. Aborting.
+[2023.02.22-18.43.28:326][189]LogTemp: Repeating last play command: Selected Viewport
+[2023.02.22-18.43.28:333][189]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.02.22-18.43.28:334][189]PIE: New page: PIE session: ThirdPersonExampleMap (22 Feb 2023, 18:43:28)
+[2023.02.22-18.43.28:334][189]LogPlayLevel: Creating play world package: /Game/main_core/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2023.02.22-18.43.28:349][189]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015070s)
+[2023.02.22-18.43.28:350][189]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2023.02.22-18.43.28:350][189]LogPlayLevel: PIE: World Init took: (0.001064s)
+[2023.02.22-18.43.28:350][189]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/main_core/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/main_core/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.016268s)
+[2023.02.22-18.43.28:368][189]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2023.02.22-18.43.28:370][189]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2023.02.22-18.43.28:370][189]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.02.22-18.43.28:370][189]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.02.22-18.43.28:370][189]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.02.22-18.43.28:370][189]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.02.22-18.43.28:370][189]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.02.22-18.43.28:370][189]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.02.22-18.43.28:370][189]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.02.22-18.43.28:370][189]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.02.22-18.43.28:370][189]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.02.22-18.43.28:370][189]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.02.22-18.43.28:370][189]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.02.22-18.43.28:370][189]LogAudioMixer: Display: Initializing audio mixer.
+[2023.02.22-18.43.28:382][189]LogAudioMixer: Display: 0: FrontLeft
+[2023.02.22-18.43.28:382][189]LogAudioMixer: Display: 1: FrontRight
+[2023.02.22-18.43.28:403][189]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2023.02.22-18.43.28:403][189]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.02.22-18.43.28:403][189]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.02.22-18.43.28:403][189]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.02.22-18.43.28:404][189]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.02.22-18.43.28:404][189]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.02.22-18.43.28:404][189]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.02.22-18.43.28:405][189]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.02.22-18.43.28:405][189]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.02.22-18.43.28:405][189]LogInit: FAudioDevice initialized.
+[2023.02.22-18.43.28:405][189]LogAudio: Display: Audio Device (ID: 4) registered with world 'ThirdPersonExampleMap'.
+[2023.02.22-18.43.28:411][189]LogLoad: Game class is 'GameModeBase'
+[2023.02.22-18.43.28:413][189]LogWorld: Bringing World /Game/main_core/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2023.02.22-18.43.28
+[2023.02.22-18.43.28:413][189]LogWorld: Bringing up level for play took: 0.002169
+[2023.02.22-18.43.28:413][189]LogOnline: OSS: Creating online subsystem instance for: :Context_16
+[2023.02.22-18.43.28:415][189]PIE: Server logged in
+[2023.02.22-18.43.28:416][189]PIE: Play in editor total start time 0.085 seconds.
+[2023.02.22-18.43.29:366][295]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.22-18.43.29:366][295]LogWorld: BeginTearingDown for /Game/main_core/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2023.02.22-18.43.29:366][295]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2023.02.22-18.43.29:366][295]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.22-18.43.29:371][295]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.02.22-18.43.29:380][295]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.22-18.43.29:392][295]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.02.22-18.43.29:393][295]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.02.22-18.43.29:393][295]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.02.22-18.43.29:396][295]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.22-18.43.29:399][295]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2023.02.22-18.43.29:403][295]LogActorComponent: ReregisterComponent: (/Game/main_core/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.tram_2_2.TRASH_AudioComponent_11) Not currently registered. Aborting.
+[2023.02.22-18.43.29:403][295]LogActorComponent: ReregisterComponent: (/Game/main_core/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.tram_2_2.TRASH_AudioComponent_260) Not currently registered. Aborting.
+[2023.02.22-18.43.29:403][295]LogActorComponent: ReregisterComponent: (/Game/main_core/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.tram_2_2.TRASH_AudioComponent_269) Not currently registered. Aborting.
+[2023.02.22-18.43.29:403][295]LogActorComponent: ReregisterComponent: (/Game/main_core/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.tram_2_2.TRASH_AudioComponent_279) Not currently registered. Aborting.
+[2023.02.22-18.43.29:403][295]LogActorComponent: ReregisterComponent: (/Game/main_core/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.tram_2_2.TRASH_AudioComponent_290) Not currently registered. Aborting.
+[2023.02.22-18.43.29:403][295]LogActorComponent: ReregisterComponent: (/Game/main_core/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.tram_2_2.TRASH_AudioComponent_299) Not currently registered. Aborting.
+[2023.02.22-18.43.29:403][295]LogActorComponent: ReregisterComponent: (/Game/main_core/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.tram_2_2.TRASH_AudioComponent_309) Not currently registered. Aborting.
+[2023.02.22-18.43.29:404][295]LogActorComponent: ReregisterComponent: (/Game/main_core/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.tram_2_2.TRASH_AudioComponent_319) Not currently registered. Aborting.
+[2023.02.22-18.43.29:404][295]LogActorComponent: ReregisterComponent: (/Game/main_core/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.tram_2_2.TRASH_AudioComponent_330) Not currently registered. Aborting.
+[2023.02.22-18.43.29:404][295]LogActorComponent: ReregisterComponent: (/Game/main_core/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.tram_2_2.TRASH_AudioComponent_339) Not currently registered. Aborting.
+[2023.02.22-18.43.29:404][295]LogActorComponent: ReregisterComponent: (/Game/main_core/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.tram_2_2.TRASH_AudioComponent_349) Not currently registered. Aborting.
+[2023.02.22-18.43.29:404][295]LogActorComponent: ReregisterComponent: (/Game/main_core/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.tram_2_2.TRASH_AudioComponent_360) Not currently registered. Aborting.
+[2023.02.22-18.43.29:404][295]LogActorComponent: ReregisterComponent: (/Game/main_core/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.tram_2_2.TRASH_AudioComponent_370) Not currently registered. Aborting.
+[2023.02.22-18.43.29:404][295]LogActorComponent: ReregisterComponent: (/Game/main_core/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.tram_2_2.TRASH_AudioComponent_379) Not currently registered. Aborting.
+[2023.02.22-18.43.29:404][295]LogActorComponent: ReregisterComponent: (/Game/main_core/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.tram_2_2.TRASH_AudioComponent_149) Not currently registered. Aborting.
+[2023.02.22-18.43.29:404][295]LogActorComponent: ReregisterComponent: (/Game/main_core/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.tram_2_2.TRASH_AudioComponent_159) Not currently registered. Aborting.
+[2023.02.22-18.43.29:404][295]LogActorComponent: ReregisterComponent: (/Game/main_core/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.tram_2_2.TRASH_AudioComponent_170) Not currently registered. Aborting.
+[2023.02.22-18.43.29:404][295]LogActorComponent: ReregisterComponent: (/Game/main_core/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.tram_2_2.TRASH_AudioComponent_180) Not currently registered. Aborting.
+[2023.02.22-18.43.29:404][295]LogActorComponent: ReregisterComponent: (/Game/main_core/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.tram_2_2.TRASH_AudioComponent_190) Not currently registered. Aborting.
+[2023.02.22-18.43.29:404][295]LogActorComponent: ReregisterComponent: (/Game/main_core/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.tram_2_2.TRASH_AudioComponent_199) Not currently registered. Aborting.
+[2023.02.22-18.43.29:404][295]LogActorComponent: ReregisterComponent: (/Game/main_core/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.tram_2_2.TRASH_AudioComponent_209) Not currently registered. Aborting.
+[2023.02.22-18.43.29:404][295]LogActorComponent: ReregisterComponent: (/Game/main_core/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.tram_2_2.TRASH_AudioComponent_220) Not currently registered. Aborting.
+[2023.02.22-18.43.29:404][295]LogActorComponent: ReregisterComponent: (/Game/main_core/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.tram_2_2.TRASH_AudioComponent_229) Not currently registered. Aborting.
+[2023.02.22-18.43.29:404][295]LogActorComponent: ReregisterComponent: (/Game/main_core/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.tram_2_2.TRASH_AudioComponent_239) Not currently registered. Aborting.
+[2023.02.22-18.43.29:404][295]LogActorComponent: ReregisterComponent: (/Game/main_core/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.tram_2_2.TRASH_AudioComponent_249) Not currently registered. Aborting.
+[2023.02.22-18.43.29:440][298]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2023.02.22-18.43.30:988][475]Cmd: TRANSACTION UNDO
+[2023.02.22-18.43.30:988][475]LogEditorTransaction: Undo Scale Actors
+[2023.02.22-18.43.30:988][475]LogActorComponent: UnregisterComponent: (/Game/main_core/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.tram_2_2.audio.AudioComponent_1) Not registered. Aborting.
+[2023.02.22-18.43.30:993][475]LogActorComponent: UnregisterComponent: (/Game/main_core/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.tram_2_2.audio.AudioComponent_0) Not registered. Aborting.
+[2023.02.22-18.43.31:958][542]Cmd: TRANSACTION UNDO
+[2023.02.22-18.43.31:958][542]LogEditorTransaction: Undo Scale Actors
+[2023.02.22-18.43.31:958][542]LogActorComponent: UnregisterComponent: (/Game/main_core/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.tram_2_2.audio.AudioComponent_1) Not registered. Aborting.
+[2023.02.22-18.43.31:960][542]LogActorComponent: UnregisterComponent: (/Game/main_core/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.tram_2_2.audio.AudioComponent_0) Not registered. Aborting.
+[2023.02.22-18.43.34:426][815]LogTemp: Repeating last play command: Selected Viewport
+[2023.02.22-18.43.34:433][815]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.02.22-18.43.34:433][815]PIE: New page: PIE session: ThirdPersonExampleMap (22 Feb 2023, 18:43:34)
+[2023.02.22-18.43.34:433][815]LogPlayLevel: Creating play world package: /Game/main_core/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2023.02.22-18.43.34:447][815]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013372s)
+[2023.02.22-18.43.34:448][815]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2023.02.22-18.43.34:448][815]LogPlayLevel: PIE: World Init took: (0.000995s)
+[2023.02.22-18.43.34:448][815]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/main_core/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/main_core/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.014494s)
+[2023.02.22-18.43.34:466][815]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2023.02.22-18.43.34:468][815]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2023.02.22-18.43.34:468][815]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.02.22-18.43.34:468][815]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.02.22-18.43.34:468][815]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.02.22-18.43.34:468][815]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.02.22-18.43.34:468][815]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.02.22-18.43.34:468][815]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.02.22-18.43.34:468][815]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.02.22-18.43.34:468][815]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.02.22-18.43.34:469][815]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.02.22-18.43.34:469][815]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.02.22-18.43.34:469][815]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.02.22-18.43.34:469][815]LogAudioMixer: Display: Initializing audio mixer.
+[2023.02.22-18.43.34:480][815]LogAudioMixer: Display: 0: FrontLeft
+[2023.02.22-18.43.34:480][815]LogAudioMixer: Display: 1: FrontRight
+[2023.02.22-18.43.34:502][815]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2023.02.22-18.43.34:502][815]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.02.22-18.43.34:502][815]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.02.22-18.43.34:502][815]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.02.22-18.43.34:502][815]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.02.22-18.43.34:502][815]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.02.22-18.43.34:502][815]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.02.22-18.43.34:503][815]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.02.22-18.43.34:503][815]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.02.22-18.43.34:503][815]LogInit: FAudioDevice initialized.
+[2023.02.22-18.43.34:503][815]LogAudio: Display: Audio Device (ID: 5) registered with world 'ThirdPersonExampleMap'.
+[2023.02.22-18.43.34:515][815]LogLoad: Game class is 'GameModeBase'
+[2023.02.22-18.43.34:517][815]LogWorld: Bringing World /Game/main_core/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2023.02.22-18.43.34
+[2023.02.22-18.43.34:517][815]LogWorld: Bringing up level for play took: 0.002217
+[2023.02.22-18.43.34:518][815]LogOnline: OSS: Creating online subsystem instance for: :Context_17
+[2023.02.22-18.43.34:520][815]PIE: Server logged in
+[2023.02.22-18.43.34:520][815]PIE: Play in editor total start time 0.089 seconds.
+[2023.02.22-18.43.37:306][137]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.22-18.43.37:306][137]LogWorld: BeginTearingDown for /Game/main_core/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2023.02.22-18.43.37:306][137]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2023.02.22-18.43.37:306][137]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.22-18.43.37:317][137]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.02.22-18.43.37:326][137]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.22-18.43.37:338][137]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.02.22-18.43.37:338][137]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.02.22-18.43.37:339][137]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.02.22-18.43.37:342][137]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.22-18.43.37:345][137]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2023.02.22-18.43.37:349][137]LogActorComponent: ReregisterComponent: (/Game/main_core/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.tram_2_2.TRASH_AudioComponent_11) Not currently registered. Aborting.
+[2023.02.22-18.43.37:349][137]LogActorComponent: ReregisterComponent: (/Game/main_core/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.tram_2_2.TRASH_AudioComponent_260) Not currently registered. Aborting.
+[2023.02.22-18.43.37:349][137]LogActorComponent: ReregisterComponent: (/Game/main_core/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.tram_2_2.TRASH_AudioComponent_269) Not currently registered. Aborting.
+[2023.02.22-18.43.37:349][137]LogActorComponent: ReregisterComponent: (/Game/main_core/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.tram_2_2.TRASH_AudioComponent_279) Not currently registered. Aborting.
+[2023.02.22-18.43.37:349][137]LogActorComponent: ReregisterComponent: (/Game/main_core/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.tram_2_2.TRASH_AudioComponent_290) Not currently registered. Aborting.
+[2023.02.22-18.43.37:349][137]LogActorComponent: ReregisterComponent: (/Game/main_core/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.tram_2_2.TRASH_AudioComponent_299) Not currently registered. Aborting.
+[2023.02.22-18.43.37:349][137]LogActorComponent: ReregisterComponent: (/Game/main_core/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.tram_2_2.TRASH_AudioComponent_309) Not currently registered. Aborting.
+[2023.02.22-18.43.37:349][137]LogActorComponent: ReregisterComponent: (/Game/main_core/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.tram_2_2.TRASH_AudioComponent_319) Not currently registered. Aborting.
+[2023.02.22-18.43.37:350][137]LogActorComponent: ReregisterComponent: (/Game/main_core/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.tram_2_2.TRASH_AudioComponent_330) Not currently registered. Aborting.
+[2023.02.22-18.43.37:350][137]LogActorComponent: ReregisterComponent: (/Game/main_core/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.tram_2_2.TRASH_AudioComponent_339) Not currently registered. Aborting.
+[2023.02.22-18.43.37:350][137]LogActorComponent: ReregisterComponent: (/Game/main_core/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.tram_2_2.TRASH_AudioComponent_349) Not currently registered. Aborting.
+[2023.02.22-18.43.37:350][137]LogActorComponent: ReregisterComponent: (/Game/main_core/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.tram_2_2.TRASH_AudioComponent_360) Not currently registered. Aborting.
+[2023.02.22-18.43.37:350][137]LogActorComponent: ReregisterComponent: (/Game/main_core/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.tram_2_2.TRASH_AudioComponent_370) Not currently registered. Aborting.
+[2023.02.22-18.43.37:350][137]LogActorComponent: ReregisterComponent: (/Game/main_core/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.tram_2_2.TRASH_AudioComponent_379) Not currently registered. Aborting.
+[2023.02.22-18.43.37:350][137]LogActorComponent: ReregisterComponent: (/Game/main_core/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.tram_2_2.TRASH_AudioComponent_149) Not currently registered. Aborting.
+[2023.02.22-18.43.37:350][137]LogActorComponent: ReregisterComponent: (/Game/main_core/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.tram_2_2.TRASH_AudioComponent_159) Not currently registered. Aborting.
+[2023.02.22-18.43.37:350][137]LogActorComponent: ReregisterComponent: (/Game/main_core/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.tram_2_2.TRASH_AudioComponent_170) Not currently registered. Aborting.
+[2023.02.22-18.43.37:350][137]LogActorComponent: ReregisterComponent: (/Game/main_core/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.tram_2_2.TRASH_AudioComponent_180) Not currently registered. Aborting.
+[2023.02.22-18.43.37:350][137]LogActorComponent: ReregisterComponent: (/Game/main_core/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.tram_2_2.TRASH_AudioComponent_190) Not currently registered. Aborting.
+[2023.02.22-18.43.37:350][137]LogActorComponent: ReregisterComponent: (/Game/main_core/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.tram_2_2.TRASH_AudioComponent_199) Not currently registered. Aborting.
+[2023.02.22-18.43.37:350][137]LogActorComponent: ReregisterComponent: (/Game/main_core/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.tram_2_2.TRASH_AudioComponent_209) Not currently registered. Aborting.
+[2023.02.22-18.43.37:350][137]LogActorComponent: ReregisterComponent: (/Game/main_core/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.tram_2_2.TRASH_AudioComponent_220) Not currently registered. Aborting.
+[2023.02.22-18.43.37:350][137]LogActorComponent: ReregisterComponent: (/Game/main_core/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.tram_2_2.TRASH_AudioComponent_229) Not currently registered. Aborting.
+[2023.02.22-18.43.37:350][137]LogActorComponent: ReregisterComponent: (/Game/main_core/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.tram_2_2.TRASH_AudioComponent_239) Not currently registered. Aborting.
+[2023.02.22-18.43.37:350][137]LogActorComponent: ReregisterComponent: (/Game/main_core/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.tram_2_2.TRASH_AudioComponent_249) Not currently registered. Aborting.
+[2023.02.22-18.43.37:374][138]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2023.02.22-18.43.48:921][479]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2023.02.22-18.43.49:062][479]LogSavePackage: Moving '../../../../../../../New folder (8)/github/Nottingham_project/CIR_Nottingham main branch/Saved/ThirdPersonExampleMapEBF2DEAD406ACE3DA7D7C8886659DE58.tmp' to '../../../../../../../New folder (8)/github/Nottingham_project/CIR_Nottingham main branch/Content/main_core/Maps/ThirdPersonExampleMap.umap'
+[2023.02.22-18.43.49:165][479]LogSavePackage: Moving '../../../../../../../New folder (8)/github/Nottingham_project/CIR_Nottingham main branch/Saved/ThirdPersonExampleMap_BuiltDataA7ACABB64A7E28B159E4ABADDFC687E5.tmp' to '../../../../../../../New folder (8)/github/Nottingham_project/CIR_Nottingham main branch/Content/main_core/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2023.02.22-18.43.49:176][479]AssetCheck: New page: Asset Save: multiple assets
+[2023.02.22-18.43.49:176][479]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/main_core/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2023.02.22-18.43.49:176][479]LogContentValidation: Display: Validating World /Game/main_core/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2023.02.22-18.53.49:128][594]LogUObjectHash: Compacting FUObjectHashTables data took   3.22ms
+[2023.02.22-18.53.49:134][594]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/main_core/Maps/ThirdPersonExampleMap' took 0.034
+[2023.02.22-18.53.49:135][594]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/main_core/stop/nottingham_train_station] ([2] browsable assets)...
+[2023.02.22-18.53.49:525][594]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/main_core/stop/nottingham_train_station.nottingham_train_station]
+[2023.02.22-18.53.49:525][594]OBJ SavePackage: Finished generating thumbnails for package [/Game/main_core/stop/nottingham_train_station]
+[2023.02.22-18.53.49:535][594]LogSavePackage: Moving '../../../../../../../New folder (8)/github/Nottingham_project/CIR_Nottingham main branch/Saved/nottingham_train_station_Auto1BB87D69642C266EC0B34FEB65D89893B.tmp' to '../../../../../../../New folder (8)/github/Nottingham_project/CIR_Nottingham main branch/Saved/Autosaves/Game/main_core/stop/nottingham_train_station_Auto1.uasset'
+[2023.02.22-18.53.49:538][594]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/main_core/stop/TramStopParent_lacemarket] ([2] browsable assets)...
+[2023.02.22-18.53.49:567][594]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/main_core/stop/TramStopParent_lacemarket.TramStopParent_lacemarket]
+[2023.02.22-18.53.49:568][594]OBJ SavePackage: Finished generating thumbnails for package [/Game/main_core/stop/TramStopParent_lacemarket]
+[2023.02.22-18.53.49:587][594]LogSavePackage: Moving '../../../../../../../New folder (8)/github/Nottingham_project/CIR_Nottingham main branch/Saved/TramStopParent_lacemarket_Auto1E37E30FF4B9278D4A5BF3BBA92DE6C6D.tmp' to '../../../../../../../New folder (8)/github/Nottingham_project/CIR_Nottingham main branch/Saved/Autosaves/Game/main_core/stop/TramStopParent_lacemarket_Auto1.uasset'
+[2023.02.22-18.53.49:590][594]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/main_core/stop/OldMarketSquare] ([2] browsable assets)...
+[2023.02.22-18.53.49:616][594]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/main_core/stop/OldMarketSquare.OldMarketSquare]
+[2023.02.22-18.53.49:616][594]OBJ SavePackage: Finished generating thumbnails for package [/Game/main_core/stop/OldMarketSquare]
+[2023.02.22-18.53.49:626][594]LogSavePackage: Moving '../../../../../../../New folder (8)/github/Nottingham_project/CIR_Nottingham main branch/Saved/OldMarketSquare_Auto12C8DDCA7487008080DE6ADA2A7B6FCA3.tmp' to '../../../../../../../New folder (8)/github/Nottingham_project/CIR_Nottingham main branch/Saved/Autosaves/Game/main_core/stop/OldMarketSquare_Auto1.uasset'
+[2023.02.22-18.53.49:629][594]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/main_core/stop/theate_royal] ([2] browsable assets)...
+[2023.02.22-18.53.49:653][594]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/main_core/stop/theate_royal.theate_royal]
+[2023.02.22-18.53.49:653][594]OBJ SavePackage: Finished generating thumbnails for package [/Game/main_core/stop/theate_royal]
+[2023.02.22-18.53.49:674][594]LogSavePackage: Moving '../../../../../../../New folder (8)/github/Nottingham_project/CIR_Nottingham main branch/Saved/theate_royal_Auto16901F9584BDE52404C16E8A050F8BE6D.tmp' to '../../../../../../../New folder (8)/github/Nottingham_project/CIR_Nottingham main branch/Saved/Autosaves/Game/main_core/stop/theate_royal_Auto1.uasset'
+[2023.02.22-18.53.49:676][594]LogFileHelpers: Auto-saving content packages took 0.542
+[2023.02.22-18.59.13:810][693]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (TramShelterStop3)
+[2023.02.22-18.59.20:955][542]Cmd: TRANSACTION UNDO
+[2023.02.22-18.59.20:955][542]LogEditorTransaction: Undo Move Actors
+[2023.02.22-18.59.22:867][719]LogUObjectHash: Compacting FUObjectHashTables data took   2.68ms
+[2023.02.22-18.59.23:030][719]LogSavePackage: Moving '../../../../../../../New folder (8)/github/Nottingham_project/CIR_Nottingham main branch/Saved/ThirdPersonExampleMapF9856F89415BD4797E8F298CE16C184B.tmp' to '../../../../../../../New folder (8)/github/Nottingham_project/CIR_Nottingham main branch/Content/main_core/Maps/ThirdPersonExampleMap.umap'
+[2023.02.22-18.59.23:135][719]LogSavePackage: Moving '../../../../../../../New folder (8)/github/Nottingham_project/CIR_Nottingham main branch/Saved/ThirdPersonExampleMap_BuiltData8FC7792B42BCACD7720E87A396C71554.tmp' to '../../../../../../../New folder (8)/github/Nottingham_project/CIR_Nottingham main branch/Content/main_core/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2023.02.22-18.59.23:148][719]AssetCheck: New page: Asset Save: multiple assets
+[2023.02.22-18.59.23:148][719]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/main_core/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2023.02.22-18.59.23:148][719]LogContentValidation: Display: Validating World /Game/main_core/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
