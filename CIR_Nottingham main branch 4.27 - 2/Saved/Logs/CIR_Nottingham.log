@@ -897,3 +897,44 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2023.03.01-16.05.01:003][  0]LogRenderer: Reallocating scene render targets to support 744x360 Format 10 NumSamples 1 (Frame:1).
 [2023.03.01-16.05.01:003][  0]LogSlate: Took 0.000258 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
 [2023.03.01-16.05.02:101][  4]LogSlate: Took 0.000255 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.03.01-16.05.08:898][487]LogRenderer: Reallocating scene render targets to support 1124x572 Format 10 NumSamples 1 (Frame:446).
+[2023.03.01-16.05.19:199][693]LogAssetEditorSubsystem: Opening Asset editor for MediaPlaylist /Game/music/music_store/non_copy/non_copy_7.non_copy_7
+[2023.03.01-16.05.22:128][ 29]LogContentBrowser: Verbose: The majority of assets in the view are of type: FileMediaSource
+[2023.03.01-16.05.22:500][ 74]LogSlate: Window 'non_copy_7' being destroyed
+[2023.03.01-16.05.27:329][649]LogLinker: Warning: [AssetLog] E:\New folder (8)\github\Nottingham_project\CIR_Nottingham main branch 4.27 - 2\Content\music\music_store\non_copy\non_copy_6.uasset: Failed to load '/Game/music/music_store/non_copy/mp3/New_Frontiers_WAV': Can't find file.
+[2023.03.01-16.05.27:330][649]LogLinker: Warning: [AssetLog] E:\New folder (8)\github\Nottingham_project\CIR_Nottingham main branch 4.27 - 2\Content\music\music_store\non_copy\non_copy_6.uasset: Failed to load '/Game/music/music_store/non_copy/mp3/New_Frontiers_WAV': Can't find file.
+[2023.03.01-16.05.27:331][649]LogLinker: Warning: [AssetLog] E:\New folder (8)\github\Nottingham_project\CIR_Nottingham main branch 4.27 - 2\Content\music\music_store\non_copy\non_copy_6.uasset: Failed to load '/Game/music/music_store/non_copy/mp3/New_Frontiers_WAV': Can't find file.
+[2023.03.01-16.05.27:332][649]LogLinker: Warning: [AssetLog] E:\New folder (8)\github\Nottingham_project\CIR_Nottingham main branch 4.27 - 2\Content\music\music_store\non_copy\non_copy_6.uasset: Failed to load '/Game/music/music_store/non_copy/mp3/New_Frontiers_WAV': Can't find file.
+[2023.03.01-16.05.27:332][649]LoadErrors: Failed to load /Game/music/music_store/non_copy/mp3/New_Frontiers_WAV.New_Frontiers_WAV Referenced by non_copy_6
+[2023.03.01-16.05.27:349][649]LogAssetEditorSubsystem: Opening Asset editor for MediaPlaylist /Game/music/music_store/non_copy/non_copy_6.non_copy_6
+[2023.03.01-16.05.31:344][105]LogContentBrowser: Verbose: The majority of assets in the view are of type: FileMediaSource
+[2023.03.01-16.05.31:725][151]LogSlate: Window 'non_copy_6' being destroyed
+[2023.03.01-16.06.17:575][701]LogFactory: FactoryCreateFile: FileMediaSource with WmfFileMediaSourceFactory (0 0 E:\New folder (8)\github\Nottingham_project\asset folder\audio\mp3\New Frontiers WAV.mp3)
+[2023.03.01-16.06.28:634][  3]LogAssetEditorSubsystem: Opening Asset editor for MediaPlaylist /Game/music/music_store/non_copy/non_copy_6.non_copy_6
+[2023.03.01-16.06.28:672][  3]LogContentBrowser: Verbose: The majority of assets in the view are of type: FileMediaSource
+[2023.03.01-16.06.42:865][626]LogAssetEditorSubsystem: Opening Asset editor for MediaPlayer /Game/music/music_store/non_copy/test.test
+[2023.03.01-16.06.42:928][626]LogMaterial: Display: Missing cached shadermap for Material_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 39815B1EE69FFAEDAB2A89E04380D911AD8824CF), compiling. 
+[2023.03.01-16.06.45:877][967]LogContentBrowser: Verbose: The majority of assets in the view are of type: MediaPlaylist
+[2023.03.01-16.06.45:930][969]LogShaderCompilers: Display: Submitted 19 shader compile jobs with 'Normal' priority
+[2023.03.01-16.06.45:937][969]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 19
+[2023.03.01-16.06.45:937][969]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 16
+[2023.03.01-16.06.45:937][969]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 13
+[2023.03.01-16.06.45:937][969]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 10
+[2023.03.01-16.06.45:937][969]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 7
+[2023.03.01-16.06.45:937][969]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2023.03.01-16.06.45:937][969]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 1
+[2023.03.01-16.06.45:937][969]LogShaderCompilers: Display: Started 19 'Local' shader compile jobs with 'Normal' priority
+[2023.03.01-16.06.54:932][974]LogSlate: Window 'test' being destroyed
+[2023.03.01-16.07.24:973][371]LogFactory: FactoryCreateFile: FileMediaSource with WmfFileMediaSourceFactory (0 0 E:\New folder (8)\github\Nottingham_project\asset folder\audio\mp3\New Frontiers WAV.mp3)
+[2023.03.01-16.07.32:273][579]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2023.03.01-16.07.32:308][579]LogSavePackage: Moving '../../../../../../../New folder (8)/github/Nottingham_project/CIR_Nottingham main branch 4.27 - 2/Saved/mainmap4BDBF50F4718381D526C60AA624D1F40.tmp' to '../../../../../../../New folder (8)/github/Nottingham_project/CIR_Nottingham main branch 4.27 - 2/Content/main_core/Maps/mainmap.umap'
+[2023.03.01-16.07.32:455][579]LogSavePackage: Moving '../../../../../../../New folder (8)/github/Nottingham_project/CIR_Nottingham main branch 4.27 - 2/Saved/mainmap_BuiltDataE81019B7497449F7ED2F44A10AAE9000.tmp' to '../../../../../../../New folder (8)/github/Nottingham_project/CIR_Nottingham main branch 4.27 - 2/Content/main_core/Maps/mainmap_BuiltData.uasset'
+[2023.03.01-16.07.32:466][579]AssetCheck: New page: Asset Save: multiple assets
+[2023.03.01-16.07.32:466][579]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/main_core/Maps/mainmap_BuiltData.mainmap_BuiltData
+[2023.03.01-16.07.32:466][579]LogContentValidation: Display: Validating World /Game/main_core/Maps/mainmap.mainmap
+[2023.03.01-16.07.37:119][116]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2023.03.01-16.07.37:149][116]LogSavePackage: Moving '../../../../../../../New folder (8)/github/Nottingham_project/CIR_Nottingham main branch 4.27 - 2/Saved/mainmap8C11019D415C03D322B1D0843570EC20.tmp' to '../../../../../../../New folder (8)/github/Nottingham_project/CIR_Nottingham main branch 4.27 - 2/Content/main_core/Maps/mainmap.umap'
+[2023.03.01-16.07.37:259][116]LogSavePackage: Moving '../../../../../../../New folder (8)/github/Nottingham_project/CIR_Nottingham main branch 4.27 - 2/Saved/mainmap_BuiltData3DD249984F282017DF70C7ACCEEE4EAF.tmp' to '../../../../../../../New folder (8)/github/Nottingham_project/CIR_Nottingham main branch 4.27 - 2/Content/main_core/Maps/mainmap_BuiltData.uasset'
+[2023.03.01-16.07.37:269][116]AssetCheck: New page: Asset Save: multiple assets
+[2023.03.01-16.07.37:269][116]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/main_core/Maps/mainmap_BuiltData.mainmap_BuiltData
+[2023.03.01-16.07.37:269][116]LogContentValidation: Display: Validating World /Game/main_core/Maps/mainmap.mainmap
