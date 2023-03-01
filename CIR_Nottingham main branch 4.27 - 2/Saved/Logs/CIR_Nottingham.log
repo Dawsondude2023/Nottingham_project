@@ -1206,3 +1206,59 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2023.03.01-15.38.43:542][588]LogMediaUtils: | ImgMedia (URI scheme or file extension not supported)
 [2023.03.01-15.38.43:542][588]LogMediaUtils: | WmfMedia (URI scheme or file extension not supported)
 [2023.03.01-15.38.43:542][588]LogMediaUtils: | WebMMedia (URI scheme or file extension not supported)
+[2023.03.01-15.40.16:529][138]LogContentBrowser: Attempting asset rename: elevator-music-bossa-nova-background-music-version-60s-10900 -> elevator-music-bossa-nova-background-music-version-60s-10900
+[2023.03.01-15.40.24:392][ 32]LogAssetEditorSubsystem: Opening Asset editor for MediaPlayer /Game/music/music_store/test.test
+[2023.03.01-15.40.24:408][ 32]LogMaterial: Display: Missing cached shadermap for Material_2 in PCD3D_SM5, Default, SM5 (DDC key hash: 5EEC1B867D6A4DBC4C0C6757805EEF874CE54B25), compiling. 
+[2023.03.01-15.40.24:449][ 32]LogContentBrowser: Verbose: The majority of assets in the view are of type: MediaPlaylist
+[2023.03.01-15.40.24:472][ 34]LogShaderCompilers: Display: Submitted 19 shader compile jobs with 'Normal' priority
+[2023.03.01-15.40.24:479][ 35]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 19
+[2023.03.01-15.40.24:479][ 35]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 16
+[2023.03.01-15.40.24:479][ 35]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 13
+[2023.03.01-15.40.24:479][ 35]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 10
+[2023.03.01-15.40.24:479][ 35]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 7
+[2023.03.01-15.40.24:479][ 35]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2023.03.01-15.40.24:479][ 35]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 1
+[2023.03.01-15.40.24:479][ 35]LogShaderCompilers: Display: Started 19 'Local' shader compile jobs with 'Normal' priority
+[2023.03.01-15.40.47:226][631]LogAssetEditorSubsystem: Opening Asset editor for MediaPlaylist /Game/music/music_store/non_copy/wav/non_copy_2.non_copy_2
+[2023.03.01-15.40.47:263][631]LogContentBrowser: Verbose: The majority of assets in the view are of type: FileMediaSource
+[2023.03.01-15.41.01:260][212]LogAssetEditorSubsystem: Opening Asset editor for MediaPlaylist /Game/music/music_store/non_copy/wav/non_copy_3.non_copy_3
+[2023.03.01-15.41.01:297][212]LogContentBrowser: Verbose: The majority of assets in the view are of type: FileMediaSource
+[2023.03.01-15.41.10:610][290]LogAssetEditorSubsystem: Opening Asset editor for MediaPlaylist /Game/music/music_store/non_copy/wav/non_copy_4.non_copy_4
+[2023.03.01-15.41.10:646][290]LogContentBrowser: Verbose: The majority of assets in the view are of type: FileMediaSource
+[2023.03.01-15.41.16:460][951]LogAssetEditorSubsystem: Opening Asset editor for MediaPlaylist /Game/music/music_store/non_copy/wav/non_copy_5.non_copy_5
+[2023.03.01-15.41.16:497][951]LogContentBrowser: Verbose: The majority of assets in the view are of type: FileMediaSource
+[2023.03.01-15.41.38:509][180]LogContentBrowser: Attempting asset rename: non_copy_6 -> non_copy_6
+[2023.03.01-15.41.39:148][246]LogAssetEditorSubsystem: Opening Asset editor for MediaPlaylist /Game/music/music_store/non_copy/wav/non_copy_7.non_copy_7
+[2023.03.01-15.41.39:198][246]LogContentBrowser: Verbose: The majority of assets in the view are of type: FileMediaSource
+[2023.03.01-15.41.47:945][181]LogAssetEditorSubsystem: Opening Asset editor for MediaPlayer /Game/music/music_store/test.test
+[2023.03.01-15.41.47:965][181]LogMaterial: Display: Missing cached shadermap for Material_3 in PCD3D_SM5, Default, SM5 (DDC key hash: 3DAEDB4A3A76F6D6CBE1E79FE5D4E9934BC8E906), compiling. 
+[2023.03.01-15.41.48:021][181]LogContentBrowser: Verbose: The majority of assets in the view are of type: MediaPlaylist
+[2023.03.01-15.41.48:048][183]LogShaderCompilers: Display: Submitted 19 shader compile jobs with 'Normal' priority
+[2023.03.01-15.41.48:058][184]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 19
+[2023.03.01-15.41.48:058][184]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 16
+[2023.03.01-15.41.48:058][184]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 13
+[2023.03.01-15.41.48:058][184]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 10
+[2023.03.01-15.41.48:058][184]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 7
+[2023.03.01-15.41.48:058][184]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2023.03.01-15.41.48:058][184]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 1
+[2023.03.01-15.41.48:058][184]LogShaderCompilers: Display: Started 19 'Local' shader compile jobs with 'Normal' priority
+[2023.03.01-15.41.49:021][262]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.03.01-15.41.49:022][262]LogShaderCompilers: Display: Total job queries 85, among them cache hits 9 (10.59%)
+[2023.03.01-15.41.49:022][262]LogShaderCompilers: Display: Tracking 61 distinct input hashes that result in 18 distinct outputs (29.51%)
+[2023.03.01-15.41.49:022][262]LogShaderCompilers: Display: RAM used: 0.07 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.01%
+[2023.03.01-15.41.49:022][262]LogShaderCompilers: Display: ================================================
+[2023.03.01-15.41.52:394][629]LogMediaAssets: Error: Failed to validate media source Y2Mate_is_-_Topher_Mohr_and_Alex_Elena_-_Garage__Royalty_Free_Music_-CCPXfflu0qo-720p-1654690150252 (file://E:/New folder (8)/github/Nottingham_project/CIR_Nottingham main branch 4.27 - 2/Content/music/music_store/non_copy/wav/New_Frontiers_WAV.uasset)
+[2023.03.01-15.42.10:150][607]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2023.03.01-15.42.11:420][607]LogSlate: Window 'Delete Assets' being destroyed
+[2023.03.01-15.42.11:479][607]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2023.03.01-15.42.23:550][986]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2023.03.01-15.42.25:121][986]LogSlate: Window 'Delete Assets' being destroyed
+[2023.03.01-15.42.25:162][986]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/music/music_store/non_copy/mp3/Y2Mate_is_-_Topher_Mohr_and_Alex_Elena_-_Garage__Royalty_Free_Music_-CCPXfflu0qo-720p-1654690150252.Y2Mate_is_-_Topher_Mohr_and_Alex_Elena_-_Garage__Royalty_Free_Music_-CCPXfflu0qo-720p-1654690150252
+[2023.03.01-15.42.25:422][986]LogUObjectHash: Compacting FUObjectHashTables data took   2.42ms
+[2023.03.01-15.42.25:437][986]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2023.03.01-15.42.25:449][986]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2023.03.01-15.42.32:145][556]LogAssetEditorSubsystem: Opening Asset editor for MediaPlaylist /Game/music/music_store/non_copy/wav/non_copy_6.non_copy_6
+[2023.03.01-15.42.32:184][556]LogContentBrowser: Verbose: The majority of assets in the view are of type: FileMediaSource
+[2023.03.01-15.42.39:127][377]LogAssetEditorSubsystem: Opening Asset editor for MediaPlaylist /Game/music/music_store/non_copy/wav/non_copy_7.non_copy_7
+[2023.03.01-15.42.39:168][377]LogContentBrowser: Verbose: The majority of assets in the view are of type: FileMediaSource
