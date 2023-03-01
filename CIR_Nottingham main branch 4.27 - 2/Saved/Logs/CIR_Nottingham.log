@@ -1464,3 +1464,295 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2023.03.01-15.55.57:606][757]LogShaderCompilers: Display: Tracking 79 distinct input hashes that result in 18 distinct outputs (22.78%)
 [2023.03.01-15.55.57:606][757]LogShaderCompilers: Display: RAM used: 0.07 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.01%
 [2023.03.01-15.55.57:606][757]LogShaderCompilers: Display: ================================================
+[2023.03.01-15.56.13:439][500]LogSlate: Window 'test' being destroyed
+[2023.03.01-15.57.04:854][459]BlueprintLog: New page: Compile tram_2_1
+[2023.03.01-15.57.04:905][459]LogUObjectHash: Compacting FUObjectHashTables data took   2.32ms
+[2023.03.01-15.57.06:690][640]LogEditorTransaction: Undo Change Number Pin Value
+[2023.03.01-15.57.15:388][632]BlueprintLog: New page: Compile tram_2_1
+[2023.03.01-15.57.15:441][632]LogUObjectHash: Compacting FUObjectHashTables data took   2.79ms
+[2023.03.01-15.57.18:704][995]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2023.03.01-15.57.18:712][995]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.03.01-15.57.18:713][995]PIE: New page: PIE session: mainmap (1 Mar 2023, 15:57:18)
+[2023.03.01-15.57.18:713][995]LogPlayLevel: Creating play world package: /Game/main_core/Maps/UEDPIE_0_mainmap
+[2023.03.01-15.57.18:727][995]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014106s)
+[2023.03.01-15.57.18:728][995]LogAIModule: Creating AISystem for world mainmap
+[2023.03.01-15.57.18:728][995]LogPlayLevel: PIE: World Init took: (0.001271s)
+[2023.03.01-15.57.18:728][995]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/main_core/Maps/mainmap.mainmap to /Game/main_core/Maps/UEDPIE_0_mainmap.mainmap (0.015538s)
+[2023.03.01-15.57.18:753][995]LogUObjectHash: Compacting FUObjectHashTables data took   2.80ms
+[2023.03.01-15.57.18:754][995]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2023.03.01-15.57.18:754][995]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.01-15.57.18:754][995]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.01-15.57.18:754][995]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.01-15.57.18:754][995]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.01-15.57.18:754][995]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.03.01-15.57.18:754][995]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.03.01-15.57.18:754][995]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.03.01-15.57.18:754][995]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.01-15.57.18:754][995]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.01-15.57.18:754][995]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.01-15.57.18:754][995]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.01-15.57.18:754][995]LogAudioMixer: Display: Initializing audio mixer.
+[2023.03.01-15.57.18:766][995]LogAudioMixer: Display: 0: FrontLeft
+[2023.03.01-15.57.18:766][995]LogAudioMixer: Display: 1: FrontRight
+[2023.03.01-15.57.18:788][995]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2023.03.01-15.57.18:789][995]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.01-15.57.18:789][995]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.01-15.57.18:789][995]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.01-15.57.18:789][995]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.03.01-15.57.18:789][995]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.03.01-15.57.18:789][995]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.03.01-15.57.18:790][995]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.03.01-15.57.18:790][995]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.03.01-15.57.18:790][995]LogInit: FAudioDevice initialized.
+[2023.03.01-15.57.18:790][995]LogAudio: Display: Audio Device (ID: 5) registered with world 'mainmap'.
+[2023.03.01-15.57.18:839][995]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.01-15.57.18:840][995]LogLoad: Game class is 'GameModeBase'
+[2023.03.01-15.57.18:843][995]LogWorld: Bringing World /Game/main_core/Maps/UEDPIE_0_mainmap.mainmap up for play (max tick rate 0) at 2023.03.01-15.57.18
+[2023.03.01-15.57.18:843][995]LogWorld: Bringing up level for play took: 0.002481
+[2023.03.01-15.57.18:843][995]LogOnline: OSS: Creating online subsystem instance for: :Context_8
+[2023.03.01-15.57.18:847][995]PIE: Server logged in
+[2023.03.01-15.57.18:849][995]PIE: Play in editor total start time 0.138 seconds.
+[2023.03.01-15.57.20:671][202]LogMediaAssets: Warning: test.OpenPlaylistIndex called with null MediaPlaylist
+[2023.03.01-15.57.24:824][695]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.01-15.57.24:824][695]LogWorld: BeginTearingDown for /Game/main_core/Maps/UEDPIE_0_mainmap
+[2023.03.01-15.57.24:825][695]LogSlate: Window 'CIR_Nottingham Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2023.03.01-15.57.24:831][695]LogWorld: UWorld::CleanupWorld for mainmap, bSessionEnded=true, bCleanupResources=true
+[2023.03.01-15.57.24:831][695]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.01-15.57.24:851][695]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.03.01-15.57.24:855][695]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.01-15.57.24:872][695]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.03.01-15.57.24:873][695]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.03.01-15.57.24:878][695]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2023.03.01-15.57.24:895][696]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2023.03.01-15.57.35:097][813]BlueprintLog: New page: Compile tram_2_1
+[2023.03.01-15.57.35:148][813]LogUObjectHash: Compacting FUObjectHashTables data took   2.60ms
+[2023.03.01-15.57.36:904][  4]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2023.03.01-15.57.36:912][  4]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.03.01-15.57.36:913][  4]PIE: New page: PIE session: mainmap (1 Mar 2023, 15:57:36)
+[2023.03.01-15.57.36:913][  4]LogPlayLevel: Creating play world package: /Game/main_core/Maps/UEDPIE_0_mainmap
+[2023.03.01-15.57.36:926][  4]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013428s)
+[2023.03.01-15.57.36:927][  4]LogAIModule: Creating AISystem for world mainmap
+[2023.03.01-15.57.36:927][  4]LogPlayLevel: PIE: World Init took: (0.001274s)
+[2023.03.01-15.57.36:928][  4]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/main_core/Maps/mainmap.mainmap to /Game/main_core/Maps/UEDPIE_0_mainmap.mainmap (0.014863s)
+[2023.03.01-15.57.36:954][  4]LogUObjectHash: Compacting FUObjectHashTables data took   2.83ms
+[2023.03.01-15.57.36:955][  4]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2023.03.01-15.57.36:955][  4]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.01-15.57.36:956][  4]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.01-15.57.36:956][  4]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.01-15.57.36:956][  4]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.01-15.57.36:956][  4]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.03.01-15.57.36:956][  4]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.03.01-15.57.36:956][  4]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.03.01-15.57.36:956][  4]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.01-15.57.36:956][  4]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.01-15.57.36:956][  4]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.01-15.57.36:956][  4]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.01-15.57.36:956][  4]LogAudioMixer: Display: Initializing audio mixer.
+[2023.03.01-15.57.36:968][  4]LogAudioMixer: Display: 0: FrontLeft
+[2023.03.01-15.57.36:968][  4]LogAudioMixer: Display: 1: FrontRight
+[2023.03.01-15.57.36:990][  4]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2023.03.01-15.57.36:990][  4]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.01-15.57.36:990][  4]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.01-15.57.36:990][  4]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.01-15.57.36:990][  4]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.03.01-15.57.36:990][  4]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.03.01-15.57.36:990][  4]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.03.01-15.57.36:991][  4]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.03.01-15.57.36:991][  4]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.03.01-15.57.36:991][  4]LogInit: FAudioDevice initialized.
+[2023.03.01-15.57.36:991][  4]LogAudio: Display: Audio Device (ID: 6) registered with world 'mainmap'.
+[2023.03.01-15.57.37:039][  4]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.01-15.57.37:040][  4]LogLoad: Game class is 'GameModeBase'
+[2023.03.01-15.57.37:042][  4]LogWorld: Bringing World /Game/main_core/Maps/UEDPIE_0_mainmap.mainmap up for play (max tick rate 0) at 2023.03.01-15.57.37
+[2023.03.01-15.57.37:043][  4]LogWorld: Bringing up level for play took: 0.002351
+[2023.03.01-15.57.37:043][  4]LogOnline: OSS: Creating online subsystem instance for: :Context_9
+[2023.03.01-15.57.37:047][  4]PIE: Server logged in
+[2023.03.01-15.57.37:048][  4]PIE: Play in editor total start time 0.137 seconds.
+[2023.03.01-15.57.40:504][404]LogMediaAssets: Warning: test.OpenPlaylistIndex called with null MediaPlaylist
+[2023.03.01-15.57.40:504][404]LogBlueprintUserMessages: [tram_2_2] Hello
+[2023.03.01-15.57.41:529][527]LogBlueprintUserMessages: [tram_2_2] Hello
+[2023.03.01-15.57.43:333][738]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.01-15.57.43:334][738]LogWorld: BeginTearingDown for /Game/main_core/Maps/UEDPIE_0_mainmap
+[2023.03.01-15.57.43:334][738]LogSlate: Window 'CIR_Nottingham Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2023.03.01-15.57.43:339][738]LogWorld: UWorld::CleanupWorld for mainmap, bSessionEnded=true, bCleanupResources=true
+[2023.03.01-15.57.43:339][738]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.01-15.57.43:355][738]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.03.01-15.57.43:358][738]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.01-15.57.43:374][738]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.03.01-15.57.43:374][738]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.03.01-15.57.43:375][738]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.03.01-15.57.43:381][738]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2023.03.01-15.57.43:400][739]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2023.03.01-15.57.49:163][345]BlueprintLog: New page: Compile tram_2_1
+[2023.03.01-15.57.49:215][345]LogUObjectHash: Compacting FUObjectHashTables data took   2.77ms
+[2023.03.01-15.58.14:114][ 79]BlueprintLog: New page: Compile tram_2_1
+[2023.03.01-15.58.14:166][ 79]LogUObjectHash: Compacting FUObjectHashTables data took   2.93ms
+[2023.03.01-15.58.15:655][236]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2023.03.01-15.58.15:664][236]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.03.01-15.58.15:664][236]PIE: New page: PIE session: mainmap (1 Mar 2023, 15:58:15)
+[2023.03.01-15.58.15:664][236]LogPlayLevel: Creating play world package: /Game/main_core/Maps/UEDPIE_0_mainmap
+[2023.03.01-15.58.15:678][236]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013842s)
+[2023.03.01-15.58.15:679][236]LogAIModule: Creating AISystem for world mainmap
+[2023.03.01-15.58.15:679][236]LogPlayLevel: PIE: World Init took: (0.001305s)
+[2023.03.01-15.58.15:679][236]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/main_core/Maps/mainmap.mainmap to /Game/main_core/Maps/UEDPIE_0_mainmap.mainmap (0.015305s)
+[2023.03.01-15.58.15:707][236]LogUObjectHash: Compacting FUObjectHashTables data took   2.96ms
+[2023.03.01-15.58.15:708][236]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2023.03.01-15.58.15:708][236]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.01-15.58.15:708][236]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.01-15.58.15:708][236]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.01-15.58.15:708][236]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.01-15.58.15:708][236]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.03.01-15.58.15:708][236]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.03.01-15.58.15:708][236]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.03.01-15.58.15:708][236]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.01-15.58.15:709][236]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.01-15.58.15:709][236]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.01-15.58.15:709][236]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.01-15.58.15:709][236]LogAudioMixer: Display: Initializing audio mixer.
+[2023.03.01-15.58.15:721][236]LogAudioMixer: Display: 0: FrontLeft
+[2023.03.01-15.58.15:721][236]LogAudioMixer: Display: 1: FrontRight
+[2023.03.01-15.58.15:742][236]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2023.03.01-15.58.15:742][236]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.01-15.58.15:742][236]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.01-15.58.15:742][236]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.01-15.58.15:743][236]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.03.01-15.58.15:743][236]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.03.01-15.58.15:743][236]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.03.01-15.58.15:744][236]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.03.01-15.58.15:744][236]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.03.01-15.58.15:744][236]LogInit: FAudioDevice initialized.
+[2023.03.01-15.58.15:744][236]LogAudio: Display: Audio Device (ID: 7) registered with world 'mainmap'.
+[2023.03.01-15.58.15:790][236]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.01-15.58.15:791][236]LogLoad: Game class is 'GameModeBase'
+[2023.03.01-15.58.15:794][236]LogWorld: Bringing World /Game/main_core/Maps/UEDPIE_0_mainmap.mainmap up for play (max tick rate 0) at 2023.03.01-15.58.15
+[2023.03.01-15.58.15:794][236]LogWorld: Bringing up level for play took: 0.002452
+[2023.03.01-15.58.15:794][236]LogOnline: OSS: Creating online subsystem instance for: :Context_10
+[2023.03.01-15.58.15:798][236]PIE: Server logged in
+[2023.03.01-15.58.15:799][236]PIE: Play in editor total start time 0.138 seconds.
+[2023.03.01-15.58.19:384][656]LogMediaAssets: Warning: test.OpenPlaylistIndex called with null MediaPlaylist
+[2023.03.01-15.58.23:832][178]LogScript: Warning: Script Msg: Attempted to access index 4 from array 'Playlist' of length 4 in '/Game/main_core/tram/main_core/tram_2_1.tram_2_1_C'!
+[2023.03.01-15.58.23:833][178]LogMediaAssets: Warning: test.OpenPlaylistIndex called with null MediaPlaylist
+[2023.03.01-15.58.24:643][272]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.01-15.58.24:643][272]LogWorld: BeginTearingDown for /Game/main_core/Maps/UEDPIE_0_mainmap
+[2023.03.01-15.58.24:644][272]LogSlate: Window 'CIR_Nottingham Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2023.03.01-15.58.24:648][272]LogWorld: UWorld::CleanupWorld for mainmap, bSessionEnded=true, bCleanupResources=true
+[2023.03.01-15.58.24:648][272]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.01-15.58.24:667][272]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.03.01-15.58.24:671][272]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.01-15.58.24:688][272]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.03.01-15.58.24:688][272]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.03.01-15.58.24:689][272]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.03.01-15.58.24:700][272]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2023.03.01-15.58.24:706][272]LogActorComponent: ReregisterComponent: (/Game/main_core/Maps/mainmap.mainmap:PersistentLevel.REINST_tram_2_1_C_0.TRASH_MediaSoundComponent_21.AudioComponent_1) Not currently registered. Aborting.
+[2023.03.01-15.58.24:706][272]LogActorComponent: ReregisterComponent: (/Game/main_core/Maps/mainmap.mainmap:PersistentLevel.REINST_tram_2_1_C_0.TRASH_AudioComponent_0) Not currently registered. Aborting.
+[2023.03.01-15.58.24:719][273]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2023.03.01-15.58.29:698][832]BlueprintLog: New page: Compile tram_2_1
+[2023.03.01-15.58.29:750][832]LogUObjectHash: Compacting FUObjectHashTables data took   2.37ms
+[2023.03.01-15.58.30:621][914]LogSavePackage: Moving '../../../../../../../New folder (8)/github/Nottingham_project/CIR_Nottingham main branch 4.27 - 2/Saved/tram_2_1487F69FB4848EC51EA7BD5867DC65B54.tmp' to '../../../../../../../New folder (8)/github/Nottingham_project/CIR_Nottingham main branch 4.27 - 2/Content/main_core/tram/main_core/tram_2_1.uasset'
+[2023.03.01-15.58.30:636][914]AssetCheck: New page: Asset Save: tram_2_1
+[2023.03.01-15.58.30:636][914]LogContentValidation: Display: Validating Blueprint /Game/main_core/tram/main_core/tram_2_1.tram_2_1
+[2023.03.01-16.01.25:583][408]BlueprintLog: New page: Compile tram_2_1
+[2023.03.01-16.01.25:639][408]LogUObjectHash: Compacting FUObjectHashTables data took   3.02ms
+[2023.03.01-16.01.32:234][138]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2023.03.01-16.01.32:242][138]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.03.01-16.01.32:242][138]PIE: New page: PIE session: mainmap (1 Mar 2023, 16:01:32)
+[2023.03.01-16.01.32:242][138]LogPlayLevel: Creating play world package: /Game/main_core/Maps/UEDPIE_0_mainmap
+[2023.03.01-16.01.32:256][138]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014034s)
+[2023.03.01-16.01.32:257][138]LogAIModule: Creating AISystem for world mainmap
+[2023.03.01-16.01.32:257][138]LogPlayLevel: PIE: World Init took: (0.001046s)
+[2023.03.01-16.01.32:257][138]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/main_core/Maps/mainmap.mainmap to /Game/main_core/Maps/UEDPIE_0_mainmap.mainmap (0.015207s)
+[2023.03.01-16.01.32:280][138]LogUObjectHash: Compacting FUObjectHashTables data took   2.87ms
+[2023.03.01-16.01.32:282][138]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2023.03.01-16.01.32:282][138]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.01-16.01.32:282][138]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.01-16.01.32:282][138]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.01-16.01.32:282][138]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.01-16.01.32:282][138]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.03.01-16.01.32:282][138]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.03.01-16.01.32:282][138]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.03.01-16.01.32:282][138]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.01-16.01.32:282][138]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.01-16.01.32:282][138]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.01-16.01.32:282][138]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.01-16.01.32:282][138]LogAudioMixer: Display: Initializing audio mixer.
+[2023.03.01-16.01.32:295][138]LogAudioMixer: Display: 0: FrontLeft
+[2023.03.01-16.01.32:295][138]LogAudioMixer: Display: 1: FrontRight
+[2023.03.01-16.01.32:318][138]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2023.03.01-16.01.32:318][138]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.01-16.01.32:318][138]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.01-16.01.32:318][138]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.01-16.01.32:318][138]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.03.01-16.01.32:318][138]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.03.01-16.01.32:318][138]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.03.01-16.01.32:319][138]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.03.01-16.01.32:320][138]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.03.01-16.01.32:320][138]LogInit: FAudioDevice initialized.
+[2023.03.01-16.01.32:320][138]LogAudio: Display: Audio Device (ID: 8) registered with world 'mainmap'.
+[2023.03.01-16.01.32:377][138]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.01-16.01.32:378][138]LogLoad: Game class is 'GameModeBase'
+[2023.03.01-16.01.32:380][138]LogWorld: Bringing World /Game/main_core/Maps/UEDPIE_0_mainmap.mainmap up for play (max tick rate 0) at 2023.03.01-16.01.32
+[2023.03.01-16.01.32:381][138]LogWorld: Bringing up level for play took: 0.002462
+[2023.03.01-16.01.32:381][138]LogOnline: OSS: Creating online subsystem instance for: :Context_11
+[2023.03.01-16.01.32:385][138]PIE: Server logged in
+[2023.03.01-16.01.32:386][138]PIE: Play in editor total start time 0.147 seconds.
+[2023.03.01-16.01.35:553][507]LogBlueprintUserMessages: [tram_2_2] Hello
+[2023.03.01-16.01.35:553][507]LogMediaAssets: Warning: test.OpenPlaylistIndex called with null MediaPlaylist
+[2023.03.01-16.01.36:852][663]LogBlueprintUserMessages: [tram_2_2] Hello
+[2023.03.01-16.01.39:795][  2]LogBlueprintUserMessages: [tram_2_2] Hello
+[2023.03.01-16.01.42:086][277]LogBlueprintUserMessages: [tram_2_2] Hello
+[2023.03.01-16.01.43:745][476]LogBlueprintUserMessages: [tram_2_2] Hello
+[2023.03.01-16.01.43:745][476]LogScript: Warning: Script Msg: Attempted to access index 4 from array 'Playlist' of length 4 in '/Game/main_core/tram/main_core/tram_2_1.tram_2_1_C'!
+[2023.03.01-16.01.43:746][476]LogMediaAssets: Warning: test.OpenPlaylistIndex called with null MediaPlaylist
+[2023.03.01-16.01.45:438][679]LogBlueprintUserMessages: [tram_2_2] Hello
+[2023.03.01-16.01.45:438][679]LogScript: Warning: Script Msg: Attempted to access index 5 from array 'Playlist' of length 4 in '/Game/main_core/tram/main_core/tram_2_1.tram_2_1_C'!
+[2023.03.01-16.01.45:438][679]LogMediaAssets: Warning: test.OpenPlaylistIndex called with null MediaPlaylist
+[2023.03.01-16.01.47:282][900]LogBlueprintUserMessages: [tram_2_2] Hello
+[2023.03.01-16.01.47:282][900]LogScript: Warning: Script Msg: Attempted to access index 6 from array 'Playlist' of length 4 in '/Game/main_core/tram/main_core/tram_2_1.tram_2_1_C'!
+[2023.03.01-16.01.47:282][900]LogMediaAssets: Warning: test.OpenPlaylistIndex called with null MediaPlaylist
+[2023.03.01-16.01.50:048][232]LogBlueprintUserMessages: [tram_2_2] Hello
+[2023.03.01-16.01.50:048][232]LogScript: Warning: Script Msg: Attempted to access index 7 from array 'Playlist' of length 4 in '/Game/main_core/tram/main_core/tram_2_1.tram_2_1_C'!
+[2023.03.01-16.01.50:049][232]LogMediaAssets: Warning: test.OpenPlaylistIndex called with null MediaPlaylist
+[2023.03.01-16.01.54:849][806]LogBlueprintUserMessages: [tram_2_2] Hello
+[2023.03.01-16.01.54:849][806]LogScript: Warning: Script Msg: Attempted to access index 8 from array 'Playlist' of length 4 in '/Game/main_core/tram/main_core/tram_2_1.tram_2_1_C'!
+[2023.03.01-16.01.54:849][806]LogMediaAssets: Warning: test.OpenPlaylistIndex called with null MediaPlaylist
+[2023.03.01-16.01.59:855][406]LogBlueprintUserMessages: [tram_2_2] Hello
+[2023.03.01-16.01.59:855][406]LogScript: Warning: Script Msg: Attempted to access index 9 from array 'Playlist' of length 4 in '/Game/main_core/tram/main_core/tram_2_1.tram_2_1_C'!
+[2023.03.01-16.01.59:855][406]LogMediaAssets: Warning: test.OpenPlaylistIndex called with null MediaPlaylist
+[2023.03.01-16.02.01:538][608]LogBlueprintUserMessages: [tram_2_2] Hello
+[2023.03.01-16.02.01:538][608]LogScript: Warning: Script Msg: Attempted to access index 10 from array 'Playlist' of length 4 in '/Game/main_core/tram/main_core/tram_2_1.tram_2_1_C'!
+[2023.03.01-16.02.01:538][608]LogMediaAssets: Warning: test.OpenPlaylistIndex called with null MediaPlaylist
+[2023.03.01-16.02.03:165][803]LogBlueprintUserMessages: [tram_2_2] radio off
+[2023.03.01-16.02.03:382][829]LogBlueprintUserMessages: [tram_2_2] Hello
+[2023.03.01-16.02.03:382][829]LogMediaAssets: Warning: test.OpenPlaylistIndex called with null MediaPlaylist
+[2023.03.01-16.02.05:442][ 76]LogBlueprintUserMessages: [tram_2_2] Hello
+[2023.03.01-16.02.06:550][209]LogBlueprintUserMessages: [tram_2_2] Hello
+[2023.03.01-16.02.07:392][310]LogBlueprintUserMessages: [tram_2_2] Hello
+[2023.03.01-16.02.08:067][391]LogBlueprintUserMessages: [tram_2_2] Hello
+[2023.03.01-16.02.08:067][391]LogScript: Warning: Script Msg: Attempted to access index 4 from array 'Playlist' of length 4 in '/Game/main_core/tram/main_core/tram_2_1.tram_2_1_C'!
+[2023.03.01-16.02.08:067][391]LogMediaAssets: Warning: test.OpenPlaylistIndex called with null MediaPlaylist
+[2023.03.01-16.02.08:892][490]LogBlueprintUserMessages: [tram_2_2] Hello
+[2023.03.01-16.02.08:892][490]LogScript: Warning: Script Msg: Attempted to access index 5 from array 'Playlist' of length 4 in '/Game/main_core/tram/main_core/tram_2_1.tram_2_1_C'!
+[2023.03.01-16.02.08:892][490]LogMediaAssets: Warning: test.OpenPlaylistIndex called with null MediaPlaylist
+[2023.03.01-16.02.09:709][588]LogBlueprintUserMessages: [tram_2_2] Hello
+[2023.03.01-16.02.09:709][588]LogScript: Warning: Script Msg: Attempted to access index 6 from array 'Playlist' of length 4 in '/Game/main_core/tram/main_core/tram_2_1.tram_2_1_C'!
+[2023.03.01-16.02.09:709][588]LogMediaAssets: Warning: test.OpenPlaylistIndex called with null MediaPlaylist
+[2023.03.01-16.02.10:551][689]LogBlueprintUserMessages: [tram_2_2] Hello
+[2023.03.01-16.02.10:551][689]LogScript: Warning: Script Msg: Attempted to access index 7 from array 'Playlist' of length 4 in '/Game/main_core/tram/main_core/tram_2_1.tram_2_1_C'!
+[2023.03.01-16.02.10:551][689]LogMediaAssets: Warning: test.OpenPlaylistIndex called with null MediaPlaylist
+[2023.03.01-16.02.11:300][779]LogBlueprintUserMessages: [tram_2_2] Hello
+[2023.03.01-16.02.11:300][779]LogScript: Warning: Script Msg: Attempted to access index 8 from array 'Playlist' of length 4 in '/Game/main_core/tram/main_core/tram_2_1.tram_2_1_C'!
+[2023.03.01-16.02.11:300][779]LogMediaAssets: Warning: test.OpenPlaylistIndex called with null MediaPlaylist
+[2023.03.01-16.02.12:050][869]LogBlueprintUserMessages: [tram_2_2] Hello
+[2023.03.01-16.02.12:050][869]LogScript: Warning: Script Msg: Attempted to access index 9 from array 'Playlist' of length 4 in '/Game/main_core/tram/main_core/tram_2_1.tram_2_1_C'!
+[2023.03.01-16.02.12:050][869]LogMediaAssets: Warning: test.OpenPlaylistIndex called with null MediaPlaylist
+[2023.03.01-16.02.12:917][973]LogBlueprintUserMessages: [tram_2_2] Hello
+[2023.03.01-16.02.12:917][973]LogScript: Warning: Script Msg: Attempted to access index 10 from array 'Playlist' of length 4 in '/Game/main_core/tram/main_core/tram_2_1.tram_2_1_C'!
+[2023.03.01-16.02.12:917][973]LogMediaAssets: Warning: test.OpenPlaylistIndex called with null MediaPlaylist
+[2023.03.01-16.02.14:058][110]LogBlueprintUserMessages: [tram_2_2] radio off
+[2023.03.01-16.02.16:133][359]LogBlueprintUserMessages: [tram_2_2] Hello
+[2023.03.01-16.02.16:134][359]LogMediaAssets: Warning: test.OpenPlaylistIndex called with null MediaPlaylist
+[2023.03.01-16.02.19:926][814]LogBlueprintUserMessages: [tram_2_2] Hello
+[2023.03.01-16.02.33:987][501]LogBlueprintUserMessages: [tram_2_2] Hello
+[2023.03.01-16.02.34:670][583]LogBlueprintUserMessages: [tram_2_2] Hello
+[2023.03.01-16.02.39:829][202]LogBlueprintUserMessages: [tram_2_2] Hello
+[2023.03.01-16.02.39:829][202]LogScript: Warning: Script Msg: Attempted to access index 4 from array 'Playlist' of length 4 in '/Game/main_core/tram/main_core/tram_2_1.tram_2_1_C'!
