@@ -1320,3 +1320,147 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2023.03.01-15.43.54:420][246]OBJ SavePackage: Finished generating thumbnails for package [/Game/music/music_store/non_copy/wav/non_copy_5]
 [2023.03.01-15.43.54:421][246]LogSavePackage: Moving '../../../../../../../New folder (8)/github/Nottingham_project/CIR_Nottingham main branch 4.27 - 2/Saved/non_copy_5_Auto35DF38D834B5E1563386DFB81480B5025.tmp' to '../../../../../../../New folder (8)/github/Nottingham_project/CIR_Nottingham main branch 4.27 - 2/Saved/Autosaves/Game/music/music_store/non_copy/wav/non_copy_5_Auto3.uasset'
 [2023.03.01-15.43.54:424][246]LogFileHelpers: Auto-saving content packages took 0.380
+[2023.03.01-15.47.09:355][831]LogFactory: FactoryCreateFile: FileMediaSource with WmfFileMediaSourceFactory (0 0 E:\New folder (8)\github\Nottingham_project\asset folder\audio\mp3\New Frontiers WAV.mp3)
+[2023.03.01-15.47.21:109][259]LogAudioEditor: Performing atomic reimport of [E:/New folder (8)/github/Nottingham_project/asset folder/audio/mp3/waiting-music-116216.wav]
+[2023.03.01-15.47.21:165][259]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 E:/New folder (8)/github/Nottingham_project/asset folder/audio/mp3/waiting-music-116216.wav)
+[2023.03.01-15.47.21:197][259]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10000-1-1-1-1-1 wave waiting-music-116216...
+[2023.03.01-15.47.21:201][259]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/music/music_store/non_copy/wav/waiting-music-116216.waiting-music-116216 will be modified from 40 to 40.
+[2023.03.01-15.47.23:574][259]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 25459200 while cooking SoundWave /Game/music/music_store/non_copy/wav/waiting-music-116216.waiting-music-116216.
+[2023.03.01-15.47.23:735][259]LogAudioEditor: -- imported successfully
+[2023.03.01-15.47.23:793][259]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10000-1-1-1-1-1 wave waiting-music-116216...
+[2023.03.01-15.47.23:795][259]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/music/music_store/non_copy/wav/waiting-music-116216.waiting-music-116216 will be modified from 40 to 40.
+[2023.03.01-15.47.32:416][947]LogAudioEditor: Performing atomic reimport of [E:/New folder (8)/github/Nottingham_project/asset folder/audio/mp3/waiting-music-116216.wav]
+[2023.03.01-15.47.32:472][947]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 E:/New folder (8)/github/Nottingham_project/asset folder/audio/mp3/waiting-music-116216.wav)
+[2023.03.01-15.47.32:547][947]LogAudioEditor: -- imported successfully
+[2023.03.01-15.47.32:604][947]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10000-1-1-1-1-1 wave waiting-music-116216...
+[2023.03.01-15.47.32:606][947]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/music/music_store/non_copy/wav/waiting-music-116216.waiting-music-116216 will be modified from 40 to 40.
+[2023.03.01-15.48.32:465][477]LogSlate: Window 'non_copy' being destroyed
+[2023.03.01-15.52.30:226][916]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 E:\New folder (8)\github\Nottingham_project\asset folder\audio\wav stuff\inquiring-discovery-117953.wav)
+[2023.03.01-15.52.43:119][506]LogAssetEditorSubsystem: Opening Asset editor for MediaPlaylist /Game/music/music_store/non_copy/wav/non_copy_7.non_copy_7
+[2023.03.01-15.52.43:239][506]LogContentBrowser: Verbose: The majority of assets in the view are of type: FileMediaSource
+[2023.03.01-15.53.13:394][739]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 E:\New folder (8)\github\Nottingham_project\asset folder\audio\wav stuff\inquiring-discovery-117953.wav)
+[2023.03.01-15.53.25:470][783]LogAssetEditorSubsystem: Opening Asset editor for FileMediaSource /Game/music/music_store/non_copy/mp3/waiting-music-116216.waiting-music-116216
+[2023.03.01-15.53.48:156][435]LogSavePackage: Moving '../../../../../../../New folder (8)/github/Nottingham_project/CIR_Nottingham main branch 4.27 - 2/Saved/non_copy_7147DE65E4CA8BF8323D0C7AFF2F26CA2.tmp' to '../../../../../../../New folder (8)/github/Nottingham_project/CIR_Nottingham main branch 4.27 - 2/Content/music/music_store/non_copy/wav/non_copy_7.uasset'
+[2023.03.01-15.53.48:170][435]AssetCheck: New page: Asset Save: non_copy_7
+[2023.03.01-15.53.48:170][435]LogContentValidation: Display: Validating MediaPlaylist /Game/music/music_store/non_copy/wav/non_copy_7.non_copy_7
+[2023.03.01-15.53.49:787][617]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2023.03.01-15.53.49:930][617]LogSavePackage: Moving '../../../../../../../New folder (8)/github/Nottingham_project/CIR_Nottingham main branch 4.27 - 2/Saved/mainmapEF16D3904F3F3DDEDB650C9FC621947B.tmp' to '../../../../../../../New folder (8)/github/Nottingham_project/CIR_Nottingham main branch 4.27 - 2/Content/main_core/Maps/mainmap.umap'
+[2023.03.01-15.53.50:085][617]LogSavePackage: Moving '../../../../../../../New folder (8)/github/Nottingham_project/CIR_Nottingham main branch 4.27 - 2/Saved/mainmap_BuiltDataB99E79BD4C70B34E5ECA3D99565DFB57.tmp' to '../../../../../../../New folder (8)/github/Nottingham_project/CIR_Nottingham main branch 4.27 - 2/Content/main_core/Maps/mainmap_BuiltData.uasset'
+[2023.03.01-15.53.50:096][617]AssetCheck: New page: Asset Save: multiple assets
+[2023.03.01-15.53.50:096][617]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/main_core/Maps/mainmap_BuiltData.mainmap_BuiltData
+[2023.03.01-15.53.50:097][617]LogContentValidation: Display: Validating World /Game/main_core/Maps/mainmap.mainmap
+[2023.03.01-15.53.58:744][588]LogSlate: Window 'non_copy_7' being destroyed
+[2023.03.01-15.54.01:141][871]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2023.03.01-15.54.01:149][871]BlueprintLog: New page: Pre-Play auto-recompile
+[2023.03.01-15.54.01:151][871]LogPlayLevel: [PlayLevel] Compiling tram_2_1 before play...
+[2023.03.01-15.54.01:196][871]LogUObjectHash: Compacting FUObjectHashTables data took   2.49ms
+[2023.03.01-15.54.01:198][871]LogPlayLevel: PlayLevel: Blueprint regeneration took 48 ms (1 blueprints)
+[2023.03.01-15.54.01:198][871]PIE: New page: PIE session: mainmap (1 Mar 2023, 15:54:01)
+[2023.03.01-15.54.01:198][871]LogPlayLevel: Creating play world package: /Game/main_core/Maps/UEDPIE_0_mainmap
+[2023.03.01-15.54.01:209][871]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010956s)
+[2023.03.01-15.54.01:210][871]LogAIModule: Creating AISystem for world mainmap
+[2023.03.01-15.54.01:210][871]LogPlayLevel: PIE: World Init took: (0.001190s)
+[2023.03.01-15.54.01:210][871]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/main_core/Maps/mainmap.mainmap to /Game/main_core/Maps/UEDPIE_0_mainmap.mainmap (0.012301s)
+[2023.03.01-15.54.01:226][871]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2023.03.01-15.54.01:227][871]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2023.03.01-15.54.01:227][871]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.01-15.54.01:227][871]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.01-15.54.01:227][871]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.01-15.54.01:227][871]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.01-15.54.01:227][871]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.03.01-15.54.01:227][871]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.03.01-15.54.01:227][871]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.03.01-15.54.01:227][871]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.01-15.54.01:228][871]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.01-15.54.01:228][871]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.01-15.54.01:228][871]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.01-15.54.01:228][871]LogAudioMixer: Display: Initializing audio mixer.
+[2023.03.01-15.54.01:241][871]LogAudioMixer: Display: 0: FrontLeft
+[2023.03.01-15.54.01:241][871]LogAudioMixer: Display: 1: FrontRight
+[2023.03.01-15.54.01:262][871]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2023.03.01-15.54.01:262][871]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.01-15.54.01:262][871]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.01-15.54.01:262][871]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.01-15.54.01:263][871]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.03.01-15.54.01:263][871]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.03.01-15.54.01:263][871]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.03.01-15.54.01:264][871]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.03.01-15.54.01:264][871]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.03.01-15.54.01:264][871]LogInit: FAudioDevice initialized.
+[2023.03.01-15.54.01:264][871]LogAudio: Display: Audio Device (ID: 4) registered with world 'mainmap'.
+[2023.03.01-15.54.01:304][871]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.01-15.54.01:305][871]LogLoad: Game class is 'GameModeBase'
+[2023.03.01-15.54.01:307][871]LogWorld: Bringing World /Game/main_core/Maps/UEDPIE_0_mainmap.mainmap up for play (max tick rate 0) at 2023.03.01-15.54.01
+[2023.03.01-15.54.01:308][871]LogWorld: Bringing up level for play took: 0.002372
+[2023.03.01-15.54.01:308][871]LogOnline: OSS: Creating online subsystem instance for: :Context_6
+[2023.03.01-15.54.01:312][871]PIE: Server logged in
+[2023.03.01-15.54.01:313][871]PIE: Play in editor total start time 0.165 seconds.
+[2023.03.01-15.54.04:837][282]LogMediaAssets: Warning: test.OpenPlaylistIndex called with null MediaPlaylist
+[2023.03.01-15.54.10:914][  7]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.01-15.54.10:914][  7]LogWorld: BeginTearingDown for /Game/main_core/Maps/UEDPIE_0_mainmap
+[2023.03.01-15.54.10:914][  7]LogSlate: Window 'CIR_Nottingham Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2023.03.01-15.54.10:918][  7]LogWorld: UWorld::CleanupWorld for mainmap, bSessionEnded=true, bCleanupResources=true
+[2023.03.01-15.54.10:918][  7]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.01-15.54.10:927][  7]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.03.01-15.54.10:930][  7]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.01-15.54.10:944][  7]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.03.01-15.54.10:945][  7]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.03.01-15.54.10:950][  7]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2023.03.01-15.54.11:004][  9]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2023.03.01-15.54.15:535][498]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/main_core/tram/main_core/tram_2_1.tram_2_1
+[2023.03.01-15.55.32:874][697]LogSavePackage: Moving '../../../../../../../New folder (8)/github/Nottingham_project/CIR_Nottingham main branch 4.27 - 2/Saved/non_copy400E0F7C4D3A79380430DBB1356CA7B4.tmp' to '../../../../../../../New folder (8)/github/Nottingham_project/CIR_Nottingham main branch 4.27 - 2/Content/music/music_store/non_copy/non_copy.uasset'
+[2023.03.01-15.55.32:878][697]LogSavePackage: Moving '../../../../../../../New folder (8)/github/Nottingham_project/CIR_Nottingham main branch 4.27 - 2/Saved/non_copy_222F3E20D48D027C6F9F88C8384CBA6A8.tmp' to '../../../../../../../New folder (8)/github/Nottingham_project/CIR_Nottingham main branch 4.27 - 2/Content/music/music_store/non_copy/non_copy_2.uasset'
+[2023.03.01-15.55.32:883][697]LogSavePackage: Moving '../../../../../../../New folder (8)/github/Nottingham_project/CIR_Nottingham main branch 4.27 - 2/Saved/non_copy_3B3521A4B4CEA274FF3B4BFA123E8272A.tmp' to '../../../../../../../New folder (8)/github/Nottingham_project/CIR_Nottingham main branch 4.27 - 2/Content/music/music_store/non_copy/non_copy_3.uasset'
+[2023.03.01-15.55.32:888][697]LogSavePackage: Moving '../../../../../../../New folder (8)/github/Nottingham_project/CIR_Nottingham main branch 4.27 - 2/Saved/non_copy_40CFD59BE4BB0871D8392BB87BA22AE9C.tmp' to '../../../../../../../New folder (8)/github/Nottingham_project/CIR_Nottingham main branch 4.27 - 2/Content/music/music_store/non_copy/non_copy_4.uasset'
+[2023.03.01-15.55.32:894][697]LogSavePackage: Moving '../../../../../../../New folder (8)/github/Nottingham_project/CIR_Nottingham main branch 4.27 - 2/Saved/non_copy_57CEAE32249D13291C93EC68FF2D28E18.tmp' to '../../../../../../../New folder (8)/github/Nottingham_project/CIR_Nottingham main branch 4.27 - 2/Content/music/music_store/non_copy/non_copy_5.uasset'
+[2023.03.01-15.55.32:898][697]LogSavePackage: Moving '../../../../../../../New folder (8)/github/Nottingham_project/CIR_Nottingham main branch 4.27 - 2/Saved/non_copy_6CC353A694D8F6580DC45219642AE085B.tmp' to '../../../../../../../New folder (8)/github/Nottingham_project/CIR_Nottingham main branch 4.27 - 2/Content/music/music_store/non_copy/non_copy_6.uasset'
+[2023.03.01-15.55.32:903][697]LogSavePackage: Moving '../../../../../../../New folder (8)/github/Nottingham_project/CIR_Nottingham main branch 4.27 - 2/Saved/non_copy_78E7B638245BC6BE11FF7DB86E39099D0.tmp' to '../../../../../../../New folder (8)/github/Nottingham_project/CIR_Nottingham main branch 4.27 - 2/Content/music/music_store/non_copy/non_copy_7.uasset'
+[2023.03.01-15.55.33:022][697]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2023.03.01-15.55.33:039][697]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2023.03.01-15.55.33:054][697]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2023.03.01-15.55.33:070][697]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2023.03.01-15.55.33:085][697]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2023.03.01-15.55.33:100][697]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2023.03.01-15.55.33:116][697]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2023.03.01-15.55.33:136][697]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2023.03.01-15.55.33:152][697]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2023.03.01-15.55.33:241][697]LogSavePackage: Moving '../../../../../../../New folder (8)/github/Nottingham_project/CIR_Nottingham main branch 4.27 - 2/Saved/tram_2_1BB91385B4E51AEB9F59E568E04153CF5.tmp' to '../../../../../../../New folder (8)/github/Nottingham_project/CIR_Nottingham main branch 4.27 - 2/Content/main_core/tram/main_core/tram_2_1.uasset'
+[2023.03.01-15.55.33:292][697]AssetCheck: New page: Asset Save: multiple assets
+[2023.03.01-15.55.33:292][697]LogContentValidation: Display: Validating MediaPlaylist /Game/music/music_store/non_copy/non_copy.non_copy
+[2023.03.01-15.55.33:292][697]LogContentValidation: Display: Validating Blueprint /Game/main_core/tram/main_core/tram_2_1.tram_2_1
+[2023.03.01-15.55.33:292][697]LogContentValidation: Display: Validating MediaPlaylist /Game/music/music_store/non_copy/non_copy_7.non_copy_7
+[2023.03.01-15.55.33:292][697]LogContentValidation: Display: Validating MediaPlaylist /Game/music/music_store/non_copy/non_copy_6.non_copy_6
+[2023.03.01-15.55.33:292][697]LogContentValidation: Display: Validating MediaPlaylist /Game/music/music_store/non_copy/non_copy_5.non_copy_5
+[2023.03.01-15.55.33:292][697]LogContentValidation: Display: Validating MediaPlaylist /Game/music/music_store/non_copy/non_copy_4.non_copy_4
+[2023.03.01-15.55.33:292][697]LogContentValidation: Display: Validating MediaPlaylist /Game/music/music_store/non_copy/non_copy_3.non_copy_3
+[2023.03.01-15.55.33:292][697]LogContentValidation: Display: Validating MediaPlaylist /Game/music/music_store/non_copy/non_copy_2.non_copy_2
+[2023.03.01-15.55.43:083][863]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2023.03.01-15.55.44:689][863]LogSlate: Window 'Delete Assets' being destroyed
+[2023.03.01-15.55.44:754][863]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2023.03.01-15.55.44:774][863]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2023.03.01-15.55.44:790][863]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2023.03.01-15.55.48:723][323]LogSavePackage: Moving '../../../../../../../New folder (8)/github/Nottingham_project/CIR_Nottingham main branch 4.27 - 2/Saved/test0A12429E4D30BA0C8D96099B9F0C3387.tmp' to '../../../../../../../New folder (8)/github/Nottingham_project/CIR_Nottingham main branch 4.27 - 2/Content/music/music_store/non_copy/test.uasset'
+[2023.03.01-15.55.48:788][323]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2023.03.01-15.55.48:810][323]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2023.03.01-15.55.48:826][323]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2023.03.01-15.55.48:902][323]LogSavePackage: Moving '../../../../../../../New folder (8)/github/Nottingham_project/CIR_Nottingham main branch 4.27 - 2/Saved/tram_2_1203E54A34456BB30C056AA879A999C8A.tmp' to '../../../../../../../New folder (8)/github/Nottingham_project/CIR_Nottingham main branch 4.27 - 2/Content/main_core/tram/main_core/tram_2_1.uasset'
+[2023.03.01-15.55.48:952][323]AssetCheck: New page: Asset Save: multiple assets
+[2023.03.01-15.55.48:952][323]LogContentValidation: Display: Validating MediaPlayer /Game/music/music_store/non_copy/test.test
+[2023.03.01-15.55.48:952][323]LogContentValidation: Display: Validating Blueprint /Game/main_core/tram/main_core/tram_2_1.tram_2_1
+[2023.03.01-15.55.56:473][670]LogAssetEditorSubsystem: Opening Asset editor for MediaPlayer /Game/music/music_store/non_copy/test.test
+[2023.03.01-15.55.56:564][670]LogMaterial: Display: Missing cached shadermap for Material_4 in PCD3D_SM5, Default, SM5 (DDC key hash: 124728E8E3C1D1DAF34F746158C120D8451055E5), compiling. 
+[2023.03.01-15.55.56:614][670]LogContentBrowser: Verbose: The majority of assets in the view are of type: MediaPlaylist
+[2023.03.01-15.55.56:639][672]LogShaderCompilers: Display: Submitted 19 shader compile jobs with 'Normal' priority
+[2023.03.01-15.55.56:647][673]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 19
+[2023.03.01-15.55.56:647][673]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 16
+[2023.03.01-15.55.56:647][673]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 13
+[2023.03.01-15.55.56:647][673]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 10
+[2023.03.01-15.55.56:647][673]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 7
+[2023.03.01-15.55.56:647][673]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2023.03.01-15.55.56:647][673]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 1
+[2023.03.01-15.55.56:647][673]LogShaderCompilers: Display: Started 19 'Local' shader compile jobs with 'Normal' priority
+[2023.03.01-15.55.57:606][757]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.03.01-15.55.57:606][757]LogShaderCompilers: Display: Total job queries 104, among them cache hits 9 (8.65%)
+[2023.03.01-15.55.57:606][757]LogShaderCompilers: Display: Tracking 79 distinct input hashes that result in 18 distinct outputs (22.78%)
+[2023.03.01-15.55.57:606][757]LogShaderCompilers: Display: RAM used: 0.07 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.01%
+[2023.03.01-15.55.57:606][757]LogShaderCompilers: Display: ================================================
